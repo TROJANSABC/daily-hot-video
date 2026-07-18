@@ -1,0 +1,37 @@
+name: 每日热榜自动更新
+
+on:
+  schedule:
+    # 北京时间 9:00 = UTC 1:00
+    # GitHub Actions cron 有几分钟延迟，属正常现象
+    - cron: '0 1 * * *'
+  workflow_dispatch:  # 允许手动触发（测试用）
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 允许自动提交代码
+
+    steps:
+      - name: 拉取代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 运行采集脚本
+        env:
+          API_BASE: https://api-hot.imsyy.top  # 换成你自己的 Vercel 地址更稳定
+        run: python fetch_all.py
+
+      - name: 提交数据
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          # 只有有新数据时才提交，避免空提交
+          git diff --cached --quiet || git commit -m "Update: $(date -u +%Y-%m-%d) 热榜数据"
+          git push
