@@ -1,9 +1,9 @@
 {
   "id": "xiaohongshu",
   "name": "小红书",
-  "updatedAt": "2026-07-18T15:42:53+08:00",
+  "updatedAt": "2026-07-18T16:34:59+08:00",
   "status": "error",
   "items": [],
-  "error": "https://api-hot.imsyy.top/xiaohongshu: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)>",
+  "error": "https://api-hot.imsyy.top/xiaohongshu: <urlopen error [Errno -5] No address associated with hostname>",
   "sourceUrl": ""
 }
