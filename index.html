@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>今日热视频热榜</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Daily Hot Video</p>
+        <h1>今日热视频热榜</h1>
+      </div>
+      <div class="meta">
+        <span id="updatedAt">等待更新</span>
+        <span>每天 09:00 自动刷新</span>
+      </div>
+    </header>
+
+    <main>
+      <section class="controls" aria-label="筛选工具">
+        <div class="tabs" id="platformTabs">
+          <button class="tab is-active" data-platform="all">全部</button>
+          <button class="tab" data-platform="douyin">抖音</button>
+          <button class="tab" data-platform="kuaishou">快手</button>
+          <button class="tab" data-platform="xiaohongshu">小红书</button>
+        </div>
+        <label class="search">
+          <span>搜索</span>
+          <input id="searchInput" type="search" placeholder="输入关键词" autocomplete="off" />
+        </label>
+      </section>
+
+      <section class="status-grid" id="platformStatus" aria-label="平台状态"></section>
+
+      <section class="board">
+        <div class="board-head">
+          <h2 id="boardTitle">全部平台</h2>
+          <span id="resultCount">0 条</span>
+        </div>
+        <div class="list" id="hotList"></div>
+        <p class="empty" id="emptyState" hidden>暂时没有匹配的话题</p>
+      </section>
+    </main>
+
+    <template id="statusTemplate">
+      <article class="status-card">
+        <div>
+          <strong></strong>
+          <span></span>
+        </div>
+        <p></p>
+      </article>
+    </template>
+
+    <template id="itemTemplate">
+      <article class="hot-item">
+        <div class="rank"></div>
+        <div class="thumb"></div>
+        <div class="content">
+          <div class="item-top">
+            <span class="source"></span>
+            <span class="hot"></span>
+          </div>
+          <h3></h3>
+          <a target="_blank" rel="noreferrer">查看相关视频</a>
+        </div>
+      </article>
+    </template>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
