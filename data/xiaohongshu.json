@@ -1,7 +1,7 @@
 {
   "id": "xiaohongshu",
   "name": "小红书",
-  "updatedAt": "2026-07-27T20:45:04+08:00",
+  "updatedAt": "2026-07-28T18:16:23+08:00",
   "status": "error",
   "items": [],
   "error": "https://api-hot.imsyy.top/xiaohongshu: <urlopen error [Errno -5] No address associated with hostname>",
