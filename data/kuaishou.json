@@ -1,43 +1,22 @@
 {
   "id": "kuaishou",
   "name": "快手",
-  "updatedAt": "2026-08-30T14:20:18+08:00",
+  "updatedAt": "2026-08-31T14:48:19+08:00",
   "status": "ok",
   "items": [
     {
       "rank": 1,
-      "title": "西藏泥石流致16人遇难546人失联",
-      "hot": 12420000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E8%87%B416%E4%BA%BA%E9%81%87%E9%9A%BE546%E4%BA%BA%E5%A4%B1%E8%81%94",
-      "cover": "",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 1,
-        "title": "西藏泥石流致16人遇难546人失联",
-        "heat": "1242万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E8%87%B416%E4%BA%BA%E9%81%87%E9%9A%BE546%E4%BA%BA%E5%A4%B1%E8%81%94",
-        "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "西藏泥石流致16人遇难546人失联"
-        }
-      }
-    },
-    {
-      "rank": 2,
       "title": "西藏泥石流灾害原因已查明",
-      "hot": 12415000,
+      "hot": 11354000,
       "hotText": "",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E5%8E%9F%E5%9B%A0%E5%B7%B2%E6%9F%A5%E6%98%8E",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
-        "id": 2,
+        "id": 1,
         "title": "西藏泥石流灾害原因已查明",
-        "heat": "1241.5万",
+        "heat": "1135.4万",
         "url": "https://www.kuaishou.com/search/video?searchKey=%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E5%8E%9F%E5%9B%A0%E5%B7%B2%E6%9F%A5%E6%98%8E",
         "extra": {
           "icon": null,
@@ -47,989 +26,947 @@
       }
     },
     {
-      "rank": 3,
-      "title": "未来5年中国工业将这样干",
-      "hot": 12412000,
+      "rank": 2,
+      "title": "再见了我的暑假",
+      "hot": 11349000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%B8%9A%E5%B0%86%E8%BF%99%E6%A0%B7%E5%B9%B2",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%86%8D%E8%A7%81%E4%BA%86%E6%88%91%E7%9A%84%E6%9A%91%E5%81%87",
+      "cover": "",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 2,
+        "title": "再见了我的暑假",
+        "heat": "1134.9万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%86%8D%E8%A7%81%E4%BA%86%E6%88%91%E7%9A%84%E6%9A%91%E5%81%87",
+        "extra": {
+          "icon": null,
+          "original_url": null,
+          "origin_id": "再见了我的暑假"
+        }
+      }
+    },
+    {
+      "rank": 3,
+      "title": "吉隆口岸首个应急基站开通投用",
+      "hot": 11346000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E9%A6%96%E4%B8%AA%E5%BA%94%E6%80%A5%E5%9F%BA%E7%AB%99%E5%BC%80%E9%80%9A%E6%8A%95%E7%94%A8",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 3,
-        "title": "未来5年中国工业将这样干",
-        "heat": "1241.2万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%B8%9A%E5%B0%86%E8%BF%99%E6%A0%B7%E5%B9%B2",
+        "title": "吉隆口岸首个应急基站开通投用",
+        "heat": "1134.6万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E9%A6%96%E4%B8%AA%E5%BA%94%E6%80%A5%E5%9F%BA%E7%AB%99%E5%BC%80%E9%80%9A%E6%8A%95%E7%94%A8",
         "extra": {
           "icon": null,
           "original_url": null,
-          "origin_id": "未来5年中国工业将这样干"
+          "origin_id": "吉隆口岸首个应急基站开通投用"
         }
       }
     },
     {
       "rank": 4,
-      "title": "军训后人已变成娜塔莎",
-      "hot": 12410000,
+      "title": "重案六组消失的警号开播",
+      "hot": 11344000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%86%9B%E8%AE%AD%E5%90%8E%E4%BA%BA%E5%B7%B2%E5%8F%98%E6%88%90%E5%A8%9C%E5%A1%94%E8%8E%8E",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%87%8D%E6%A1%88%E5%85%AD%E7%BB%84%E6%B6%88%E5%A4%B1%E7%9A%84%E8%AD%A6%E5%8F%B7%E5%BC%80%E6%92%AD",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 4,
-        "title": "军训后人已变成娜塔莎",
-        "heat": "1241万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%86%9B%E8%AE%AD%E5%90%8E%E4%BA%BA%E5%B7%B2%E5%8F%98%E6%88%90%E5%A8%9C%E5%A1%94%E8%8E%8E",
+        "title": "重案六组消失的警号开播",
+        "heat": "1134.4万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E9%87%8D%E6%A1%88%E5%85%AD%E7%BB%84%E6%B6%88%E5%A4%B1%E7%9A%84%E8%AD%A6%E5%8F%B7%E5%BC%80%E6%92%AD",
         "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "军训后人已变成娜塔莎"
+          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
+          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
+          "origin_id": "重案六组消失的警号开播"
         }
       }
     },
     {
       "rank": 5,
-      "title": "小路同学成功追星小宇宙",
-      "hot": 11972000,
+      "title": "山东尔康和四川紫薇终于见面了",
+      "hot": 11344000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B0%8F%E8%B7%AF%E5%90%8C%E5%AD%A6%E6%88%90%E5%8A%9F%E8%BF%BD%E6%98%9F%E5%B0%8F%E5%AE%87%E5%AE%99",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B1%B1%E4%B8%9C%E5%B0%94%E5%BA%B7%E5%92%8C%E5%9B%9B%E5%B7%9D%E7%B4%AB%E8%96%87%E7%BB%88%E4%BA%8E%E8%A7%81%E9%9D%A2%E4%BA%86",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 5,
-        "title": "小路同学成功追星小宇宙",
-        "heat": "1197.2万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B0%8F%E8%B7%AF%E5%90%8C%E5%AD%A6%E6%88%90%E5%8A%9F%E8%BF%BD%E6%98%9F%E5%B0%8F%E5%AE%87%E5%AE%99",
+        "title": "山东尔康和四川紫薇终于见面了",
+        "heat": "1134.4万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B1%B1%E4%B8%9C%E5%B0%94%E5%BA%B7%E5%92%8C%E5%9B%9B%E5%B7%9D%E7%B4%AB%E8%96%87%E7%BB%88%E4%BA%8E%E8%A7%81%E9%9D%A2%E4%BA%86",
         "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "小路同学成功追星小宇宙"
+          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
+          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
+          "origin_id": "山东尔康和四川紫薇终于见面了"
         }
       }
     },
     {
       "rank": 6,
-      "title": "毛主席纪念堂将恢复开放",
-      "hot": 11535000,
+      "title": "日本第23轮核污水排海",
+      "hot": 11344000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%AF%9B%E4%B8%BB%E5%B8%AD%E7%BA%AA%E5%BF%B5%E5%A0%82%E5%B0%86%E6%81%A2%E5%A4%8D%E5%BC%80%E6%94%BE",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%97%A5%E6%9C%AC%E7%AC%AC23%E8%BD%AE%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 6,
-        "title": "毛主席纪念堂将恢复开放",
-        "heat": "1153.5万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%AF%9B%E4%B8%BB%E5%B8%AD%E7%BA%AA%E5%BF%B5%E5%A0%82%E5%B0%86%E6%81%A2%E5%A4%8D%E5%BC%80%E6%94%BE",
+        "title": "日本第23轮核污水排海",
+        "heat": "1134.4万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%97%A5%E6%9C%AC%E7%AC%AC23%E8%BD%AE%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7",
         "extra": {
           "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
           "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
-          "origin_id": "毛主席纪念堂将恢复开放"
+          "origin_id": "日本第23轮核污水排海"
         }
       }
     },
     {
       "rank": 7,
-      "title": "台风沙德尔罕见折向西南",
-      "hot": 11307000,
+      "title": "新规将禁未满16岁未成年人直播",
+      "hot": 10672000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E9%A3%8E%E6%B2%99%E5%BE%B7%E5%B0%94%E7%BD%95%E8%A7%81%E6%8A%98%E5%90%91%E8%A5%BF%E5%8D%97",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%96%B0%E8%A7%84%E5%B0%86%E7%A6%81%E6%9C%AA%E6%BB%A116%E5%B2%81%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9B%B4%E6%92%AD",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 7,
-        "title": "台风沙德尔罕见折向西南",
-        "heat": "1130.7万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E9%A3%8E%E6%B2%99%E5%BE%B7%E5%B0%94%E7%BD%95%E8%A7%81%E6%8A%98%E5%90%91%E8%A5%BF%E5%8D%97",
+        "title": "新规将禁未满16岁未成年人直播",
+        "heat": "1067.2万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%96%B0%E8%A7%84%E5%B0%86%E7%A6%81%E6%9C%AA%E6%BB%A116%E5%B2%81%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9B%B4%E6%92%AD",
         "extra": {
-          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
-          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
-          "origin_id": "台风沙德尔罕见折向西南"
+          "icon": null,
+          "original_url": null,
+          "origin_id": "新规将禁未满16岁未成年人直播"
         }
       }
     },
     {
       "rank": 8,
-      "title": "龚杨杰紫薯精模仿获周小闹点赞",
-      "hot": 11085000,
+      "title": "18岁女孩药物滥用致幻",
+      "hot": 10466000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%BE%9A%E6%9D%A8%E6%9D%B0%E7%B4%AB%E8%96%AF%E7%B2%BE%E6%A8%A1%E4%BB%BF%E8%8E%B7%E5%91%A8%E5%B0%8F%E9%97%B9%E7%82%B9%E8%B5%9E",
+      "url": "https://www.kuaishou.com/search/video?searchKey=18%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%8D%AF%E7%89%A9%E6%BB%A5%E7%94%A8%E8%87%B4%E5%B9%BB",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 8,
-        "title": "龚杨杰紫薯精模仿获周小闹点赞",
-        "heat": "1108.5万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E9%BE%9A%E6%9D%A8%E6%9D%B0%E7%B4%AB%E8%96%AF%E7%B2%BE%E6%A8%A1%E4%BB%BF%E8%8E%B7%E5%91%A8%E5%B0%8F%E9%97%B9%E7%82%B9%E8%B5%9E",
+        "title": "18岁女孩药物滥用致幻",
+        "heat": "1046.6万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=18%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%8D%AF%E7%89%A9%E6%BB%A5%E7%94%A8%E8%87%B4%E5%B9%BB",
         "extra": {
           "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
           "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
-          "origin_id": "龚杨杰紫薯精模仿获周小闹点赞"
+          "origin_id": "18岁女孩药物滥用致幻"
         }
       }
     },
     {
       "rank": 9,
-      "title": "杀害3人肉店老板一审死刑",
-      "hot": 10864000,
+      "title": "尼泊尔泥石流已致903死4247失联",
+      "hot": 10246000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9D%80%E5%AE%B33%E4%BA%BA%E8%82%89%E5%BA%97%E8%80%81%E6%9D%BF%E4%B8%80%E5%AE%A1%E6%AD%BB%E5%88%91",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B4903%E6%AD%BB4247%E5%A4%B1%E8%81%94",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 9,
-        "title": "杀害3人肉店老板一审死刑",
-        "heat": "1086.4万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9D%80%E5%AE%B33%E4%BA%BA%E8%82%89%E5%BA%97%E8%80%81%E6%9D%BF%E4%B8%80%E5%AE%A1%E6%AD%BB%E5%88%91",
+        "title": "尼泊尔泥石流已致903死4247失联",
+        "heat": "1024.6万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B4903%E6%AD%BB4247%E5%A4%B1%E8%81%94",
         "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "杀害3人肉店老板一审死刑"
+          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
+          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
+          "origin_id": "尼泊尔泥石流已致903死4247失联"
         }
       }
     },
     {
       "rank": 10,
-      "title": "开渔季海鲜的正确打开方式",
-      "hot": 10446000,
+      "title": "清华大学2026级本科生军训拉练",
+      "hot": 10026000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%80%E6%B8%94%E5%AD%A3%E6%B5%B7%E9%B2%9C%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A62026%E7%BA%A7%E6%9C%AC%E7%A7%91%E7%94%9F%E5%86%9B%E8%AE%AD%E6%8B%89%E7%BB%83",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 10,
-        "title": "开渔季海鲜的正确打开方式",
-        "heat": "1044.6万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%80%E6%B8%94%E5%AD%A3%E6%B5%B7%E9%B2%9C%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F",
+        "title": "清华大学2026级本科生军训拉练",
+        "heat": "1002.6万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A62026%E7%BA%A7%E6%9C%AC%E7%A7%91%E7%94%9F%E5%86%9B%E8%AE%AD%E6%8B%89%E7%BB%83",
         "extra": {
-          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
-          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
-          "origin_id": "开渔季海鲜的正确打开方式"
+          "icon": null,
+          "original_url": null,
+          "origin_id": "清华大学2026级本科生军训拉练"
         }
       }
     },
     {
       "rank": 11,
-      "title": "杜海涛和15年前的自己同频了",
-      "hot": 10274000,
+      "title": "变成护肝片被潮汕美食拿捏",
+      "hot": 9901000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9D%9C%E6%B5%B7%E6%B6%9B%E5%92%8C15%E5%B9%B4%E5%89%8D%E7%9A%84%E8%87%AA%E5%B7%B1%E5%90%8C%E9%A2%91%E4%BA%86",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%98%E6%88%90%E6%8A%A4%E8%82%9D%E7%89%87%E8%A2%AB%E6%BD%AE%E6%B1%95%E7%BE%8E%E9%A3%9F%E6%8B%BF%E6%8D%8F",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 11,
-        "title": "杜海涛和15年前的自己同频了",
-        "heat": "1027.4万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9D%9C%E6%B5%B7%E6%B6%9B%E5%92%8C15%E5%B9%B4%E5%89%8D%E7%9A%84%E8%87%AA%E5%B7%B1%E5%90%8C%E9%A2%91%E4%BA%86",
+        "title": "变成护肝片被潮汕美食拿捏",
+        "heat": "990.1万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%98%E6%88%90%E6%8A%A4%E8%82%9D%E7%89%87%E8%A2%AB%E6%BD%AE%E6%B1%95%E7%BE%8E%E9%A3%9F%E6%8B%BF%E6%8D%8F",
         "extra": {
-          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_exclusive3x.png",
-          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_exclusive3x.png",
-          "origin_id": "杜海涛和15年前的自己同频了"
+          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
+          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
+          "origin_id": "变成护肝片被潮汕美食拿捏"
         }
       }
     },
     {
       "rank": 12,
-      "title": "沉浸式体验开学查暑假作业",
-      "hot": 10216000,
+      "title": "斯诺侄子重走长征路",
+      "hot": 9776000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E5%BC%80%E5%AD%A6%E6%9F%A5%E6%9A%91%E5%81%87%E4%BD%9C%E4%B8%9A",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%96%AF%E8%AF%BA%E4%BE%84%E5%AD%90%E9%87%8D%E8%B5%B0%E9%95%BF%E5%BE%81%E8%B7%AF",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 12,
-        "title": "沉浸式体验开学查暑假作业",
-        "heat": "1021.6万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E5%BC%80%E5%AD%A6%E6%9F%A5%E6%9A%91%E5%81%87%E4%BD%9C%E4%B8%9A",
+        "title": "斯诺侄子重走长征路",
+        "heat": "977.6万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%96%AF%E8%AF%BA%E4%BE%84%E5%AD%90%E9%87%8D%E8%B5%B0%E9%95%BF%E5%BE%81%E8%B7%AF",
         "extra": {
           "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
           "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
-          "origin_id": "沉浸式体验开学查暑假作业"
+          "origin_id": "斯诺侄子重走长征路"
         }
       }
     },
     {
       "rank": 13,
-      "title": "樊振东一天扛下超百万票房",
-      "hot": 10189000,
+      "title": "和平精英神级操作",
+      "hot": 9749000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%80%E5%A4%A9%E6%89%9B%E4%B8%8B%E8%B6%85%E7%99%BE%E4%B8%87%E7%A5%A8%E6%88%BF",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E7%A5%9E%E7%BA%A7%E6%93%8D%E4%BD%9C",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 13,
-        "title": "樊振东一天扛下超百万票房",
-        "heat": "1018.9万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%80%E5%A4%A9%E6%89%9B%E4%B8%8B%E8%B6%85%E7%99%BE%E4%B8%87%E7%A5%A8%E6%88%BF",
+        "title": "和平精英神级操作",
+        "heat": "974.9万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E7%A5%9E%E7%BA%A7%E6%93%8D%E4%BD%9C",
         "extra": {
           "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
           "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
-          "origin_id": "樊振东一天扛下超百万票房"
+          "origin_id": "和平精英神级操作"
         }
       }
     },
     {
       "rank": 14,
-      "title": "日本援12国装备牵制中国",
-      "hot": 10136000,
+      "title": "杜海涛十五年前就在玩快手了",
+      "hot": 9710000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%97%A5%E6%9C%AC%E6%8F%B412%E5%9B%BD%E8%A3%85%E5%A4%87%E7%89%B5%E5%88%B6%E4%B8%AD%E5%9B%BD",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9D%9C%E6%B5%B7%E6%B6%9B%E5%8D%81%E4%BA%94%E5%B9%B4%E5%89%8D%E5%B0%B1%E5%9C%A8%E7%8E%A9%E5%BF%AB%E6%89%8B%E4%BA%86",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 14,
-        "title": "日本援12国装备牵制中国",
-        "heat": "1013.6万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%97%A5%E6%9C%AC%E6%8F%B412%E5%9B%BD%E8%A3%85%E5%A4%87%E7%89%B5%E5%88%B6%E4%B8%AD%E5%9B%BD",
+        "title": "杜海涛十五年前就在玩快手了",
+        "heat": "971万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9D%9C%E6%B5%B7%E6%B6%9B%E5%8D%81%E4%BA%94%E5%B9%B4%E5%89%8D%E5%B0%B1%E5%9C%A8%E7%8E%A9%E5%BF%AB%E6%89%8B%E4%BA%86",
         "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "日本援12国装备牵制中国"
+          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_exclusive3x.png",
+          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_exclusive3x.png",
+          "origin_id": "杜海涛十五年前就在玩快手了"
         }
       }
     },
     {
       "rank": 15,
-      "title": "厄瓜多尔全国进入红色警戒状态",
-      "hot": 10085000,
+      "title": "求大师指点",
+      "hot": 9642000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E5%85%A8%E5%9B%BD%E8%BF%9B%E5%85%A5%E7%BA%A2%E8%89%B2%E8%AD%A6%E6%88%92%E7%8A%B6%E6%80%81",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B1%82%E5%A4%A7%E5%B8%88%E6%8C%87%E7%82%B9",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 15,
-        "title": "厄瓜多尔全国进入红色警戒状态",
-        "heat": "1008.5万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E5%85%A8%E5%9B%BD%E8%BF%9B%E5%85%A5%E7%BA%A2%E8%89%B2%E8%AD%A6%E6%88%92%E7%8A%B6%E6%80%81",
+        "title": "求大师指点",
+        "heat": "964.2万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B1%82%E5%A4%A7%E5%B8%88%E6%8C%87%E7%82%B9",
         "extra": {
           "icon": null,
           "original_url": null,
-          "origin_id": "厄瓜多尔全国进入红色警戒状态"
+          "origin_id": "求大师指点"
         }
       }
     },
     {
       "rank": 16,
-      "title": "开渔季带娃赶海有多快乐",
-      "hot": 10065000,
+      "title": "直击钱塘江“鬼王潮”",
+      "hot": 9619000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%80%E6%B8%94%E5%AD%A3%E5%B8%A6%E5%A8%83%E8%B5%B6%E6%B5%B7%E6%9C%89%E5%A4%9A%E5%BF%AB%E4%B9%90",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%9B%B4%E5%87%BB%E9%92%B1%E5%A1%98%E6%B1%9F%E2%80%9C%E9%AC%BC%E7%8E%8B%E6%BD%AE%E2%80%9D",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 16,
-        "title": "开渔季带娃赶海有多快乐",
-        "heat": "1006.5万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%80%E6%B8%94%E5%AD%A3%E5%B8%A6%E5%A8%83%E8%B5%B6%E6%B5%B7%E6%9C%89%E5%A4%9A%E5%BF%AB%E4%B9%90",
+        "title": "直击钱塘江“鬼王潮”",
+        "heat": "961.9万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E7%9B%B4%E5%87%BB%E9%92%B1%E5%A1%98%E6%B1%9F%E2%80%9C%E9%AC%BC%E7%8E%8B%E6%BD%AE%E2%80%9D",
         "extra": {
-          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
-          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
-          "origin_id": "开渔季带娃赶海有多快乐"
+          "icon": null,
+          "original_url": null,
+          "origin_id": "直击钱塘江“鬼王潮”"
         }
       }
     },
     {
       "rank": 17,
-      "title": "开学回宿舍的我",
-      "hot": 10039000,
+      "title": "中国女排2比3泰国女排",
+      "hot": 9590000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%80%E5%AD%A6%E5%9B%9E%E5%AE%BF%E8%88%8D%E7%9A%84%E6%88%91",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%922%E6%AF%943%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%8E%92",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 17,
-        "title": "开学回宿舍的我",
-        "heat": "1003.9万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%80%E5%AD%A6%E5%9B%9E%E5%AE%BF%E8%88%8D%E7%9A%84%E6%88%91",
+        "title": "中国女排2比3泰国女排",
+        "heat": "959万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%922%E6%AF%943%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%8E%92",
         "extra": {
           "icon": null,
           "original_url": null,
-          "origin_id": "开学回宿舍的我"
+          "origin_id": "中国女排2比3泰国女排"
         }
       }
     },
     {
       "rank": 18,
-      "title": "俄罗斯巴士追尾致5死38伤",
-      "hot": 10018000,
+      "title": "有一种离别叫孩子开学了",
+      "hot": 9544000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BF%84%E7%BD%97%E6%96%AF%E5%B7%B4%E5%A3%AB%E8%BF%BD%E5%B0%BE%E8%87%B45%E6%AD%BB38%E4%BC%A4",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9C%89%E4%B8%80%E7%A7%8D%E7%A6%BB%E5%88%AB%E5%8F%AB%E5%AD%A9%E5%AD%90%E5%BC%80%E5%AD%A6%E4%BA%86",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 18,
-        "title": "俄罗斯巴士追尾致5死38伤",
-        "heat": "1001.8万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BF%84%E7%BD%97%E6%96%AF%E5%B7%B4%E5%A3%AB%E8%BF%BD%E5%B0%BE%E8%87%B45%E6%AD%BB38%E4%BC%A4",
+        "title": "有一种离别叫孩子开学了",
+        "heat": "954.4万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9C%89%E4%B8%80%E7%A7%8D%E7%A6%BB%E5%88%AB%E5%8F%AB%E5%AD%A9%E5%AD%90%E5%BC%80%E5%AD%A6%E4%BA%86",
         "extra": {
-          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
-          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
-          "origin_id": "俄罗斯巴士追尾致5死38伤"
+          "icon": null,
+          "original_url": null,
+          "origin_id": "有一种离别叫孩子开学了"
         }
       }
     },
     {
       "rank": 19,
-      "title": "那英JUMPPARK彩排",
-      "hot": 9994000,
+      "title": "俄乌两军红利曼激战",
+      "hot": 9519000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%82%A3%E8%8B%B1JUMPPARK%E5%BD%A9%E6%8E%92",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BF%84%E4%B9%8C%E4%B8%A4%E5%86%9B%E7%BA%A2%E5%88%A9%E6%9B%BC%E6%BF%80%E6%88%98",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 19,
-        "title": "那英JUMPPARK彩排",
-        "heat": "999.4万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E9%82%A3%E8%8B%B1JUMPPARK%E5%BD%A9%E6%8E%92",
+        "title": "俄乌两军红利曼激战",
+        "heat": "951.9万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BF%84%E4%B9%8C%E4%B8%A4%E5%86%9B%E7%BA%A2%E5%88%A9%E6%9B%BC%E6%BF%80%E6%88%98",
         "extra": {
-          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
-          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
-          "origin_id": "那英JUMPPARK彩排"
+          "icon": null,
+          "original_url": null,
+          "origin_id": "俄乌两军红利曼激战"
         }
       }
     },
     {
       "rank": 20,
-      "title": "多所高校推行学分瘦身",
-      "hot": 9971000,
+      "title": "92岁大爷夺跳远世界冠军",
+      "hot": 9494000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E6%8E%A8%E8%A1%8C%E5%AD%A6%E5%88%86%E7%98%A6%E8%BA%AB",
+      "url": "https://www.kuaishou.com/search/video?searchKey=92%E5%B2%81%E5%A4%A7%E7%88%B7%E5%A4%BA%E8%B7%B3%E8%BF%9C%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 20,
-        "title": "多所高校推行学分瘦身",
-        "heat": "997.1万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E6%8E%A8%E8%A1%8C%E5%AD%A6%E5%88%86%E7%98%A6%E8%BA%AB",
+        "title": "92岁大爷夺跳远世界冠军",
+        "heat": "949.4万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=92%E5%B2%81%E5%A4%A7%E7%88%B7%E5%A4%BA%E8%B7%B3%E8%BF%9C%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B",
         "extra": {
-          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
-          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
-          "origin_id": "多所高校推行学分瘦身"
+          "icon": null,
+          "original_url": null,
+          "origin_id": "92岁大爷夺跳远世界冠军"
         }
       }
     },
     {
       "rank": 21,
-      "title": "中国海警位黄岩岛领海执法巡查",
-      "hot": 9948000,
+      "title": "川麻明星联赛总决赛阶段高光集锦",
+      "hot": 9468000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E4%BD%8D%E9%BB%84%E5%B2%A9%E5%B2%9B%E9%A2%86%E6%B5%B7%E6%89%A7%E6%B3%95%E5%B7%A1%E6%9F%A5",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B7%9D%E9%BA%BB%E6%98%8E%E6%98%9F%E8%81%94%E8%B5%9B%E6%80%BB%E5%86%B3%E8%B5%9B%E9%98%B6%E6%AE%B5%E9%AB%98%E5%85%89%E9%9B%86%E9%94%A6",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 21,
-        "title": "中国海警位黄岩岛领海执法巡查",
-        "heat": "994.8万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E4%BD%8D%E9%BB%84%E5%B2%A9%E5%B2%9B%E9%A2%86%E6%B5%B7%E6%89%A7%E6%B3%95%E5%B7%A1%E6%9F%A5",
+        "title": "川麻明星联赛总决赛阶段高光集锦",
+        "heat": "946.8万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B7%9D%E9%BA%BB%E6%98%8E%E6%98%9F%E8%81%94%E8%B5%9B%E6%80%BB%E5%86%B3%E8%B5%9B%E9%98%B6%E6%AE%B5%E9%AB%98%E5%85%89%E9%9B%86%E9%94%A6",
         "extra": {
           "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
           "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
-          "origin_id": "中国海警位黄岩岛领海执法巡查"
+          "origin_id": "川麻明星联赛总决赛阶段高光集锦"
         }
       }
     },
     {
       "rank": 22,
-      "title": "李国忠当选中共贺州市委书记",
-      "hot": 9918000,
+      "title": "郑丽文向西藏灾区捐200万新台币",
+      "hot": 9443000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9D%8E%E5%9B%BD%E5%BF%A0%E5%BD%93%E9%80%89%E4%B8%AD%E5%85%B1%E8%B4%BA%E5%B7%9E%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%83%91%E4%B8%BD%E6%96%87%E5%90%91%E8%A5%BF%E8%97%8F%E7%81%BE%E5%8C%BA%E6%8D%90200%E4%B8%87%E6%96%B0%E5%8F%B0%E5%B8%81",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 22,
-        "title": "李国忠当选中共贺州市委书记",
-        "heat": "991.8万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9D%8E%E5%9B%BD%E5%BF%A0%E5%BD%93%E9%80%89%E4%B8%AD%E5%85%B1%E8%B4%BA%E5%B7%9E%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0",
+        "title": "郑丽文向西藏灾区捐200万新台币",
+        "heat": "944.3万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E9%83%91%E4%B8%BD%E6%96%87%E5%90%91%E8%A5%BF%E8%97%8F%E7%81%BE%E5%8C%BA%E6%8D%90200%E4%B8%87%E6%96%B0%E5%8F%B0%E5%B8%81",
         "extra": {
-          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
-          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
-          "origin_id": "李国忠当选中共贺州市委书记"
+          "icon": null,
+          "original_url": null,
+          "origin_id": "郑丽文向西藏灾区捐200万新台币"
         }
       }
     },
     {
       "rank": 23,
-      "title": "周小闹才是真正的光合落地签",
-      "hot": 9885000,
+      "title": "10岁男孩烧纸壳引火灾",
+      "hot": 9360000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%91%A8%E5%B0%8F%E9%97%B9%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%85%89%E5%90%88%E8%90%BD%E5%9C%B0%E7%AD%BE",
+      "url": "https://www.kuaishou.com/search/video?searchKey=10%E5%B2%81%E7%94%B7%E5%AD%A9%E7%83%A7%E7%BA%B8%E5%A3%B3%E5%BC%95%E7%81%AB%E7%81%BE",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 23,
-        "title": "周小闹才是真正的光合落地签",
-        "heat": "988.5万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%91%A8%E5%B0%8F%E9%97%B9%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%85%89%E5%90%88%E8%90%BD%E5%9C%B0%E7%AD%BE",
+        "title": "10岁男孩烧纸壳引火灾",
+        "heat": "936万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=10%E5%B2%81%E7%94%B7%E5%AD%A9%E7%83%A7%E7%BA%B8%E5%A3%B3%E5%BC%95%E7%81%AB%E7%81%BE",
         "extra": {
-          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_exclusive3x.png",
-          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_exclusive3x.png",
-          "origin_id": "周小闹才是真正的光合落地签"
+          "icon": null,
+          "original_url": null,
+          "origin_id": "10岁男孩烧纸壳引火灾"
         }
       }
     },
     {
       "rank": 24,
-      "title": "妻子婚后太作丈夫提离婚",
-      "hot": 9868000,
+      "title": "娜扎完全适配恶女赛道",
+      "hot": 9321000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A6%BB%E5%AD%90%E5%A9%9A%E5%90%8E%E5%A4%AA%E4%BD%9C%E4%B8%88%E5%A4%AB%E6%8F%90%E7%A6%BB%E5%A9%9A",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A8%9C%E6%89%8E%E5%AE%8C%E5%85%A8%E9%80%82%E9%85%8D%E6%81%B6%E5%A5%B3%E8%B5%9B%E9%81%93",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 24,
-        "title": "妻子婚后太作丈夫提离婚",
-        "heat": "986.8万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A6%BB%E5%AD%90%E5%A9%9A%E5%90%8E%E5%A4%AA%E4%BD%9C%E4%B8%88%E5%A4%AB%E6%8F%90%E7%A6%BB%E5%A9%9A",
+        "title": "娜扎完全适配恶女赛道",
+        "heat": "932.1万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A8%9C%E6%89%8E%E5%AE%8C%E5%85%A8%E9%80%82%E9%85%8D%E6%81%B6%E5%A5%B3%E8%B5%9B%E9%81%93",
         "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "妻子婚后太作丈夫提离婚"
+          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
+          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
+          "origin_id": "娜扎完全适配恶女赛道"
         }
       }
     },
     {
       "rank": 25,
-      "title": "央视曝光注射生长因子毁容",
-      "hot": 9852000,
+      "title": "哈尔滨现220斤金枪鱼",
+      "hot": 9281000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%B3%A8%E5%B0%84%E7%94%9F%E9%95%BF%E5%9B%A0%E5%AD%90%E6%AF%81%E5%AE%B9",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%93%88%E5%B0%94%E6%BB%A8%E7%8E%B0220%E6%96%A4%E9%87%91%E6%9E%AA%E9%B1%BC",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 25,
-        "title": "央视曝光注射生长因子毁容",
-        "heat": "985.2万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%B3%A8%E5%B0%84%E7%94%9F%E9%95%BF%E5%9B%A0%E5%AD%90%E6%AF%81%E5%AE%B9",
+        "title": "哈尔滨现220斤金枪鱼",
+        "heat": "928.1万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%93%88%E5%B0%94%E6%BB%A8%E7%8E%B0220%E6%96%A4%E9%87%91%E6%9E%AA%E9%B1%BC",
         "extra": {
           "icon": null,
           "original_url": null,
-          "origin_id": "央视曝光注射生长因子毁容"
+          "origin_id": "哈尔滨现220斤金枪鱼"
         }
       }
     },
     {
       "rank": 26,
-      "title": "欧洲留学生寻赣南师大恩师",
-      "hot": 9769000,
+      "title": "安康消防解救被困小猫",
+      "hot": 9254000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%AC%A7%E6%B4%B2%E7%95%99%E5%AD%A6%E7%94%9F%E5%AF%BB%E8%B5%A3%E5%8D%97%E5%B8%88%E5%A4%A7%E6%81%A9%E5%B8%88",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%AE%89%E5%BA%B7%E6%B6%88%E9%98%B2%E8%A7%A3%E6%95%91%E8%A2%AB%E5%9B%B0%E5%B0%8F%E7%8C%AB",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 26,
-        "title": "欧洲留学生寻赣南师大恩师",
-        "heat": "976.9万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%AC%A7%E6%B4%B2%E7%95%99%E5%AD%A6%E7%94%9F%E5%AF%BB%E8%B5%A3%E5%8D%97%E5%B8%88%E5%A4%A7%E6%81%A9%E5%B8%88",
+        "title": "安康消防解救被困小猫",
+        "heat": "925.4万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%AE%89%E5%BA%B7%E6%B6%88%E9%98%B2%E8%A7%A3%E6%95%91%E8%A2%AB%E5%9B%B0%E5%B0%8F%E7%8C%AB",
         "extra": {
           "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
           "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
-          "origin_id": "欧洲留学生寻赣南师大恩师"
+          "origin_id": "安康消防解救被困小猫"
         }
       }
     },
     {
       "rank": 27,
-      "title": "2孩损坏标本父亲跟着闹",
-      "hot": 9688000,
+      "title": "孙东旭新公司年假30天",
+      "hot": 9232000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=2%E5%AD%A9%E6%8D%9F%E5%9D%8F%E6%A0%87%E6%9C%AC%E7%88%B6%E4%BA%B2%E8%B7%9F%E7%9D%80%E9%97%B9",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%AD%99%E4%B8%9C%E6%97%AD%E6%96%B0%E5%85%AC%E5%8F%B8%E5%B9%B4%E5%81%8730%E5%A4%A9",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 27,
-        "title": "2孩损坏标本父亲跟着闹",
-        "heat": "968.8万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=2%E5%AD%A9%E6%8D%9F%E5%9D%8F%E6%A0%87%E6%9C%AC%E7%88%B6%E4%BA%B2%E8%B7%9F%E7%9D%80%E9%97%B9",
+        "title": "孙东旭新公司年假30天",
+        "heat": "923.2万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%AD%99%E4%B8%9C%E6%97%AD%E6%96%B0%E5%85%AC%E5%8F%B8%E5%B9%B4%E5%81%8730%E5%A4%A9",
         "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "2孩损坏标本父亲跟着闹"
+          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
+          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
+          "origin_id": "孙东旭新公司年假30天"
         }
       }
     },
     {
       "rank": 28,
-      "title": "当大学生收到生活费故意不领时",
-      "hot": 9650000,
+      "title": "涉杀人中国讲师信息或公开",
+      "hot": 9178000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BD%93%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%94%B6%E5%88%B0%E7%94%9F%E6%B4%BB%E8%B4%B9%E6%95%85%E6%84%8F%E4%B8%8D%E9%A2%86%E6%97%B6",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B6%89%E6%9D%80%E4%BA%BA%E4%B8%AD%E5%9B%BD%E8%AE%B2%E5%B8%88%E4%BF%A1%E6%81%AF%E6%88%96%E5%85%AC%E5%BC%80",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 28,
-        "title": "当大学生收到生活费故意不领时",
-        "heat": "965万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BD%93%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%94%B6%E5%88%B0%E7%94%9F%E6%B4%BB%E8%B4%B9%E6%95%85%E6%84%8F%E4%B8%8D%E9%A2%86%E6%97%B6",
+        "title": "涉杀人中国讲师信息或公开",
+        "heat": "917.8万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B6%89%E6%9D%80%E4%BA%BA%E4%B8%AD%E5%9B%BD%E8%AE%B2%E5%B8%88%E4%BF%A1%E6%81%AF%E6%88%96%E5%85%AC%E5%BC%80",
         "extra": {
           "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
           "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
-          "origin_id": "当大学生收到生活费故意不领时"
+          "origin_id": "涉杀人中国讲师信息或公开"
         }
       }
     },
     {
       "rank": 29,
-      "title": "日本“受害者”人设沦为国际笑柄",
-      "hot": 9612000,
+      "title": "西藏警察救援一句话让人泪崩",
+      "hot": 9128000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%97%A5%E6%9C%AC%E2%80%9C%E5%8F%97%E5%AE%B3%E8%80%85%E2%80%9D%E4%BA%BA%E8%AE%BE%E6%B2%A6%E4%B8%BA%E5%9B%BD%E9%99%85%E7%AC%91%E6%9F%84",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%A5%BF%E8%97%8F%E8%AD%A6%E5%AF%9F%E6%95%91%E6%8F%B4%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%AE%A9%E4%BA%BA%E6%B3%AA%E5%B4%A9",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 29,
-        "title": "日本“受害者”人设沦为国际笑柄",
-        "heat": "961.2万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%97%A5%E6%9C%AC%E2%80%9C%E5%8F%97%E5%AE%B3%E8%80%85%E2%80%9D%E4%BA%BA%E8%AE%BE%E6%B2%A6%E4%B8%BA%E5%9B%BD%E9%99%85%E7%AC%91%E6%9F%84",
+        "title": "西藏警察救援一句话让人泪崩",
+        "heat": "912.8万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E8%A5%BF%E8%97%8F%E8%AD%A6%E5%AF%9F%E6%95%91%E6%8F%B4%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%AE%A9%E4%BA%BA%E6%B3%AA%E5%B4%A9",
         "extra": {
           "icon": null,
           "original_url": null,
-          "origin_id": "日本“受害者”人设沦为国际笑柄"
+          "origin_id": "西藏警察救援一句话让人泪崩"
         }
       }
     },
     {
       "rank": 30,
-      "title": "男生跳抽象舞被踹一脚",
-      "hot": 9575000,
+      "title": "为何多国领导人来华留学",
+      "hot": 9105000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%B7%E7%94%9F%E8%B7%B3%E6%8A%BD%E8%B1%A1%E8%88%9E%E8%A2%AB%E8%B8%B9%E4%B8%80%E8%84%9A",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%BA%E4%BD%95%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%9D%A5%E5%8D%8E%E7%95%99%E5%AD%A6",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 30,
-        "title": "男生跳抽象舞被踹一脚",
-        "heat": "957.5万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%B7%E7%94%9F%E8%B7%B3%E6%8A%BD%E8%B1%A1%E8%88%9E%E8%A2%AB%E8%B8%B9%E4%B8%80%E8%84%9A",
+        "title": "为何多国领导人来华留学",
+        "heat": "910.5万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%BA%E4%BD%95%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%9D%A5%E5%8D%8E%E7%95%99%E5%AD%A6",
         "extra": {
           "icon": null,
           "original_url": null,
-          "origin_id": "男生跳抽象舞被踹一脚"
+          "origin_id": "为何多国领导人来华留学"
         }
       }
     },
     {
       "rank": 31,
-      "title": "西藏公布为失联人员家属服务热线",
-      "hot": 9557000,
+      "title": "李白是谁",
+      "hot": 9085000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%A5%BF%E8%97%8F%E5%85%AC%E5%B8%83%E4%B8%BA%E5%A4%B1%E8%81%94%E4%BA%BA%E5%91%98%E5%AE%B6%E5%B1%9E%E6%9C%8D%E5%8A%A1%E7%83%AD%E7%BA%BF",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9D%8E%E7%99%BD%E6%98%AF%E8%B0%81",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 31,
-        "title": "西藏公布为失联人员家属服务热线",
-        "heat": "955.7万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E8%A5%BF%E8%97%8F%E5%85%AC%E5%B8%83%E4%B8%BA%E5%A4%B1%E8%81%94%E4%BA%BA%E5%91%98%E5%AE%B6%E5%B1%9E%E6%9C%8D%E5%8A%A1%E7%83%AD%E7%BA%BF",
+        "title": "李白是谁",
+        "heat": "908.5万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9D%8E%E7%99%BD%E6%98%AF%E8%B0%81",
         "extra": {
           "icon": null,
           "original_url": null,
-          "origin_id": "西藏公布为失联人员家属服务热线"
+          "origin_id": "李白是谁"
         }
       }
     },
     {
       "rank": 32,
-      "title": "王菲李嫣看窦靖童演出",
-      "hot": 9538000,
+      "title": "大一新生骑行三省上大学",
+      "hot": 9059000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%8E%8B%E8%8F%B2%E6%9D%8E%E5%AB%A3%E7%9C%8B%E7%AA%A6%E9%9D%96%E7%AB%A5%E6%BC%94%E5%87%BA",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%A7%E4%B8%80%E6%96%B0%E7%94%9F%E9%AA%91%E8%A1%8C%E4%B8%89%E7%9C%81%E4%B8%8A%E5%A4%A7%E5%AD%A6",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 32,
-        "title": "王菲李嫣看窦靖童演出",
-        "heat": "953.8万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E7%8E%8B%E8%8F%B2%E6%9D%8E%E5%AB%A3%E7%9C%8B%E7%AA%A6%E9%9D%96%E7%AB%A5%E6%BC%94%E5%87%BA",
+        "title": "大一新生骑行三省上大学",
+        "heat": "905.9万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%A7%E4%B8%80%E6%96%B0%E7%94%9F%E9%AA%91%E8%A1%8C%E4%B8%89%E7%9C%81%E4%B8%8A%E5%A4%A7%E5%AD%A6",
         "extra": {
           "icon": null,
           "original_url": null,
-          "origin_id": "王菲李嫣看窦靖童演出"
+          "origin_id": "大一新生骑行三省上大学"
         }
       }
     },
     {
       "rank": 33,
-      "title": "男子家暴致死案将再开庭",
-      "hot": 9489000,
+      "title": "皇马4比0马拉加",
+      "hot": 9033000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%B7%E5%AD%90%E5%AE%B6%E6%9A%B4%E8%87%B4%E6%AD%BB%E6%A1%88%E5%B0%86%E5%86%8D%E5%BC%80%E5%BA%AD",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%9A%87%E9%A9%AC4%E6%AF%940%E9%A9%AC%E6%8B%89%E5%8A%A0",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 33,
-        "title": "男子家暴致死案将再开庭",
-        "heat": "948.9万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%B7%E5%AD%90%E5%AE%B6%E6%9A%B4%E8%87%B4%E6%AD%BB%E6%A1%88%E5%B0%86%E5%86%8D%E5%BC%80%E5%BA%AD",
+        "title": "皇马4比0马拉加",
+        "heat": "903.3万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E7%9A%87%E9%A9%AC4%E6%AF%940%E9%A9%AC%E6%8B%89%E5%8A%A0",
         "extra": {
           "icon": null,
           "original_url": null,
-          "origin_id": "男子家暴致死案将再开庭"
+          "origin_id": "皇马4比0马拉加"
         }
       }
     },
     {
       "rank": 34,
-      "title": "男生军训模仿士兵突击",
-      "hot": 9441000,
+      "title": "760元片仔癀卖不动了",
+      "hot": 9011000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%B7%E7%94%9F%E5%86%9B%E8%AE%AD%E6%A8%A1%E4%BB%BF%E5%A3%AB%E5%85%B5%E7%AA%81%E5%87%BB",
+      "url": "https://www.kuaishou.com/search/video?searchKey=760%E5%85%83%E7%89%87%E4%BB%94%E7%99%80%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 34,
-        "title": "男生军训模仿士兵突击",
-        "heat": "944.1万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%B7%E7%94%9F%E5%86%9B%E8%AE%AD%E6%A8%A1%E4%BB%BF%E5%A3%AB%E5%85%B5%E7%AA%81%E5%87%BB",
+        "title": "760元片仔癀卖不动了",
+        "heat": "901.1万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=760%E5%85%83%E7%89%87%E4%BB%94%E7%99%80%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
         "extra": {
           "icon": null,
           "original_url": null,
-          "origin_id": "男生军训模仿士兵突击"
+          "origin_id": "760元片仔癀卖不动了"
         }
       }
     },
     {
       "rank": 35,
-      "title": "叙利亚总统刷卡买咖啡",
-      "hot": 9391000,
+      "title": "2人躺后备箱跑高速被查",
+      "hot": 8987000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%99%E5%88%A9%E4%BA%9A%E6%80%BB%E7%BB%9F%E5%88%B7%E5%8D%A1%E4%B9%B0%E5%92%96%E5%95%A1",
+      "url": "https://www.kuaishou.com/search/video?searchKey=2%E4%BA%BA%E8%BA%BA%E5%90%8E%E5%A4%87%E7%AE%B1%E8%B7%91%E9%AB%98%E9%80%9F%E8%A2%AB%E6%9F%A5",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 35,
-        "title": "叙利亚总统刷卡买咖啡",
-        "heat": "939.1万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%99%E5%88%A9%E4%BA%9A%E6%80%BB%E7%BB%9F%E5%88%B7%E5%8D%A1%E4%B9%B0%E5%92%96%E5%95%A1",
+        "title": "2人躺后备箱跑高速被查",
+        "heat": "898.7万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=2%E4%BA%BA%E8%BA%BA%E5%90%8E%E5%A4%87%E7%AE%B1%E8%B7%91%E9%AB%98%E9%80%9F%E8%A2%AB%E6%9F%A5",
         "extra": {
           "icon": null,
           "original_url": null,
-          "origin_id": "叙利亚总统刷卡买咖啡"
+          "origin_id": "2人躺后备箱跑高速被查"
         }
       }
     },
     {
       "rank": 36,
-      "title": "比尔盖茨警告AI风险",
-      "hot": 9336000,
+      "title": "刚果金埃博拉疫情持续蔓延",
+      "hot": 8958000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E8%AD%A6%E5%91%8AAI%E9%A3%8E%E9%99%A9",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%88%9A%E6%9E%9C%E9%87%91%E5%9F%83%E5%8D%9A%E6%8B%89%E7%96%AB%E6%83%85%E6%8C%81%E7%BB%AD%E8%94%93%E5%BB%B6",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 36,
-        "title": "比尔盖茨警告AI风险",
-        "heat": "933.6万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E8%AD%A6%E5%91%8AAI%E9%A3%8E%E9%99%A9",
+        "title": "刚果金埃博拉疫情持续蔓延",
+        "heat": "895.8万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%88%9A%E6%9E%9C%E9%87%91%E5%9F%83%E5%8D%9A%E6%8B%89%E7%96%AB%E6%83%85%E6%8C%81%E7%BB%AD%E8%94%93%E5%BB%B6",
         "extra": {
           "icon": null,
           "original_url": null,
-          "origin_id": "比尔盖茨警告AI风险"
+          "origin_id": "刚果金埃博拉疫情持续蔓延"
         }
       }
     },
     {
       "rank": 37,
-      "title": "男子骗母亲黄昏恋对象",
-      "hot": 9313000,
+      "title": "陈粒回应疑似被性骚扰",
+      "hot": 8881000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%B7%E5%AD%90%E9%AA%97%E6%AF%8D%E4%BA%B2%E9%BB%84%E6%98%8F%E6%81%8B%E5%AF%B9%E8%B1%A1",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%99%88%E7%B2%92%E5%9B%9E%E5%BA%94%E7%96%91%E4%BC%BC%E8%A2%AB%E6%80%A7%E9%AA%9A%E6%89%B0",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 37,
-        "title": "男子骗母亲黄昏恋对象",
-        "heat": "931.3万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%B7%E5%AD%90%E9%AA%97%E6%AF%8D%E4%BA%B2%E9%BB%84%E6%98%8F%E6%81%8B%E5%AF%B9%E8%B1%A1",
+        "title": "陈粒回应疑似被性骚扰",
+        "heat": "888.1万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E9%99%88%E7%B2%92%E5%9B%9E%E5%BA%94%E7%96%91%E4%BC%BC%E8%A2%AB%E6%80%A7%E9%AA%9A%E6%89%B0",
         "extra": {
           "icon": null,
           "original_url": null,
-          "origin_id": "男子骗母亲黄昏恋对象"
+          "origin_id": "陈粒回应疑似被性骚扰"
         }
       }
     },
     {
       "rank": 38,
-      "title": "小宇宙光合大会vlog",
-      "hot": 9288000,
+      "title": "马杜罗发监狱照传递希望",
+      "hot": 8857000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B0%8F%E5%AE%87%E5%AE%99%E5%85%89%E5%90%88%E5%A4%A7%E4%BC%9Avlog",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%8F%91%E7%9B%91%E7%8B%B1%E7%85%A7%E4%BC%A0%E9%80%92%E5%B8%8C%E6%9C%9B",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 38,
-        "title": "小宇宙光合大会vlog",
-        "heat": "928.8万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B0%8F%E5%AE%87%E5%AE%99%E5%85%89%E5%90%88%E5%A4%A7%E4%BC%9Avlog",
+        "title": "马杜罗发监狱照传递希望",
+        "heat": "885.7万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%8F%91%E7%9B%91%E7%8B%B1%E7%85%A7%E4%BC%A0%E9%80%92%E5%B8%8C%E6%9C%9B",
         "extra": {
           "icon": null,
           "original_url": null,
-          "origin_id": "小宇宙光合大会vlog"
+          "origin_id": "马杜罗发监狱照传递希望"
         }
       }
     },
     {
       "rank": 39,
-      "title": "贵州大寨村马路中间有座坟",
-      "hot": 9262000,
+      "title": "今天我要变成一个干瘪瘪的芝士球",
+      "hot": 8833000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%B4%B5%E5%B7%9E%E5%A4%A7%E5%AF%A8%E6%9D%91%E9%A9%AC%E8%B7%AF%E4%B8%AD%E9%97%B4%E6%9C%89%E5%BA%A7%E5%9D%9F",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BB%8A%E5%A4%A9%E6%88%91%E8%A6%81%E5%8F%98%E6%88%90%E4%B8%80%E4%B8%AA%E5%B9%B2%E7%98%AA%E7%98%AA%E7%9A%84%E8%8A%9D%E5%A3%AB%E7%90%83",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 39,
-        "title": "贵州大寨村马路中间有座坟",
-        "heat": "926.2万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E8%B4%B5%E5%B7%9E%E5%A4%A7%E5%AF%A8%E6%9D%91%E9%A9%AC%E8%B7%AF%E4%B8%AD%E9%97%B4%E6%9C%89%E5%BA%A7%E5%9D%9F",
+        "title": "今天我要变成一个干瘪瘪的芝士球",
+        "heat": "883.3万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BB%8A%E5%A4%A9%E6%88%91%E8%A6%81%E5%8F%98%E6%88%90%E4%B8%80%E4%B8%AA%E5%B9%B2%E7%98%AA%E7%98%AA%E7%9A%84%E8%8A%9D%E5%A3%AB%E7%90%83",
         "extra": {
           "icon": null,
           "original_url": null,
-          "origin_id": "贵州大寨村马路中间有座坟"
+          "origin_id": "今天我要变成一个干瘪瘪的芝士球"
         }
       }
     },
     {
       "rank": 40,
-      "title": "和平精英站姿太权威了",
-      "hot": 9242000,
+      "title": "泰版甜妹手势舞",
+      "hot": 8771000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E7%AB%99%E5%A7%BF%E5%A4%AA%E6%9D%83%E5%A8%81%E4%BA%86",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B3%B0%E7%89%88%E7%94%9C%E5%A6%B9%E6%89%8B%E5%8A%BF%E8%88%9E",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 40,
-        "title": "和平精英站姿太权威了",
-        "heat": "924.2万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E7%AB%99%E5%A7%BF%E5%A4%AA%E6%9D%83%E5%A8%81%E4%BA%86",
+        "title": "泰版甜妹手势舞",
+        "heat": "877.1万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B3%B0%E7%89%88%E7%94%9C%E5%A6%B9%E6%89%8B%E5%8A%BF%E8%88%9E",
         "extra": {
           "icon": null,
           "original_url": null,
-          "origin_id": "和平精英站姿太权威了"
+          "origin_id": "泰版甜妹手势舞"
         }
       }
     },
     {
       "rank": 41,
-      "title": "丽江导游胁迫游客消费被拘",
-      "hot": 9235000,
+      "title": "陈粒被骚扰竖中指反抗",
+      "hot": 8763000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%BD%E6%B1%9F%E5%AF%BC%E6%B8%B8%E8%83%81%E8%BF%AB%E6%B8%B8%E5%AE%A2%E6%B6%88%E8%B4%B9%E8%A2%AB%E6%8B%98",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%99%88%E7%B2%92%E8%A2%AB%E9%AA%9A%E6%89%B0%E7%AB%96%E4%B8%AD%E6%8C%87%E5%8F%8D%E6%8A%97",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 41,
-        "title": "丽江导游胁迫游客消费被拘",
-        "heat": "923.5万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%BD%E6%B1%9F%E5%AF%BC%E6%B8%B8%E8%83%81%E8%BF%AB%E6%B8%B8%E5%AE%A2%E6%B6%88%E8%B4%B9%E8%A2%AB%E6%8B%98",
+        "title": "陈粒被骚扰竖中指反抗",
+        "heat": "876.3万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E9%99%88%E7%B2%92%E8%A2%AB%E9%AA%9A%E6%89%B0%E7%AB%96%E4%B8%AD%E6%8C%87%E5%8F%8D%E6%8A%97",
         "extra": {
           "icon": null,
           "original_url": null,
-          "origin_id": "丽江导游胁迫游客消费被拘"
+          "origin_id": "陈粒被骚扰竖中指反抗"
         }
       }
     },
     {
       "rank": 42,
-      "title": "周小闹被加辣夹心贴脸开大",
-      "hot": 9223000,
+      "title": "Luke别发呆 看我造型say哇塞",
+      "hot": 8748000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%91%A8%E5%B0%8F%E9%97%B9%E8%A2%AB%E5%8A%A0%E8%BE%A3%E5%A4%B9%E5%BF%83%E8%B4%B4%E8%84%B8%E5%BC%80%E5%A4%A7",
+      "url": "https://www.kuaishou.com/search/video?searchKey=Luke%E5%88%AB%E5%8F%91%E5%91%86+%E7%9C%8B%E6%88%91%E9%80%A0%E5%9E%8Bsay%E5%93%87%E5%A1%9E",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 42,
-        "title": "周小闹被加辣夹心贴脸开大",
-        "heat": "922.3万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%91%A8%E5%B0%8F%E9%97%B9%E8%A2%AB%E5%8A%A0%E8%BE%A3%E5%A4%B9%E5%BF%83%E8%B4%B4%E8%84%B8%E5%BC%80%E5%A4%A7",
+        "title": "Luke别发呆 看我造型say哇塞",
+        "heat": "874.8万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=Luke%E5%88%AB%E5%8F%91%E5%91%86+%E7%9C%8B%E6%88%91%E9%80%A0%E5%9E%8Bsay%E5%93%87%E5%A1%9E",
         "extra": {
-          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_exclusive3x.png",
-          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_exclusive3x.png",
-          "origin_id": "周小闹被加辣夹心贴脸开大"
+          "icon": null,
+          "original_url": null,
+          "origin_id": "Luke别发呆 看我造型say哇塞"
         }
       }
     },
     {
       "rank": 43,
-      "title": "吉隆口岸为何建在深切河谷",
-      "hot": 9217000,
+      "title": "开渔季赶海有多上头",
+      "hot": 8733000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E4%B8%BA%E4%BD%95%E5%BB%BA%E5%9C%A8%E6%B7%B1%E5%88%87%E6%B2%B3%E8%B0%B7",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%80%E6%B8%94%E5%AD%A3%E8%B5%B6%E6%B5%B7%E6%9C%89%E5%A4%9A%E4%B8%8A%E5%A4%B4",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 43,
-        "title": "吉隆口岸为何建在深切河谷",
-        "heat": "921.7万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E4%B8%BA%E4%BD%95%E5%BB%BA%E5%9C%A8%E6%B7%B1%E5%88%87%E6%B2%B3%E8%B0%B7",
+        "title": "开渔季赶海有多上头",
+        "heat": "873.3万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%80%E6%B8%94%E5%AD%A3%E8%B5%B6%E6%B5%B7%E6%9C%89%E5%A4%9A%E4%B8%8A%E5%A4%B4",
         "extra": {
-          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
-          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
-          "origin_id": "吉隆口岸为何建在深切河谷"
+          "icon": null,
+          "original_url": null,
+          "origin_id": "开渔季赶海有多上头"
         }
       }
     },
     {
       "rank": 44,
-      "title": "酷二狗与KEG主播同玩和平精英",
-      "hot": 9211000,
+      "title": "北疆将迎大风暴雨降温",
+      "hot": 8720000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%85%B7%E4%BA%8C%E7%8B%97%E4%B8%8EKEG%E4%B8%BB%E6%92%AD%E5%90%8C%E7%8E%A9%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8C%97%E7%96%86%E5%B0%86%E8%BF%8E%E5%A4%A7%E9%A3%8E%E6%9A%B4%E9%9B%A8%E9%99%8D%E6%B8%A9",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 44,
-        "title": "酷二狗与KEG主播同玩和平精英",
-        "heat": "921.1万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E9%85%B7%E4%BA%8C%E7%8B%97%E4%B8%8EKEG%E4%B8%BB%E6%92%AD%E5%90%8C%E7%8E%A9%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1",
+        "title": "北疆将迎大风暴雨降温",
+        "heat": "872万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8C%97%E7%96%86%E5%B0%86%E8%BF%8E%E5%A4%A7%E9%A3%8E%E6%9A%B4%E9%9B%A8%E9%99%8D%E6%B8%A9",
         "extra": {
           "icon": null,
           "original_url": null,
-          "origin_id": "酷二狗与KEG主播同玩和平精英"
+          "origin_id": "北疆将迎大风暴雨降温"
         }
       }
     },
     {
       "rank": 45,
-      "title": "男子边自驾边摆摊赚6万",
-      "hot": 9203000,
+      "title": "官方回应医生出诊未施救还吸烟",
+      "hot": 8711000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%B7%E5%AD%90%E8%BE%B9%E8%87%AA%E9%A9%BE%E8%BE%B9%E6%91%86%E6%91%8A%E8%B5%9A6%E4%B8%87",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8C%BB%E7%94%9F%E5%87%BA%E8%AF%8A%E6%9C%AA%E6%96%BD%E6%95%91%E8%BF%98%E5%90%B8%E7%83%9F",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 45,
-        "title": "男子边自驾边摆摊赚6万",
-        "heat": "920.3万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%B7%E5%AD%90%E8%BE%B9%E8%87%AA%E9%A9%BE%E8%BE%B9%E6%91%86%E6%91%8A%E8%B5%9A6%E4%B8%87",
+        "title": "官方回应医生出诊未施救还吸烟",
+        "heat": "871.1万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8C%BB%E7%94%9F%E5%87%BA%E8%AF%8A%E6%9C%AA%E6%96%BD%E6%95%91%E8%BF%98%E5%90%B8%E7%83%9F",
         "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "男子边自驾边摆摊赚6万"
+          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
+          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
+          "origin_id": "官方回应医生出诊未施救还吸烟"
         }
       }
     },
     {
       "rank": 46,
-      "title": "所有人感受丁程鑫这个眼神",
-      "hot": 9192000,
+      "title": "武契奇与中国机器人过招",
+      "hot": 8691000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%89%80%E6%9C%89%E4%BA%BA%E6%84%9F%E5%8F%97%E4%B8%81%E7%A8%8B%E9%91%AB%E8%BF%99%E4%B8%AA%E7%9C%BC%E7%A5%9E",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%AD%A6%E5%A5%91%E5%A5%87%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%87%E6%8B%9B",
       "cover": "",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 46,
-        "title": "所有人感受丁程鑫这个眼神",
-        "heat": "919.2万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%89%80%E6%9C%89%E4%BA%BA%E6%84%9F%E5%8F%97%E4%B8%81%E7%A8%8B%E9%91%AB%E8%BF%99%E4%B8%AA%E7%9C%BC%E7%A5%9E",
-        "extra": {
-          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
-          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
-          "origin_id": "所有人感受丁程鑫这个眼神"
-        }
-      }
-    },
-    {
-      "rank": 47,
-      "title": "西藏泥石流失联外籍人员261人",
-      "hot": 9187000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%A4%B1%E8%81%94%E5%A4%96%E7%B1%8D%E4%BA%BA%E5%91%98261%E4%BA%BA",
-      "cover": "",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 47,
-        "title": "西藏泥石流失联外籍人员261人",
-        "heat": "918.7万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%A4%B1%E8%81%94%E5%A4%96%E7%B1%8D%E4%BA%BA%E5%91%98261%E4%BA%BA",
+        "title": "武契奇与中国机器人过招",
+        "heat": "869.1万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%AD%A6%E5%A5%91%E5%A5%87%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%87%E6%8B%9B",
         "extra": {
           "icon": null,
           "original_url": null,
-          "origin_id": "西藏泥石流失联外籍人员261人"
-        }
-      }
-    },
-    {
-      "rank": 48,
-      "title": "蛋仔快手女仔赛决赛开启",
-      "hot": 9181000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%9B%8B%E4%BB%94%E5%BF%AB%E6%89%8B%E5%A5%B3%E4%BB%94%E8%B5%9B%E5%86%B3%E8%B5%9B%E5%BC%80%E5%90%AF",
-      "cover": "",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 48,
-        "title": "蛋仔快手女仔赛决赛开启",
-        "heat": "918.1万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E8%9B%8B%E4%BB%94%E5%BF%AB%E6%89%8B%E5%A5%B3%E4%BB%94%E8%B5%9B%E5%86%B3%E8%B5%9B%E5%BC%80%E5%90%AF",
-        "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "蛋仔快手女仔赛决赛开启"
-        }
-      }
-    },
-    {
-      "rank": 49,
-      "title": "基辅州仓库遇袭致37死",
-      "hot": 9174000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9F%BA%E8%BE%85%E5%B7%9E%E4%BB%93%E5%BA%93%E9%81%87%E8%A2%AD%E8%87%B437%E6%AD%BB",
-      "cover": "",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 49,
-        "title": "基辅州仓库遇袭致37死",
-        "heat": "917.4万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9F%BA%E8%BE%85%E5%B7%9E%E4%BB%93%E5%BA%93%E9%81%87%E8%A2%AD%E8%87%B437%E6%AD%BB",
-        "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "基辅州仓库遇袭致37死"
+          "origin_id": "武契奇与中国机器人过招"
         }
       }
     }
