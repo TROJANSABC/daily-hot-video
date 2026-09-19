@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import http.cookiejar
 import json
 import os
 import time
@@ -16,6 +17,25 @@ from typing import Any
 
 DATA_DIR = Path("data")
 BEIJING_TZ = timezone(timedelta(hours=8))
+
+# Shared opener with a cookie jar so Bilibili returns a buvid3 cookie before
+# search calls (greatly reduces -412 risk-control responses on shared runners).
+COOKIE_JAR = http.cookiejar.CookieJar()
+OPENER = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(COOKIE_JAR))
+_OPENER_READY = False
+
+UA = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36"
+)
+
+# Xiaohongshu's feed hands out a single shared promo badge PNG for every row,
+# not a real cover; treat it (and empty covers) as "no cover".
+GENERIC_COVER_MARKERS = ("picasso-static.xiaohongshu.com",)
+
+# Platforms whose hot list is a keyword/topic rank with no bundled artwork.
+# We enrich these rows with a real video-frame thumbnail from a keyword search.
+COVER_ENRICH_SOURCES = ("kuaishou", "xiaohongshu")
 
 
 SOURCES = [
@@ -61,20 +81,85 @@ def build_url(template: str) -> str | None:
     return url if url.startswith("http") else None
 
 
-def fetch_json(url: str) -> Any:
-    req = urllib.request.Request(
-        url,
-        headers={
-            "User-Agent": (
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36"
-            ),
-            "Accept": "application/json,text/plain,*/*",
-        },
-    )
-    with urllib.request.urlopen(req, timeout=25) as resp:
+def fetch_json(url: str, referer: str = "") -> Any:
+    headers = {
+        "User-Agent": UA,
+        "Accept": "application/json,text/plain,*/*",
+    }
+    if referer:
+        headers["Referer"] = referer
+    req = urllib.request.Request(url, headers=headers)
+    with OPENER.open(req, timeout=25) as resp:
         body = resp.read().decode("utf-8")
     return json.loads(body)
+
+
+def warm_up_bilibili() -> None:
+    global _OPENER_READY
+    if _OPENER_READY:
+        return
+    try:
+        req = urllib.request.Request(
+            "https://www.bilibili.com/",
+            headers={"User-Agent": UA, "Accept": "text/html"},
+        )
+        with OPENER.open(req, timeout=20) as resp:
+            resp.read(2048)
+    except (urllib.error.URLError, TimeoutError, OSError):
+        pass
+    _OPENER_READY = True
+
+
+def bili_cover(keyword: str) -> str:
+    """Return a real Bilibili video-frame thumbnail URL for a search keyword."""
+    keyword = (keyword or "").strip()
+    if not keyword:
+        return ""
+    warm_up_bilibili()
+    try:
+        url = (
+            "https://api.bilibili.com/x/web-interface/search/all/v2?keyword="
+            + urllib.parse.quote(keyword)
+        )
+        payload = fetch_json(url, referer="https://www.bilibili.com/")
+        for block in (payload.get("data") or {}).get("result") or []:
+            if block.get("result_type") != "video":
+                continue
+            for video in block.get("data") or []:
+                pic = video.get("pic")
+                if not pic:
+                    continue
+                pic = str(pic)
+                if pic.startswith("//"):
+                    pic = "https:" + pic
+                pic = pic.replace("http://", "https://", 1)
+                # Small cropped webp so the feed stays light and loads fast.
+                return pic + "@480w_270h_1c.webp"
+    except (urllib.error.URLError, TimeoutError, json.JSONDecodeError, OSError) as exc:
+        print(f"  bili cover miss for {keyword!r}: {exc}")
+    return ""
+
+
+def is_real_cover(cover: str) -> bool:
+    cover = (cover or "").strip()
+    if not cover:
+        return False
+    return not any(marker in cover for marker in GENERIC_COVER_MARKERS)
+
+
+def enrich_covers(platforms: list[dict[str, Any]]) -> None:
+    cache: dict[str, str] = {}
+    for platform in platforms:
+        if platform["id"] not in COVER_ENRICH_SOURCES:
+            continue
+        for item in platform["items"]:
+            if is_real_cover(item.get("cover", "")):
+                continue
+            title = item.get("title", "")
+            if title not in cache:
+                cache[title] = bili_cover(title)
+                time.sleep(0.4)
+            item["cover"] = cache[title]
 
 
 def extract_items(payload: Any) -> list[dict[str, Any]]:
@@ -241,6 +326,9 @@ def main() -> int:
     DATA_DIR.mkdir(exist_ok=True)
     platforms = [fetch_source(source) for source in SOURCES]
 
+    # Give kuaishou / xiaohongshu rows a real video-frame cover when available.
+    enrich_covers(platforms)
+
     for platform in platforms:
         write_json(DATA_DIR / f"{platform['id']}.json", platform)
 
@@ -259,7 +347,11 @@ def main() -> int:
 
     print("Done.")
     for platform in platforms:
-        print(f"- {platform['name']}: {platform['status']} ({len(platform['items'])} items)")
+        covered = sum(1 for item in platform["items"] if item.get("cover"))
+        print(
+            f"- {platform['name']}: {platform['status']} "
+            f"({len(platform['items'])} items, {covered} with cover)"
+        )
         if platform["error"]:
             print(f"  {platform['error']}")
     return 0
