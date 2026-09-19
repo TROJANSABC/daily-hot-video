@@ -11,7 +11,90 @@
   --shadow: 0 18px 48px rgba(24, 32, 27, 0.1);
 }
 
-* {
+* {/* ---- AI upgrade additions ---- */
+.item-top .category {
+  border-radius: 999px;
+  background: rgba(240, 180, 41, 0.16);
+  color: #a4770a;
+  padding: 3px 9px;
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.summary {
+  margin-top: 6px;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.55;
+}
+
+.tab-ai {
+  border-color: var(--accent-2);
+  color: var(--accent-2);
+}
+.tab-ai.is-active {
+  background: var(--accent-2);
+  border-color: var(--accent-2);
+  color: #fff;
+}
+
+.weekly-panel {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+.weekly-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 18px 20px;
+  border-bottom: 1px solid var(--line);
+}
+.weekly-head h2 {
+  font-size: 22px;
+}
+.weekly-head span {
+  color: var(--muted);
+  font-size: 13px;
+}
+.weekly-body {
+  padding: 20px;
+}
+.weekly-lead {
+  font-size: 15px;
+  line-height: 1.8;
+  margin-bottom: 18px;
+}
+.weekly-body h3 {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+.weekly-topics {
+  margin: 0;
+  padding-left: 20px;
+  display: grid;
+  gap: 8px;
+}
+.weekly-topics li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  line-height: 1.5;
+}
+.weekly-topics b {
+  color: var(--accent);
+  white-space: nowrap;
+}
+.weekly-empty {
+  color: var(--muted);
+  font-size: 14px;
+}
+
+  
   box-sizing: border-box;
 }
 
