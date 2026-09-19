@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import hashlib
 import http.cookiejar
 import json
 import os
@@ -16,6 +17,7 @@ from typing import Any
 
 
 DATA_DIR = Path("data")
+COVERS_DIR = DATA_DIR / "covers"
 BEIJING_TZ = timezone(timedelta(hours=8))
 
 # Shared opener with a cookie jar so Bilibili returns a buvid3 cookie before
@@ -110,7 +112,7 @@ def warm_up_bilibili() -> None:
     _OPENER_READY = True
 
 
-def bili_cover(keyword: str) -> str:
+def bili_cover_url(keyword: str) -> str:
     """Return a real Bilibili video-frame thumbnail URL for a search keyword."""
     keyword = (keyword or "").strip()
     if not keyword:
@@ -133,11 +135,37 @@ def bili_cover(keyword: str) -> str:
                 if pic.startswith("//"):
                     pic = "https:" + pic
                 pic = pic.replace("http://", "https://", 1)
-                # Small cropped webp so the feed stays light and loads fast.
+                # Small cropped webp so each downloaded file stays light.
                 return pic + "@480w_270h_1c.webp"
     except (urllib.error.URLError, TimeoutError, json.JSONDecodeError, OSError) as exc:
-        print(f"  bili cover miss for {keyword!r}: {exc}")
+        print(f"  bili search miss for {keyword!r}: {exc}")
     return ""
+
+
+def download_cover(source_id: str, keyword: str) -> str:
+    """Download a real cover into data/covers/ and return its relative path.
+
+    Bilibili's image CDN rejects hotlinking from github.io, so the image is
+    fetched server-side (no Referer) and served same-origin with the site.
+    """
+    url = bili_cover_url(keyword)
+    if not url:
+        return ""
+    try:
+        # No Referer header is sent here, which is what the CDN allows.
+        req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "image/*"})
+        with urllib.request.urlopen(req, timeout=25) as resp:
+            data = resp.read()
+            content_type = resp.headers.get("Content-Type", "")
+    except (urllib.error.URLError, TimeoutError, OSError) as exc:
+        print(f"  cover download failed for {keyword!r}: {exc}")
+        return ""
+    if not data or len(data) < 512:
+        return ""
+    ext = "webp" if "webp" in content_type else ("png" if "png" in content_type else "jpg")
+    name = hashlib.sha1(f"{source_id}|{keyword}".encode("utf-8")).hexdigest()[:16] + "." + ext
+    (COVERS_DIR / name).write_bytes(data)
+    return f"./data/covers/{name}"
 
 
 def is_real_cover(cover: str) -> bool:
@@ -145,6 +173,13 @@ def is_real_cover(cover: str) -> bool:
     if not cover:
         return False
     return not any(marker in cover for marker in GENERIC_COVER_MARKERS)
+
+
+def prepare_covers_dir() -> None:
+    COVERS_DIR.mkdir(parents=True, exist_ok=True)
+    for existing in COVERS_DIR.glob("*"):
+        if existing.is_file():
+            existing.unlink()
 
 
 def enrich_covers(platforms: list[dict[str, Any]]) -> None:
@@ -157,9 +192,10 @@ def enrich_covers(platforms: list[dict[str, Any]]) -> None:
                 continue
             title = item.get("title", "")
             if title not in cache:
-                cache[title] = bili_cover(title)
+                cache[title] = download_cover(platform["id"], title)
                 time.sleep(0.4)
-            item["cover"] = cache[title]
+            if cache[title]:
+                item["cover"] = cache[title]
 
 
 def extract_items(payload: Any) -> list[dict[str, Any]]:
@@ -324,6 +360,7 @@ def write_json(path: Path, payload: Any) -> None:
 
 def main() -> int:
     DATA_DIR.mkdir(exist_ok=True)
+    prepare_covers_dir()
     platforms = [fetch_source(source) for source in SOURCES]
 
     # Give kuaishou / xiaohongshu rows a real video-frame cover when available.
