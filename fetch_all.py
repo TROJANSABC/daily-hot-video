@@ -39,6 +39,7 @@ SOURCES = [
         "id": "xiaohongshu",
         "name": "小红书",
         "urls": [
+            "https://uapis.cn/api/v1/misc/hotboard?type=xiaohongshu",
             "{XIAOHONGSHU_API_URL}",
             "{API_BASE}/xiaohongshu",
         ],
