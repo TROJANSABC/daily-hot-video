@@ -1,7 +1,7 @@
 {
   "id": "xiaohongshu",
   "name": "小红书",
-  "updatedAt": "2026-09-19T21:50:07+08:00",
+  "updatedAt": "2026-09-19T22:03:43+08:00",
   "status": "ok",
   "items": [
     {
@@ -10,7 +10,7 @@
       "hot": 9475000,
       "hotText": "",
       "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%94%A8%E4%B8%87%E8%83%BD%E6%97%85%E8%A1%8C%E6%8B%8D%E7%85%A7%E5%A7%BF%E5%8A%BF%E7%BE%8E%E7%BE%8E%E5%87%BA%E7%89%87&type=51",
-      "cover": "https://i2.hdslb.com/bfs/archive/bb1f0eb14ed01d9285c626fb2e7d2e03f4efdc60.jpg@480w_270h_1c.webp",
+      "cover": "./data/covers/2a36227ef6edcccb.webp",
       "source": "xiaohongshu",
       "sourceName": "小红书",
       "raw": {
@@ -31,7 +31,7 @@
       "hot": 9348000,
       "hotText": "",
       "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%80%97%E6%97%B6%E4%B8%89%E5%B9%B4%E6%8B%8D%E4%B8%8B%E5%8F%A4%E8%AF%97%E8%AF%8D%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD&type=51",
-      "cover": "https://i1.hdslb.com/bfs/archive/3048df66a949638a652e3e8e1819e75471996f8e.jpg@480w_270h_1c.webp",
+      "cover": "./data/covers/b1de844fe2cf864f.webp",
       "source": "xiaohongshu",
       "sourceName": "小红书",
       "raw": {
@@ -52,7 +52,7 @@
       "hot": 9032000,
       "hotText": "",
       "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%88%91%E6%8B%8D%E5%88%B0%E4%BA%86%E6%B5%B7%E9%B8%A5%E9%9B%A8&type=51",
-      "cover": "https://i2.hdslb.com/bfs/archive/c4a4d0c302dabdbf6c0370f62da5548fb436095d.jpg@480w_270h_1c.webp",
+      "cover": "./data/covers/eea404cb5e0e6852.webp",
       "source": "xiaohongshu",
       "sourceName": "小红书",
       "raw": {
@@ -71,7 +71,7 @@
       "hot": 8860000,
       "hotText": "",
       "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%B6%85%E6%97%A5%E5%B8%B8%E7%BE%8E%E9%A3%9F%E6%95%99%E7%A8%8B%E9%80%9F%E6%9D%A5get&type=51",
-      "cover": "https://i0.hdslb.com/bfs/archive/ce1559b4cdddb9137e8f927c7194d009dbc1e90e.jpg@480w_270h_1c.webp",
+      "cover": "./data/covers/ec7e23df6022bca0.webp",
       "source": "xiaohongshu",
       "sourceName": "小红书",
       "raw": {
@@ -90,7 +90,7 @@
       "hot": 8711000,
       "hotText": "",
       "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%AE%9A%E6%A0%BC%E8%BF%99%E4%B8%80%E5%88%BB%E7%9A%84%E6%97%A5%E7%85%A7%E9%87%91%E5%B1%B1&type=51",
-      "cover": "https://i2.hdslb.com/bfs/archive/0806d71fb4d92d409d7cbf40b4ef6554168e66ee.jpg@480w_270h_1c.webp",
+      "cover": "./data/covers/9ab50797ea0ef1d1.webp",
       "source": "xiaohongshu",
       "sourceName": "小红书",
       "raw": {
@@ -109,7 +109,7 @@
       "hot": 7831000,
       "hotText": "",
       "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%BD%A0%E5%8F%AF%E4%BB%A5%E6%B0%B8%E8%BF%9C%E7%9B%B8%E4%BF%A1%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%E7%9A%84%E7%BE%8E%E6%99%AF&type=51",
-      "cover": "https://i0.hdslb.com/bfs/archive/48f696477f502f1d4ce06d11a67fb72543782672.jpg@480w_270h_1c.webp",
+      "cover": "./data/covers/bd1b3b2b4644a92d.webp",
       "source": "xiaohongshu",
       "sourceName": "小红书",
       "raw": {
@@ -130,7 +130,7 @@
       "hot": 7498000,
       "hotText": "",
       "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%8B%BC%E8%B1%86%E4%B8%8A%E4%B9%9F%E5%8F%AF%E4%BB%A5%E4%BD%9C%E7%94%BB%E4%BA%86&type=51",
-      "cover": "https://i2.hdslb.com/bfs/archive/b5382e76ef3ae9f5b30b694d7d3cfec5ed00ef82.jpg@480w_270h_1c.webp",
+      "cover": "./data/covers/23854ef977e92e7d.webp",
       "source": "xiaohongshu",
       "sourceName": "小红书",
       "raw": {
@@ -151,7 +151,7 @@
       "hot": 7371000,
       "hotText": "",
       "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%88%91%E7%9A%84%E5%AE%B6%E5%BA%AD%E6%97%85%E8%A1%8C%E6%9B%B4%E5%83%8F%E6%98%AF%E6%89%93%E5%89%AF%E6%9C%AC&type=51",
-      "cover": "https://i2.hdslb.com/bfs/archive/3edc6c559592342fda0c56f829d54f6281325c2c.jpg@480w_270h_1c.webp",
+      "cover": "./data/covers/7fca28120593b2f0.webp",
       "source": "xiaohongshu",
       "sourceName": "小红书",
       "raw": {
@@ -170,7 +170,7 @@
       "hot": 7278000,
       "hotText": "",
       "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%8E%9F%E6%9D%A5%E5%8F%A4%E8%AF%97%E8%AF%8D%E9%87%8C%E7%9A%84%E6%B2%B3%E5%8D%97%E7%9C%9F%E7%9A%84%E5%AD%98%E5%9C%A8&type=51",
-      "cover": "https://i1.hdslb.com/bfs/archive/e28575655df9299dc989a76e1c6d4bc23eb83b12.jpg@480w_270h_1c.webp",
+      "cover": "./data/covers/0bb0e604e7b51f6d.webp",
       "source": "xiaohongshu",
       "sourceName": "小红书",
       "raw": {
@@ -191,7 +191,7 @@
       "hot": 7162000,
       "hotText": "",
       "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%92%B8%E5%87%BA%E4%BA%86%E5%A5%B6%E9%A6%99%E7%88%86%E7%B1%B3%E8%8A%B1%E9%A6%92%E5%A4%B4&type=51",
-      "cover": "https://i2.hdslb.com/bfs/archive/86748e335ecb133bc9c69f874c2e4f766831186e.jpg@480w_270h_1c.webp",
+      "cover": "./data/covers/6f144163ae12f887.webp",
       "source": "xiaohongshu",
       "sourceName": "小红书",
       "raw": {
@@ -212,7 +212,7 @@
       "hot": 7030000,
       "hotText": "",
       "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%BF%99%E5%8F%AF%E8%83%BD%E6%98%AF%E6%B1%9F%E8%A5%BF%E6%9C%80%E8%A2%AB%E4%BD%8E%E4%BC%B0%E7%9A%84%E4%B8%80%E5%BA%A7%E5%B1%B1&type=51",
-      "cover": "https://i1.hdslb.com/bfs/archive/87bef372c4c4a65620abadd9d26676de40c3c2fe.jpg@480w_270h_1c.webp",
+      "cover": "./data/covers/e2448f017fec12bd.webp",
       "source": "xiaohongshu",
       "sourceName": "小红书",
       "raw": {
@@ -231,7 +231,7 @@
       "hot": 6894000,
       "hotText": "",
       "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%B5%B7%E8%BE%B9%E6%97%A5%E8%90%BD%E8%B5%B4%E4%B8%80%E5%9C%BA%E6%B8%A9%E6%9F%94%E7%BA%A6%E4%BC%9A&type=51",
-      "cover": "https://i1.hdslb.com/bfs/archive/a93fdbd5fc5a043e62ceefa0d223ca16ce306add.jpg@480w_270h_1c.webp",
+      "cover": "./data/covers/a3c0744199dd5d15.webp",
       "source": "xiaohongshu",
       "sourceName": "小红书",
       "raw": {
@@ -252,7 +252,7 @@
       "hot": 2417000,
       "hotText": "",
       "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%8B%BC%E8%B1%86%E4%B9%9F%E8%83%BD%E5%BD%93%E7%81%AB%E6%BC%86%E5%8D%B0%E7%AB%A0%E7%8E%A9&type=51",
-      "cover": "https://i0.hdslb.com/bfs/archive/ba0647861d4dd60cf193de1b0b27cb7c65daaae6.jpg@480w_270h_1c.webp",
+      "cover": "./data/covers/3175f43c396d2105.webp",
       "source": "xiaohongshu",
       "sourceName": "小红书",
       "raw": {
@@ -271,7 +271,7 @@
       "hot": 2318000,
       "hotText": "",
       "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%88%91%E5%88%9B%E9%80%A0%E4%BA%86%E6%96%B0%E5%9E%8B%E9%81%9B%E7%8B%97%E6%B3%95&type=51",
-      "cover": "https://i0.hdslb.com/bfs/archive/0d70ab63b364867ef1626af4cd63ed82375f6ab1.jpg@480w_270h_1c.webp",
+      "cover": "./data/covers/87a330418d9294a0.webp",
       "source": "xiaohongshu",
       "sourceName": "小红书",
       "raw": {
@@ -292,7 +292,7 @@
       "hot": 2228000,
       "hotText": "",
       "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%94%A8%E9%95%9C%E5%A4%B4%E6%8D%95%E6%8D%89%E5%9B%9B%E5%AD%A3%E5%A6%82%E7%94%BB&type=51",
-      "cover": "https://i0.hdslb.com/bfs/archive/789b80714b8e8b08d9fc19fa828d00f61c1a9b80.jpg@480w_270h_1c.webp",
+      "cover": "./data/covers/d9d76f0626d103b4.webp",
       "source": "xiaohongshu",
       "sourceName": "小红书",
       "raw": {
@@ -313,7 +313,7 @@
       "hot": 2135000,
       "hotText": "",
       "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%AC%94%E5%A2%A8%E9%87%8D%E7%8E%B0%E8%AF%BE%E6%9C%AC%E8%AF%97%E6%84%8F&type=51",
-      "cover": "https://i2.hdslb.com/bfs/archive/660854ae4a47e454465b2237ef870480a62a865d.jpg@480w_270h_1c.webp",
+      "cover": "./data/covers/61ab668be4222640.webp",
       "source": "xiaohongshu",
       "sourceName": "小红书",
       "raw": {
@@ -332,7 +332,7 @@
       "hot": 2033000,
       "hotText": "",
       "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%8B%8D%E5%88%B0%E4%BA%86%E6%B4%B1%E6%B5%B7%E7%9A%84%E4%B8%81%E8%BE%BE%E5%B0%94%E6%95%88%E5%BA%94&type=51",
-      "cover": "https://i1.hdslb.com/bfs/archive/ca8e379fa6743184aa768addfca369939db53c0e.jpg@480w_270h_1c.webp",
+      "cover": "./data/covers/b8a31e5eff35959e.webp",
       "source": "xiaohongshu",
       "sourceName": "小红书",
       "raw": {
@@ -353,7 +353,7 @@
       "hot": 1938000,
       "hotText": "",
       "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%8F%A0%E5%9C%86%E7%8E%89%E6%B6%A6%E5%A6%86%E5%AE%8C%E5%85%A8%E6%98%AF%E6%B7%A1%E9%A2%9C%E5%A4%A9%E8%8F%9C&type=51",
-      "cover": "https://i1.hdslb.com/bfs/archive/23cb64957493f1d14adac7ac3d68929d205aa349.jpg@480w_270h_1c.webp",
+      "cover": "./data/covers/03c5244ba9b87495.webp",
       "source": "xiaohongshu",
       "sourceName": "小红书",
       "raw": {
@@ -374,7 +374,7 @@
       "hot": 1845000,
       "hotText": "",
       "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%A2%8E%E9%92%BB%E7%BE%8E%E7%94%B2%E6%8C%87%E5%B0%96%E8%97%8F%E7%9D%80%E7%BB%86%E7%A2%8E%E6%98%9F%E5%85%89&type=51",
-      "cover": "https://i0.hdslb.com/bfs/archive/eca4abb226a760f735a73da966f57794caf2d279.jpg@480w_270h_1c.webp",
+      "cover": "./data/covers/374bc123934b9a6b.webp",
       "source": "xiaohongshu",
       "sourceName": "小红书",
       "raw": {
@@ -393,7 +393,7 @@
       "hot": 1757000,
       "hotText": "",
       "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%88%91%E6%9D%A5%E5%BD%93%E6%97%85%E8%A1%8C%E4%B8%AD%E7%9A%84%E9%A2%9C%E8%89%B2%E7%8C%8E%E6%89%8B&type=51",
-      "cover": "https://i2.hdslb.com/bfs/archive/fd5d4605ee3416d49d0c5478b8a21c3f61b87aa0.png@480w_270h_1c.webp",
+      "cover": "./data/covers/1fd4f9833696b4e5.webp",
       "source": "xiaohongshu",
       "sourceName": "小红书",
       "raw": {
