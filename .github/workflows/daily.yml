@@ -2,18 +2,6 @@ name: Daily hot video update
 
 on:
   schedule:
-    # Beijing time 09:00 = UTC 01:00.
-    - cron: "0 1 * * *"
-  workflow_dispatch:
-
-jobs:
-  fetch:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: writename: Daily hot video update
-
-on:
-  schedule:
     # Beijing time 09:00 = UTC 01:00. Monday runs also produce the weekly AI report.
     - cron: "0 1 * * *"
   workflow_dispatch:
@@ -53,28 +41,4 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
           git diff --cached --quiet || git commit -m "Update hot video data (AI enriched)"
-          git push
-
-
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Fetch hot topics
-        env:
-          API_BASE: https://api-hot.imsyy.top
-          XIAOHONGSHU_API_URL: ${{ secrets.XIAOHONGSHU_API_URL }}
-        run: python fetch_all.py
-
-      - name: Commit data
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
-          git diff --cached --quiet || git commit -m "Update hot video data"
           git push
