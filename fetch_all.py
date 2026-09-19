@@ -40,7 +40,7 @@ SOURCES = [
         "name": "小红书",
         "urls": [
             "{XIAOHONGSHU_API_URL}",
-            "https://uapis.cn/api/v1/misc/hotboard?type=xiaohongshu",
+            "{API_BASE}/xiaohongshu",
         ],
     },
 ]
@@ -116,11 +116,23 @@ def parse_hot_number(value: str) -> int | float | None:
         return None
 
     multiplier = 1
+    lower = text.lower()
     if text.endswith("亿"):
         multiplier = 100000000
         text = text[:-1]
-    elif text.endswith(("万", "w", "W")):
+    elif text.endswith("万"):
         multiplier = 10000
+        text = text[:-1]
+    # Some platforms return English unit suffixes, e.g. xiaohongshu "947.5w"
+    # (w = 万), or "1.2kw"/"3.4k". Order matters: "kw" must precede "w"/"k".
+    elif lower.endswith("kw"):
+        multiplier = 10000
+        text = text[:-2]
+    elif lower.endswith("w"):
+        multiplier = 10000
+        text = text[:-1]
+    elif lower.endswith("k"):
+        multiplier = 1000
         text = text[:-1]
 
     text = text.replace("热度", "").strip()
@@ -240,7 +252,7 @@ def main() -> int:
         "updatedAt": now_iso(),
         "timezone": "Asia/Shanghai",
         "platforms": platforms,
-        "items": all_items[:100],
+        "items": all_items[:150],
     }
     write_json(DATA_DIR / "all.json", summary)
 
