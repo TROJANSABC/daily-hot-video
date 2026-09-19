@@ -40,7 +40,7 @@ SOURCES = [
         "name": "小红书",
         "urls": [
             "{XIAOHONGSHU_API_URL}",
-            "{API_BASE}/xiaohongshu",
+            "https://uapis.cn/api/v1/misc/hotboard?type=xiaohongshu",
         ],
     },
 ]
@@ -119,7 +119,7 @@ def parse_hot_number(value: str) -> int | float | None:
     if text.endswith("亿"):
         multiplier = 100000000
         text = text[:-1]
-    elif text.endswith("万"):
+    elif text.endswith(("万", "w", "W")):
         multiplier = 10000
         text = text[:-1]
 
