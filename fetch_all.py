@@ -35,6 +35,35 @@ UA = (
 GENERIC_COVER_MARKERS = ("picasso-static.xiaohongshu.com",)
 COVER_ENRICH_SOURCES = ("kuaishou", "xiaohongshu")
 
+
+SOURCES = [
+    {
+        "id": "douyin",
+        "name": "抖音",
+        "urls": [
+            "https://v2.xxapi.cn/api/douyinhot",
+            "{API_BASE}/douyin",
+        ],
+    },
+    {
+        "id": "kuaishou",
+        "name": "快手",
+        "urls": [
+            "https://api.tcslw.cn/api/hotlist/kuaishou",
+            "{API_BASE}/kuaishou",
+        ],
+    },
+    {
+        "id": "xiaohongshu",
+        "name": "小红书",
+        "urls": [
+            "https://uapis.cn/api/v1/misc/hotboard?type=xiaohongshu",
+            "{XIAOHONGSHU_API_URL}",
+            "{API_BASE}/xiaohongshu",
+        ],
+    },
+]
+
 # AI config
 DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "").strip()
 DEEPSEEK_MODEL = os.getenv("DEEPSEEK_MODEL", "").strip() or "deepseek-chat"
