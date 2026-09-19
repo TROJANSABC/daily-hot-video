@@ -1,13 +1,13 @@
 {
   "id": "kuaishou",
   "name": "快手",
-  "updatedAt": "2026-09-19T23:20:52+08:00",
+  "updatedAt": "2026-09-19T23:27:38+08:00",
   "status": "ok",
   "items": [
     {
       "rank": 1,
       "title": "名古屋亚运会开幕式",
-      "hot": 10899000,
+      "hot": 11859000,
       "hotText": "",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F",
       "cover": "./data/covers/32c865a2f7532e06.webp",
@@ -16,7 +16,7 @@
       "raw": {
         "id": 1,
         "title": "名古屋亚运会开幕式",
-        "heat": "1089.9万",
+        "heat": "1185.9万",
         "url": "https://www.kuaishou.com/search/video?searchKey=%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F",
         "extra": {
           "icon": null,
@@ -29,22 +29,22 @@
     },
     {
       "rank": 2,
-      "title": "四川攀枝花泥石流已致5人失联",
-      "hot": 10889000,
+      "title": "毛东东随团访朝祭扫毛岸英",
+      "hot": 11849000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%9B%E5%B7%9D%E6%94%80%E6%9E%9D%E8%8A%B1%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B45%E4%BA%BA%E5%A4%B1%E8%81%94",
-      "cover": "./data/covers/07943a47655ddb0f.webp",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%AF%9B%E4%B8%9C%E4%B8%9C%E9%9A%8F%E5%9B%A2%E8%AE%BF%E6%9C%9D%E7%A5%AD%E6%89%AB%E6%AF%9B%E5%B2%B8%E8%8B%B1",
+      "cover": "./data/covers/1955c4f252238375.webp",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 2,
-        "title": "四川攀枝花泥石流已致5人失联",
-        "heat": "1088.9万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%9B%E5%B7%9D%E6%94%80%E6%9E%9D%E8%8A%B1%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B45%E4%BA%BA%E5%A4%B1%E8%81%94",
+        "title": "毛东东随团访朝祭扫毛岸英",
+        "heat": "1184.9万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%AF%9B%E4%B8%9C%E4%B8%9C%E9%9A%8F%E5%9B%A2%E8%AE%BF%E6%9C%9D%E7%A5%AD%E6%89%AB%E6%AF%9B%E5%B2%B8%E8%8B%B1",
         "extra": {
           "icon": null,
           "original_url": null,
-          "origin_id": "四川攀枝花泥石流已致5人失联"
+          "origin_id": "毛东东随团访朝祭扫毛岸英"
         }
       },
       "summary": "",
@@ -53,7 +53,7 @@
     {
       "rank": 3,
       "title": "开幕式闪耀中国红",
-      "hot": 10665000,
+      "hot": 11743000,
       "hotText": "",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%80%E5%B9%95%E5%BC%8F%E9%97%AA%E8%80%80%E4%B8%AD%E5%9B%BD%E7%BA%A2",
       "cover": "./data/covers/8f84eecde49f65ca.webp",
@@ -62,7 +62,7 @@
       "raw": {
         "id": 3,
         "title": "开幕式闪耀中国红",
-        "heat": "1066.5万",
+        "heat": "1174.3万",
         "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%80%E5%B9%95%E5%BC%8F%E9%97%AA%E8%80%80%E4%B8%AD%E5%9B%BD%E7%BA%A2",
         "extra": {
           "icon": null,
@@ -76,7 +76,7 @@
     {
       "rank": 4,
       "title": "许嵩冯禧官宣结婚",
-      "hot": 10553000,
+      "hot": 11690000,
       "hotText": "",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A",
       "cover": "./data/covers/e67e0c4d3621ebea.webp",
@@ -85,7 +85,7 @@
       "raw": {
         "id": 4,
         "title": "许嵩冯禧官宣结婚",
-        "heat": "1055.3万",
+        "heat": "1169万",
         "url": "https://www.kuaishou.com/search/video?searchKey=%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A",
         "extra": {
           "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_boom3x.png",
@@ -99,7 +99,7 @@
     {
       "rank": 5,
       "title": "男子称知道邻居是梅姨后一点不怕",
-      "hot": 10497000,
+      "hot": 11664000,
       "hotText": "",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%B7%E5%AD%90%E7%A7%B0%E7%9F%A5%E9%81%93%E9%82%BB%E5%B1%85%E6%98%AF%E6%A2%85%E5%A7%A8%E5%90%8E%E4%B8%80%E7%82%B9%E4%B8%8D%E6%80%95",
       "cover": "./data/covers/9aa29b284bded994.webp",
@@ -108,7 +108,7 @@
       "raw": {
         "id": 5,
         "title": "男子称知道邻居是梅姨后一点不怕",
-        "heat": "1049.7万",
+        "heat": "1166.4万",
         "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%B7%E5%AD%90%E7%A7%B0%E7%9F%A5%E9%81%93%E9%82%BB%E5%B1%85%E6%98%AF%E6%A2%85%E5%A7%A8%E5%90%8E%E4%B8%80%E7%82%B9%E4%B8%8D%E6%80%95",
         "extra": {
           "icon": null,
@@ -122,7 +122,7 @@
     {
       "rank": 6,
       "title": "重庆一厨师疑似在店内扎血测艾滋",
-      "hot": 10469000,
+      "hot": 11650000,
       "hotText": "",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E9%87%8D%E5%BA%86%E4%B8%80%E5%8E%A8%E5%B8%88%E7%96%91%E4%BC%BC%E5%9C%A8%E5%BA%97%E5%86%85%E6%89%8E%E8%A1%80%E6%B5%8B%E8%89%BE%E6%BB%8B",
       "cover": "./data/covers/8e872c73ab47ae1f.webp",
@@ -131,7 +131,7 @@
       "raw": {
         "id": 6,
         "title": "重庆一厨师疑似在店内扎血测艾滋",
-        "heat": "1046.9万",
+        "heat": "1165万",
         "url": "https://www.kuaishou.com/search/video?searchKey=%E9%87%8D%E5%BA%86%E4%B8%80%E5%8E%A8%E5%B8%88%E7%96%91%E4%BC%BC%E5%9C%A8%E5%BA%97%E5%86%85%E6%89%8E%E8%A1%80%E6%B5%8B%E8%89%BE%E6%BB%8B",
         "extra": {
           "icon": "https://images.weserv.nl/?url=ty2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
@@ -145,7 +145,7 @@
     {
       "rank": 7,
       "title": "苏超八强诞生",
-      "hot": 10455000,
+      "hot": 11644000,
       "hotText": "",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E8%8B%8F%E8%B6%85%E5%85%AB%E5%BC%BA%E8%AF%9E%E7%94%9F",
       "cover": "./data/covers/b105dbef00327a50.webp",
@@ -154,7 +154,7 @@
       "raw": {
         "id": 7,
         "title": "苏超八强诞生",
-        "heat": "1045.5万",
+        "heat": "1164.4万",
         "url": "https://www.kuaishou.com/search/video?searchKey=%E8%8B%8F%E8%B6%85%E5%85%AB%E5%BC%BA%E8%AF%9E%E7%94%9F",
         "extra": {
           "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
@@ -167,17 +167,40 @@
     },
     {
       "rank": 8,
+      "title": "甘肃会宁小学生进军营",
+      "hot": 11637000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%98%E8%82%83%E4%BC%9A%E5%AE%81%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%BF%9B%E5%86%9B%E8%90%A5",
+      "cover": "./data/covers/446bd51537bbd6b8.webp",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 8,
+        "title": "甘肃会宁小学生进军营",
+        "heat": "1163.7万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%98%E8%82%83%E4%BC%9A%E5%AE%81%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%BF%9B%E5%86%9B%E8%90%A5",
+        "extra": {
+          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
+          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
+          "origin_id": "甘肃会宁小学生进军营"
+        }
+      },
+      "summary": "",
+      "category": "其他"
+    },
+    {
+      "rank": 9,
       "title": "何炅 业内证婚人",
-      "hot": 10441000,
+      "hot": 11434000,
       "hotText": "",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BD%95%E7%82%85+%E4%B8%9A%E5%86%85%E8%AF%81%E5%A9%9A%E4%BA%BA",
       "cover": "./data/covers/1d71d9719776ce24.webp",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
-        "id": 8,
+        "id": 9,
         "title": "何炅 业内证婚人",
-        "heat": "1044.1万",
+        "heat": "1143.4万",
         "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BD%95%E7%82%85+%E4%B8%9A%E5%86%85%E8%AF%81%E5%A9%9A%E4%BA%BA",
         "extra": {
           "icon": null,
@@ -189,41 +212,110 @@
       "category": "其他"
     },
     {
-      "rank": 9,
-      "title": "毛东东随团访朝祭扫毛岸英",
-      "hot": 10220000,
+      "rank": 10,
+      "title": "闲鱼被曝涉黄封号9万多",
+      "hot": 11225000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%AF%9B%E4%B8%9C%E4%B8%9C%E9%9A%8F%E5%9B%A2%E8%AE%BF%E6%9C%9D%E7%A5%AD%E6%89%AB%E6%AF%9B%E5%B2%B8%E8%8B%B1",
-      "cover": "./data/covers/1955c4f252238375.webp",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%97%B2%E9%B1%BC%E8%A2%AB%E6%9B%9D%E6%B6%89%E9%BB%84%E5%B0%81%E5%8F%B79%E4%B8%87%E5%A4%9A",
+      "cover": "./data/covers/02dffed85e1b61b6.webp",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
-        "id": 9,
-        "title": "毛东东随团访朝祭扫毛岸英",
-        "heat": "1022万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%AF%9B%E4%B8%9C%E4%B8%9C%E9%9A%8F%E5%9B%A2%E8%AE%BF%E6%9C%9D%E7%A5%AD%E6%89%AB%E6%AF%9B%E5%B2%B8%E8%8B%B1",
+        "id": 10,
+        "title": "闲鱼被曝涉黄封号9万多",
+        "heat": "1122.5万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E9%97%B2%E9%B1%BC%E8%A2%AB%E6%9B%9D%E6%B6%89%E9%BB%84%E5%B0%81%E5%8F%B79%E4%B8%87%E5%A4%9A",
         "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "毛东东随团访朝祭扫毛岸英"
+          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
+          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
+          "origin_id": "闲鱼被曝涉黄封号9万多"
         }
       },
       "summary": "",
       "category": "其他"
     },
     {
-      "rank": 10,
+      "rank": 11,
+      "title": "我的青春结婚了",
+      "hot": 10730000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E7%BB%93%E5%A9%9A%E4%BA%86",
+      "cover": "./data/covers/c0eb1fb510bf2836.webp",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 11,
+        "title": "我的青春结婚了",
+        "heat": "1073万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E7%BB%93%E5%A9%9A%E4%BA%86",
+        "extra": {
+          "icon": "https://images.weserv.nl/?url=ty2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
+          "original_url": "https://ty2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
+          "origin_id": "我的青春结婚了"
+        }
+      },
+      "summary": "",
+      "category": "娱乐"
+    },
+    {
+      "rank": 12,
+      "title": "邓紫棋演唱会深圳站突发意外",
+      "hot": 10648000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%82%93%E7%B4%AB%E6%A3%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B7%B1%E5%9C%B3%E7%AB%99%E7%AA%81%E5%8F%91%E6%84%8F%E5%A4%96",
+      "cover": "./data/covers/6aea961f5c5a8ad5.webp",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 12,
+        "title": "邓紫棋演唱会深圳站突发意外",
+        "heat": "1064.8万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E9%82%93%E7%B4%AB%E6%A3%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B7%B1%E5%9C%B3%E7%AB%99%E7%AA%81%E5%8F%91%E6%84%8F%E5%A4%96",
+        "extra": {
+          "icon": "https://images.weserv.nl/?url=ty2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
+          "original_url": "https://ty2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
+          "origin_id": "邓紫棋演唱会深圳站突发意外"
+        }
+      },
+      "summary": "",
+      "category": "娱乐"
+    },
+    {
+      "rank": 13,
+      "title": "谁懂人生路漫漫响起的这一秒",
+      "hot": 10566000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%B0%81%E6%87%82%E4%BA%BA%E7%94%9F%E8%B7%AF%E6%BC%AB%E6%BC%AB%E5%93%8D%E8%B5%B7%E7%9A%84%E8%BF%99%E4%B8%80%E7%A7%92",
+      "cover": "./data/covers/dd1bf9aa2c531aa3.webp",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 13,
+        "title": "谁懂人生路漫漫响起的这一秒",
+        "heat": "1056.6万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E8%B0%81%E6%87%82%E4%BA%BA%E7%94%9F%E8%B7%AF%E6%BC%AB%E6%BC%AB%E5%93%8D%E8%B5%B7%E7%9A%84%E8%BF%99%E4%B8%80%E7%A7%92",
+        "extra": {
+          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
+          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
+          "origin_id": "谁懂人生路漫漫响起的这一秒"
+        }
+      },
+      "summary": "",
+      "category": "其他"
+    },
+    {
+      "rank": 14,
       "title": "白小白演唱会跳舞了",
-      "hot": 9899000,
+      "hot": 10531000,
       "hotText": "",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%99%BD%E5%B0%8F%E7%99%BD%E6%BC%94%E5%94%B1%E4%BC%9A%E8%B7%B3%E8%88%9E%E4%BA%86",
       "cover": "./data/covers/889b905f3cf0bb78.webp",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
-        "id": 10,
+        "id": 14,
         "title": "白小白演唱会跳舞了",
-        "heat": "989.9万",
+        "heat": "1053.1万",
         "url": "https://www.kuaishou.com/search/video?searchKey=%E7%99%BD%E5%B0%8F%E7%99%BD%E6%BC%94%E5%94%B1%E4%BC%9A%E8%B7%B3%E8%88%9E%E4%BA%86",
         "extra": {
           "icon": null,
@@ -235,115 +327,23 @@
       "category": "娱乐"
     },
     {
-      "rank": 11,
-      "title": "我的青春结婚了",
-      "hot": 9659000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E7%BB%93%E5%A9%9A%E4%BA%86",
-      "cover": "./data/covers/c0eb1fb510bf2836.webp",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 11,
-        "title": "我的青春结婚了",
-        "heat": "965.9万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E7%BB%93%E5%A9%9A%E4%BA%86",
-        "extra": {
-          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
-          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
-          "origin_id": "我的青春结婚了"
-        }
-      },
-      "summary": "",
-      "category": "娱乐"
-    },
-    {
-      "rank": 12,
-      "title": "摊主被西瓜砸头获赔7万",
-      "hot": 9579000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%91%8A%E4%B8%BB%E8%A2%AB%E8%A5%BF%E7%93%9C%E7%A0%B8%E5%A4%B4%E8%8E%B7%E8%B5%947%E4%B8%87",
-      "cover": "./data/covers/14738be640754185.webp",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 12,
-        "title": "摊主被西瓜砸头获赔7万",
-        "heat": "957.9万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%91%8A%E4%B8%BB%E8%A2%AB%E8%A5%BF%E7%93%9C%E7%A0%B8%E5%A4%B4%E8%8E%B7%E8%B5%947%E4%B8%87",
-        "extra": {
-          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
-          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
-          "origin_id": "摊主被西瓜砸头获赔7万"
-        }
-      },
-      "summary": "",
-      "category": "其他"
-    },
-    {
-      "rank": 13,
-      "title": "邓紫棋演唱会深圳站突发意外",
-      "hot": 9544000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%82%93%E7%B4%AB%E6%A3%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B7%B1%E5%9C%B3%E7%AB%99%E7%AA%81%E5%8F%91%E6%84%8F%E5%A4%96",
-      "cover": "./data/covers/6aea961f5c5a8ad5.webp",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 13,
-        "title": "邓紫棋演唱会深圳站突发意外",
-        "heat": "954.4万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E9%82%93%E7%B4%AB%E6%A3%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B7%B1%E5%9C%B3%E7%AB%99%E7%AA%81%E5%8F%91%E6%84%8F%E5%A4%96",
-        "extra": {
-          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
-          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
-          "origin_id": "邓紫棋演唱会深圳站突发意外"
-        }
-      },
-      "summary": "",
-      "category": "娱乐"
-    },
-    {
-      "rank": 14,
-      "title": "菲“九一八”挑衅后果需自己掂量",
-      "hot": 9509000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%8F%B2%E2%80%9C%E4%B9%9D%E4%B8%80%E5%85%AB%E2%80%9D%E6%8C%91%E8%A1%85%E5%90%8E%E6%9E%9C%E9%9C%80%E8%87%AA%E5%B7%B1%E6%8E%82%E9%87%8F",
-      "cover": "./data/covers/14ff43b1673d9517.webp",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 14,
-        "title": "菲“九一八”挑衅后果需自己掂量",
-        "heat": "950.9万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E8%8F%B2%E2%80%9C%E4%B9%9D%E4%B8%80%E5%85%AB%E2%80%9D%E6%8C%91%E8%A1%85%E5%90%8E%E6%9E%9C%E9%9C%80%E8%87%AA%E5%B7%B1%E6%8E%82%E9%87%8F",
-        "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "菲“九一八”挑衅后果需自己掂量"
-        }
-      },
-      "summary": "",
-      "category": "其他"
-    },
-    {
       "rank": 15,
-      "title": "闲鱼被曝涉黄封号9万多",
-      "hot": 9461000,
+      "title": "四川攀枝花泥石流已致5人失联",
+      "hot": 10496000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%97%B2%E9%B1%BC%E8%A2%AB%E6%9B%9D%E6%B6%89%E9%BB%84%E5%B0%81%E5%8F%B79%E4%B8%87%E5%A4%9A",
-      "cover": "./data/covers/02dffed85e1b61b6.webp",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%9B%E5%B7%9D%E6%94%80%E6%9E%9D%E8%8A%B1%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B45%E4%BA%BA%E5%A4%B1%E8%81%94",
+      "cover": "./data/covers/07943a47655ddb0f.webp",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 15,
-        "title": "闲鱼被曝涉黄封号9万多",
-        "heat": "946.1万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E9%97%B2%E9%B1%BC%E8%A2%AB%E6%9B%9D%E6%B6%89%E9%BB%84%E5%B0%81%E5%8F%B79%E4%B8%87%E5%A4%9A",
+        "title": "四川攀枝花泥石流已致5人失联",
+        "heat": "1049.6万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%9B%E5%B7%9D%E6%94%80%E6%9E%9D%E8%8A%B1%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B45%E4%BA%BA%E5%A4%B1%E8%81%94",
         "extra": {
-          "icon": "https://images.weserv.nl/?url=ty2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
-          "original_url": "https://ty2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
-          "origin_id": "闲鱼被曝涉黄封号9万多"
+          "icon": null,
+          "original_url": null,
+          "origin_id": "四川攀枝花泥石流已致5人失联"
         }
       },
       "summary": "",
@@ -351,40 +351,17 @@
     },
     {
       "rank": 16,
-      "title": "张一山聊杨紫近况",
-      "hot": 9426000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%A0%E4%B8%80%E5%B1%B1%E8%81%8A%E6%9D%A8%E7%B4%AB%E8%BF%91%E5%86%B5",
-      "cover": "./data/covers/386eb54d2683f1b1.webp",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 16,
-        "title": "张一山聊杨紫近况",
-        "heat": "942.6万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%A0%E4%B8%80%E5%B1%B1%E8%81%8A%E6%9D%A8%E7%B4%AB%E8%BF%91%E5%86%B5",
-        "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "张一山聊杨紫近况"
-        }
-      },
-      "summary": "",
-      "category": "其他"
-    },
-    {
-      "rank": 17,
       "title": "亚运会开幕式 诡异",
-      "hot": 9408000,
+      "hot": 10444000,
       "hotText": "",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F+%E8%AF%A1%E5%BC%82",
       "cover": "./data/covers/c879e93e08bb68da.webp",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
-        "id": 17,
+        "id": 16,
         "title": "亚运会开幕式 诡异",
-        "heat": "940.8万",
+        "heat": "1044.4万",
         "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F+%E8%AF%A1%E5%BC%82",
         "extra": {
           "icon": null,
@@ -396,64 +373,41 @@
       "category": "体育"
     },
     {
-      "rank": 18,
-      "title": "韩玉涛逝世享年87岁",
-      "hot": 9391000,
+      "rank": 17,
+      "title": "菲“九一八”挑衅后果需自己掂量",
+      "hot": 10392000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%9F%A9%E7%8E%89%E6%B6%9B%E9%80%9D%E4%B8%96%E4%BA%AB%E5%B9%B487%E5%B2%81",
-      "cover": "./data/covers/1304b6acacb1de60.webp",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%8F%B2%E2%80%9C%E4%B9%9D%E4%B8%80%E5%85%AB%E2%80%9D%E6%8C%91%E8%A1%85%E5%90%8E%E6%9E%9C%E9%9C%80%E8%87%AA%E5%B7%B1%E6%8E%82%E9%87%8F",
+      "cover": "./data/covers/14ff43b1673d9517.webp",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
-        "id": 18,
-        "title": "韩玉涛逝世享年87岁",
-        "heat": "939.1万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E9%9F%A9%E7%8E%89%E6%B6%9B%E9%80%9D%E4%B8%96%E4%BA%AB%E5%B9%B487%E5%B2%81",
+        "id": 17,
+        "title": "菲“九一八”挑衅后果需自己掂量",
+        "heat": "1039.2万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E8%8F%B2%E2%80%9C%E4%B9%9D%E4%B8%80%E5%85%AB%E2%80%9D%E6%8C%91%E8%A1%85%E5%90%8E%E6%9E%9C%E9%9C%80%E8%87%AA%E5%B7%B1%E6%8E%82%E9%87%8F",
         "extra": {
           "icon": null,
           "original_url": null,
-          "origin_id": "韩玉涛逝世享年87岁"
+          "origin_id": "菲“九一八”挑衅后果需自己掂量"
         }
       },
       "summary": "",
       "category": "其他"
     },
     {
-      "rank": 19,
-      "title": "腿腿吖节奏猜词包专业的",
-      "hot": 9341000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%85%BF%E8%85%BF%E5%90%96%E8%8A%82%E5%A5%8F%E7%8C%9C%E8%AF%8D%E5%8C%85%E4%B8%93%E4%B8%9A%E7%9A%84",
-      "cover": "./data/covers/f7ba3af673035c8c.webp",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 19,
-        "title": "腿腿吖节奏猜词包专业的",
-        "heat": "934.1万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E8%85%BF%E8%85%BF%E5%90%96%E8%8A%82%E5%A5%8F%E7%8C%9C%E8%AF%8D%E5%8C%85%E4%B8%93%E4%B8%9A%E7%9A%84",
-        "extra": {
-          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
-          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
-          "origin_id": "腿腿吖节奏猜词包专业的"
-        }
-      },
-      "summary": "",
-      "category": "其他"
-    },
-    {
-      "rank": 20,
+      "rank": 18,
       "title": "papi酱的大咪去世",
-      "hot": 9317000,
+      "hot": 10365000,
       "hotText": "",
       "url": "https://www.kuaishou.com/search/video?searchKey=papi%E9%85%B1%E7%9A%84%E5%A4%A7%E5%92%AA%E5%8E%BB%E4%B8%96",
       "cover": "./data/covers/587fc506efae71d8.webp",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
-        "id": 20,
+        "id": 18,
         "title": "papi酱的大咪去世",
-        "heat": "931.7万",
+        "heat": "1036.5万",
         "url": "https://www.kuaishou.com/search/video?searchKey=papi%E9%85%B1%E7%9A%84%E5%A4%A7%E5%92%AA%E5%8E%BB%E4%B8%96",
         "extra": {
           "icon": null,
@@ -465,9 +419,55 @@
       "category": "其他"
     },
     {
+      "rank": 19,
+      "title": "众星出发澳门湾区升明月",
+      "hot": 10315000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BC%97%E6%98%9F%E5%87%BA%E5%8F%91%E6%BE%B3%E9%97%A8%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88",
+      "cover": "./data/covers/e6b36577c83e3266.webp",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 19,
+        "title": "众星出发澳门湾区升明月",
+        "heat": "1031.5万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BC%97%E6%98%9F%E5%87%BA%E5%8F%91%E6%BE%B3%E9%97%A8%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88",
+        "extra": {
+          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
+          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
+          "origin_id": "众星出发澳门湾区升明月"
+        }
+      },
+      "summary": "",
+      "category": "其他"
+    },
+    {
+      "rank": 20,
+      "title": "张一山聊杨紫近况",
+      "hot": 10286000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%A0%E4%B8%80%E5%B1%B1%E8%81%8A%E6%9D%A8%E7%B4%AB%E8%BF%91%E5%86%B5",
+      "cover": "./data/covers/386eb54d2683f1b1.webp",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 20,
+        "title": "张一山聊杨紫近况",
+        "heat": "1028.6万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%A0%E4%B8%80%E5%B1%B1%E8%81%8A%E6%9D%A8%E7%B4%AB%E8%BF%91%E5%86%B5",
+        "extra": {
+          "icon": null,
+          "original_url": null,
+          "origin_id": "张一山聊杨紫近况"
+        }
+      },
+      "summary": "",
+      "category": "其他"
+    },
+    {
       "rank": 21,
       "title": "辽宁打掉5个恶势力团伙",
-      "hot": 9271000,
+      "hot": 10256000,
       "hotText": "",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E8%BE%BD%E5%AE%81%E6%89%93%E6%8E%895%E4%B8%AA%E6%81%B6%E5%8A%BF%E5%8A%9B%E5%9B%A2%E4%BC%99",
       "cover": "./data/covers/ddf519642b12d221.webp",
@@ -476,7 +476,7 @@
       "raw": {
         "id": 21,
         "title": "辽宁打掉5个恶势力团伙",
-        "heat": "927.1万",
+        "heat": "1025.6万",
         "url": "https://www.kuaishou.com/search/video?searchKey=%E8%BE%BD%E5%AE%81%E6%89%93%E6%8E%895%E4%B8%AA%E6%81%B6%E5%8A%BF%E5%8A%9B%E5%9B%A2%E4%BC%99",
         "extra": {
           "icon": null,
@@ -489,40 +489,17 @@
     },
     {
       "rank": 22,
-      "title": "香港设三处吊唁处悼念董建华",
-      "hot": 9219000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%A6%99%E6%B8%AF%E8%AE%BE%E4%B8%89%E5%A4%84%E5%90%8A%E5%94%81%E5%A4%84%E6%82%BC%E5%BF%B5%E8%91%A3%E5%BB%BA%E5%8D%8E",
-      "cover": "./data/covers/3d8fefb63977801a.webp",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 22,
-        "title": "香港设三处吊唁处悼念董建华",
-        "heat": "921.9万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E9%A6%99%E6%B8%AF%E8%AE%BE%E4%B8%89%E5%A4%84%E5%90%8A%E5%94%81%E5%A4%84%E6%82%BC%E5%BF%B5%E8%91%A3%E5%BB%BA%E5%8D%8E",
-        "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "香港设三处吊唁处悼念董建华"
-        }
-      },
-      "summary": "",
-      "category": "其他"
-    },
-    {
-      "rank": 23,
       "title": "日本亚运会离谱",
-      "hot": 9175000,
+      "hot": 10229000,
       "hotText": "",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%97%A5%E6%9C%AC%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%A6%BB%E8%B0%B1",
       "cover": "./data/covers/20f9ad3258df8460.webp",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
-        "id": 23,
+        "id": 22,
         "title": "日本亚运会离谱",
-        "heat": "917.5万",
+        "heat": "1022.9万",
         "url": "https://www.kuaishou.com/search/video?searchKey=%E6%97%A5%E6%9C%AC%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%A6%BB%E8%B0%B1",
         "extra": {
           "icon": null,
@@ -534,9 +511,32 @@
       "category": "体育"
     },
     {
+      "rank": 23,
+      "title": "韩玉涛逝世享年87岁",
+      "hot": 10205000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%9F%A9%E7%8E%89%E6%B6%9B%E9%80%9D%E4%B8%96%E4%BA%AB%E5%B9%B487%E5%B2%81",
+      "cover": "./data/covers/1304b6acacb1de60.webp",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 23,
+        "title": "韩玉涛逝世享年87岁",
+        "heat": "1020.5万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E9%9F%A9%E7%8E%89%E6%B6%9B%E9%80%9D%E4%B8%96%E4%BA%AB%E5%B9%B487%E5%B2%81",
+        "extra": {
+          "icon": null,
+          "original_url": null,
+          "origin_id": "韩玉涛逝世享年87岁"
+        }
+      },
+      "summary": "",
+      "category": "其他"
+    },
+    {
       "rank": 24,
       "title": "老公不给我买iPhone18我就这样",
-      "hot": 9138000,
+      "hot": 10181000,
       "hotText": "",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E8%80%81%E5%85%AC%E4%B8%8D%E7%BB%99%E6%88%91%E4%B9%B0iPhone18%E6%88%91%E5%B0%B1%E8%BF%99%E6%A0%B7",
       "cover": "./data/covers/14a4d02470c664f0.webp",
@@ -545,7 +545,7 @@
       "raw": {
         "id": 24,
         "title": "老公不给我买iPhone18我就这样",
-        "heat": "913.8万",
+        "heat": "1018.1万",
         "url": "https://www.kuaishou.com/search/video?searchKey=%E8%80%81%E5%85%AC%E4%B8%8D%E7%BB%99%E6%88%91%E4%B9%B0iPhone18%E6%88%91%E5%B0%B1%E8%BF%99%E6%A0%B7",
         "extra": {
           "icon": null,
@@ -558,22 +558,22 @@
     },
     {
       "rank": 25,
-      "title": "许嵩冯禧相差14岁",
-      "hot": 9119000,
+      "title": "香港设三处吊唁处悼念董建华",
+      "hot": 10156000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E7%9B%B8%E5%B7%AE14%E5%B2%81",
-      "cover": "./data/covers/d3059184ff244f12.webp",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%A6%99%E6%B8%AF%E8%AE%BE%E4%B8%89%E5%A4%84%E5%90%8A%E5%94%81%E5%A4%84%E6%82%BC%E5%BF%B5%E8%91%A3%E5%BB%BA%E5%8D%8E",
+      "cover": "./data/covers/3d8fefb63977801a.webp",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
         "id": 25,
-        "title": "许嵩冯禧相差14岁",
-        "heat": "911.9万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E7%9B%B8%E5%B7%AE14%E5%B2%81",
+        "title": "香港设三处吊唁处悼念董建华",
+        "heat": "1015.6万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E9%A6%99%E6%B8%AF%E8%AE%BE%E4%B8%89%E5%A4%84%E5%90%8A%E5%94%81%E5%A4%84%E6%82%BC%E5%BF%B5%E8%91%A3%E5%BB%BA%E5%8D%8E",
         "extra": {
-          "icon": "https://images.weserv.nl/?url=ty2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
-          "original_url": "https://ty2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
-          "origin_id": "许嵩冯禧相差14岁"
+          "icon": null,
+          "original_url": null,
+          "origin_id": "香港设三处吊唁处悼念董建华"
         }
       },
       "summary": "",
@@ -581,408 +581,17 @@
     },
     {
       "rank": 26,
-      "title": "西贝辟谣倒闭传闻",
-      "hot": 9100000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%A5%BF%E8%B4%9D%E8%BE%9F%E8%B0%A3%E5%80%92%E9%97%AD%E4%BC%A0%E9%97%BB",
-      "cover": "./data/covers/35720be51cf969d3.webp",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 26,
-        "title": "西贝辟谣倒闭传闻",
-        "heat": "910万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E8%A5%BF%E8%B4%9D%E8%BE%9F%E8%B0%A3%E5%80%92%E9%97%AD%E4%BC%A0%E9%97%BB",
-        "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "西贝辟谣倒闭传闻"
-        }
-      },
-      "summary": "",
-      "category": "其他"
-    },
-    {
-      "rank": 27,
-      "title": "台风来了亚运村邮轮要先跑",
-      "hot": 9075000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E9%A3%8E%E6%9D%A5%E4%BA%86%E4%BA%9A%E8%BF%90%E6%9D%91%E9%82%AE%E8%BD%AE%E8%A6%81%E5%85%88%E8%B7%91",
-      "cover": "./data/covers/3f31dd13298a896b.webp",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 27,
-        "title": "台风来了亚运村邮轮要先跑",
-        "heat": "907.5万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E9%A3%8E%E6%9D%A5%E4%BA%86%E4%BA%9A%E8%BF%90%E6%9D%91%E9%82%AE%E8%BD%AE%E8%A6%81%E5%85%88%E8%B7%91",
-        "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "台风来了亚运村邮轮要先跑"
-        }
-      },
-      "summary": "",
-      "category": "社会民生"
-    },
-    {
-      "rank": 28,
-      "title": "奇葩月饼大测评",
-      "hot": 9047000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A5%87%E8%91%A9%E6%9C%88%E9%A5%BC%E5%A4%A7%E6%B5%8B%E8%AF%84",
-      "cover": "./data/covers/50a98abd5b717b34.webp",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 28,
-        "title": "奇葩月饼大测评",
-        "heat": "904.7万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A5%87%E8%91%A9%E6%9C%88%E9%A5%BC%E5%A4%A7%E6%B5%8B%E8%AF%84",
-        "extra": {
-          "icon": "https://images.weserv.nl/?url=ty2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
-          "original_url": "https://ty2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
-          "origin_id": "奇葩月饼大测评"
-        }
-      },
-      "summary": "",
-      "category": "其他"
-    },
-    {
-      "rank": 29,
-      "title": "吃月饼的风俗在明代兴起",
-      "hot": 8999000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%90%83%E6%9C%88%E9%A5%BC%E7%9A%84%E9%A3%8E%E4%BF%97%E5%9C%A8%E6%98%8E%E4%BB%A3%E5%85%B4%E8%B5%B7",
-      "cover": "./data/covers/5313a096f71544e8.webp",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 29,
-        "title": "吃月饼的风俗在明代兴起",
-        "heat": "899.9万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%90%83%E6%9C%88%E9%A5%BC%E7%9A%84%E9%A3%8E%E4%BF%97%E5%9C%A8%E6%98%8E%E4%BB%A3%E5%85%B4%E8%B5%B7",
-        "extra": {
-          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
-          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
-          "origin_id": "吃月饼的风俗在明代兴起"
-        }
-      },
-      "summary": "",
-      "category": "其他"
-    },
-    {
-      "rank": 30,
-      "title": "女子失踪7年托梦闺蜜破案",
-      "hot": 8973000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A5%B3%E5%AD%90%E5%A4%B1%E8%B8%AA7%E5%B9%B4%E6%89%98%E6%A2%A6%E9%97%BA%E8%9C%9C%E7%A0%B4%E6%A1%88",
-      "cover": "./data/covers/f93f8f3d6fe40583.webp",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 30,
-        "title": "女子失踪7年托梦闺蜜破案",
-        "heat": "897.3万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A5%B3%E5%AD%90%E5%A4%B1%E8%B8%AA7%E5%B9%B4%E6%89%98%E6%A2%A6%E9%97%BA%E8%9C%9C%E7%A0%B4%E6%A1%88",
-        "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "女子失踪7年托梦闺蜜破案"
-        }
-      },
-      "summary": "",
-      "category": "社会民生"
-    },
-    {
-      "rank": 31,
-      "title": "接冯禧追星运",
-      "hot": 8949000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%8E%A5%E5%86%AF%E7%A6%A7%E8%BF%BD%E6%98%9F%E8%BF%90",
-      "cover": "./data/covers/e06d9328e4fc208b.webp",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 31,
-        "title": "接冯禧追星运",
-        "heat": "894.9万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%8E%A5%E5%86%AF%E7%A6%A7%E8%BF%BD%E6%98%9F%E8%BF%90",
-        "extra": {
-          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
-          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
-          "origin_id": "接冯禧追星运"
-        }
-      },
-      "summary": "",
-      "category": "其他"
-    },
-    {
-      "rank": 32,
-      "title": "上5休3上3休7",
-      "hot": 8925000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%8A5%E4%BC%913%E4%B8%8A3%E4%BC%917",
-      "cover": "./data/covers/87600000c95e149c.webp",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 32,
-        "title": "上5休3上3休7",
-        "heat": "892.5万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%8A5%E4%BC%913%E4%B8%8A3%E4%BC%917",
-        "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "上5休3上3休7"
-        }
-      },
-      "summary": "",
-      "category": "其他"
-    },
-    {
-      "rank": 33,
-      "title": "秦腔名家李爱琴逝世",
-      "hot": 8904000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%A7%A6%E8%85%94%E5%90%8D%E5%AE%B6%E6%9D%8E%E7%88%B1%E7%90%B4%E9%80%9D%E4%B8%96",
-      "cover": "./data/covers/cfb030f85cf83b32.webp",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 33,
-        "title": "秦腔名家李爱琴逝世",
-        "heat": "890.4万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E7%A7%A6%E8%85%94%E5%90%8D%E5%AE%B6%E6%9D%8E%E7%88%B1%E7%90%B4%E9%80%9D%E4%B8%96",
-        "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "秦腔名家李爱琴逝世"
-        }
-      },
-      "summary": "",
-      "category": "其他"
-    },
-    {
-      "rank": 34,
-      "title": "中国女篮111比46大胜泰国",
-      "hot": 8882000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE111%E6%AF%9446%E5%A4%A7%E8%83%9C%E6%B3%B0%E5%9B%BD",
-      "cover": "./data/covers/393fad5dddb2d1fe.webp",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 34,
-        "title": "中国女篮111比46大胜泰国",
-        "heat": "888.2万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE111%E6%AF%9446%E5%A4%A7%E8%83%9C%E6%B3%B0%E5%9B%BD",
-        "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "中国女篮111比46大胜泰国"
-        }
-      },
-      "summary": "",
-      "category": "体育"
-    },
-    {
-      "rank": 35,
-      "title": "法院判赔22万最终执行仅11.3元",
-      "hot": 8827000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B3%95%E9%99%A2%E5%88%A4%E8%B5%9422%E4%B8%87%E6%9C%80%E7%BB%88%E6%89%A7%E8%A1%8C%E4%BB%8511.3%E5%85%83",
-      "cover": "./data/covers/f8a6f83e8369d002.webp",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 35,
-        "title": "法院判赔22万最终执行仅11.3元",
-        "heat": "882.7万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B3%95%E9%99%A2%E5%88%A4%E8%B5%9422%E4%B8%87%E6%9C%80%E7%BB%88%E6%89%A7%E8%A1%8C%E4%BB%8511.3%E5%85%83",
-        "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "法院判赔22万最终执行仅11.3元"
-        }
-      },
-      "summary": "",
-      "category": "其他"
-    },
-    {
-      "rank": 36,
-      "title": "加装聚能环母子中毒身亡获赔65万",
-      "hot": 8803000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8A%A0%E8%A3%85%E8%81%9A%E8%83%BD%E7%8E%AF%E6%AF%8D%E5%AD%90%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1%E8%8E%B7%E8%B5%9465%E4%B8%87",
-      "cover": "./data/covers/04ee010324d46ce3.webp",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 36,
-        "title": "加装聚能环母子中毒身亡获赔65万",
-        "heat": "880.3万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8A%A0%E8%A3%85%E8%81%9A%E8%83%BD%E7%8E%AF%E6%AF%8D%E5%AD%90%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1%E8%8E%B7%E8%B5%9465%E4%B8%87",
-        "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "加装聚能环母子中毒身亡获赔65万"
-        }
-      },
-      "summary": "",
-      "category": "其他"
-    },
-    {
-      "rank": 37,
-      "title": "中国男篮为什么输",
-      "hot": 8773000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BE%93",
-      "cover": "./data/covers/d6e92f3bfc03ba3b.webp",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 37,
-        "title": "中国男篮为什么输",
-        "heat": "877.3万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BE%93",
-        "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "中国男篮为什么输"
-        }
-      },
-      "summary": "",
-      "category": "体育"
-    },
-    {
-      "rank": 38,
-      "title": "康辉撒贝宁中秋晚会兔子掉下来",
-      "hot": 8747000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BA%B7%E8%BE%89%E6%92%92%E8%B4%9D%E5%AE%81%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E5%85%94%E5%AD%90%E6%8E%89%E4%B8%8B%E6%9D%A5",
-      "cover": "./data/covers/c2e52281d20ee0e3.webp",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 38,
-        "title": "康辉撒贝宁中秋晚会兔子掉下来",
-        "heat": "874.7万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BA%B7%E8%BE%89%E6%92%92%E8%B4%9D%E5%AE%81%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E5%85%94%E5%AD%90%E6%8E%89%E4%B8%8B%E6%9D%A5",
-        "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "康辉撒贝宁中秋晚会兔子掉下来"
-        }
-      },
-      "summary": "",
-      "category": "其他"
-    },
-    {
-      "rank": 39,
-      "title": "诺如病毒进入高发期",
-      "hot": 8721000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%AF%BA%E5%A6%82%E7%97%85%E6%AF%92%E8%BF%9B%E5%85%A5%E9%AB%98%E5%8F%91%E6%9C%9F",
-      "cover": "./data/covers/4d47275e77dd4896.webp",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 39,
-        "title": "诺如病毒进入高发期",
-        "heat": "872.1万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E8%AF%BA%E5%A6%82%E7%97%85%E6%AF%92%E8%BF%9B%E5%85%A5%E9%AB%98%E5%8F%91%E6%9C%9F",
-        "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "诺如病毒进入高发期"
-        }
-      },
-      "summary": "",
-      "category": "其他"
-    },
-    {
-      "rank": 40,
-      "title": "“错换人生28年”姚策的生父去世",
-      "hot": 8695000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E2%80%9C%E9%94%99%E6%8D%A2%E4%BA%BA%E7%94%9F28%E5%B9%B4%E2%80%9D%E5%A7%9A%E7%AD%96%E7%9A%84%E7%94%9F%E7%88%B6%E5%8E%BB%E4%B8%96",
-      "cover": "./data/covers/e709753cd7aaa1fd.webp",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 40,
-        "title": "“错换人生28年”姚策的生父去世",
-        "heat": "869.5万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E2%80%9C%E9%94%99%E6%8D%A2%E4%BA%BA%E7%94%9F28%E5%B9%B4%E2%80%9D%E5%A7%9A%E7%AD%96%E7%9A%84%E7%94%9F%E7%88%B6%E5%8E%BB%E4%B8%96",
-        "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "“错换人生28年”姚策的生父去世"
-        }
-      },
-      "summary": "",
-      "category": "其他"
-    },
-    {
-      "rank": 41,
-      "title": "张本智和说日本夺冠概率比中国高",
-      "hot": 8668000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E8%AF%B4%E6%97%A5%E6%9C%AC%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E6%AF%94%E4%B8%AD%E5%9B%BD%E9%AB%98",
-      "cover": "./data/covers/bb5da76fa2877416.webp",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 41,
-        "title": "张本智和说日本夺冠概率比中国高",
-        "heat": "866.8万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E8%AF%B4%E6%97%A5%E6%9C%AC%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E6%AF%94%E4%B8%AD%E5%9B%BD%E9%AB%98",
-        "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "张本智和说日本夺冠概率比中国高"
-        }
-      },
-      "summary": "",
-      "category": "其他"
-    },
-    {
-      "rank": 42,
-      "title": "小霸王拍婚纱照途中呼吸性碱中毒",
-      "hot": 8648000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B0%8F%E9%9C%B8%E7%8E%8B%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%E9%80%94%E4%B8%AD%E5%91%BC%E5%90%B8%E6%80%A7%E7%A2%B1%E4%B8%AD%E6%AF%92",
-      "cover": "./data/covers/a81f395b88297bf2.webp",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 42,
-        "title": "小霸王拍婚纱照途中呼吸性碱中毒",
-        "heat": "864.8万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B0%8F%E9%9C%B8%E7%8E%8B%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%E9%80%94%E4%B8%AD%E5%91%BC%E5%90%B8%E6%80%A7%E7%A2%B1%E4%B8%AD%E6%AF%92",
-        "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "小霸王拍婚纱照途中呼吸性碱中毒"
-        }
-      },
-      "summary": "",
-      "category": "其他"
-    },
-    {
-      "rank": 43,
       "title": "12306已拒绝出票133.1万张",
-      "hot": 8624000,
+      "hot": 10130000,
       "hotText": "",
       "url": "https://www.kuaishou.com/search/video?searchKey=12306%E5%B7%B2%E6%8B%92%E7%BB%9D%E5%87%BA%E7%A5%A8133.1%E4%B8%87%E5%BC%A0",
       "cover": "./data/covers/6a15d38e57b7f29d.webp",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
-        "id": 43,
+        "id": 26,
         "title": "12306已拒绝出票133.1万张",
-        "heat": "862.4万",
+        "heat": "1013万",
         "url": "https://www.kuaishou.com/search/video?searchKey=12306%E5%B7%B2%E6%8B%92%E7%BB%9D%E5%87%BA%E7%A5%A8133.1%E4%B8%87%E5%BC%A0",
         "extra": {
           "icon": null,
@@ -994,18 +603,478 @@
       "category": "其他"
     },
     {
+      "rank": 27,
+      "title": "许嵩冯禧相差14岁",
+      "hot": 10066000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E7%9B%B8%E5%B7%AE14%E5%B2%81",
+      "cover": "./data/covers/d3059184ff244f12.webp",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 27,
+        "title": "许嵩冯禧相差14岁",
+        "heat": "1006.6万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E7%9B%B8%E5%B7%AE14%E5%B2%81",
+        "extra": {
+          "icon": "https://images.weserv.nl/?url=ty2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
+          "original_url": "https://ty2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
+          "origin_id": "许嵩冯禧相差14岁"
+        }
+      },
+      "summary": "",
+      "category": "其他"
+    },
+    {
+      "rank": 28,
+      "title": "上5休3上3休7",
+      "hot": 10002000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%8A5%E4%BC%913%E4%B8%8A3%E4%BC%917",
+      "cover": "./data/covers/87600000c95e149c.webp",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 28,
+        "title": "上5休3上3休7",
+        "heat": "1000.2万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%8A5%E4%BC%913%E4%B8%8A3%E4%BC%917",
+        "extra": {
+          "icon": null,
+          "original_url": null,
+          "origin_id": "上5休3上3休7"
+        }
+      },
+      "summary": "",
+      "category": "其他"
+    },
+    {
+      "rank": 29,
+      "title": "白小白演唱会开场",
+      "hot": 9949000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%99%BD%E5%B0%8F%E7%99%BD%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%80%E5%9C%BA",
+      "cover": "./data/covers/2583ff8ec996a9a6.webp",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 29,
+        "title": "白小白演唱会开场",
+        "heat": "994.9万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E7%99%BD%E5%B0%8F%E7%99%BD%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%80%E5%9C%BA",
+        "extra": {
+          "icon": null,
+          "original_url": null,
+          "origin_id": "白小白演唱会开场"
+        }
+      },
+      "summary": "",
+      "category": "娱乐"
+    },
+    {
+      "rank": 30,
+      "title": "张本智和说日本夺冠概率比中国高",
+      "hot": 9924000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E8%AF%B4%E6%97%A5%E6%9C%AC%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E6%AF%94%E4%B8%AD%E5%9B%BD%E9%AB%98",
+      "cover": "./data/covers/bb5da76fa2877416.webp",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 30,
+        "title": "张本智和说日本夺冠概率比中国高",
+        "heat": "992.4万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E8%AF%B4%E6%97%A5%E6%9C%AC%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E6%AF%94%E4%B8%AD%E5%9B%BD%E9%AB%98",
+        "extra": {
+          "icon": null,
+          "original_url": null,
+          "origin_id": "张本智和说日本夺冠概率比中国高"
+        }
+      },
+      "summary": "",
+      "category": "其他"
+    },
+    {
+      "rank": 31,
+      "title": "摊主被西瓜砸头获赔7万",
+      "hot": 9896000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%91%8A%E4%B8%BB%E8%A2%AB%E8%A5%BF%E7%93%9C%E7%A0%B8%E5%A4%B4%E8%8E%B7%E8%B5%947%E4%B8%87",
+      "cover": "./data/covers/14738be640754185.webp",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 31,
+        "title": "摊主被西瓜砸头获赔7万",
+        "heat": "989.6万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%91%8A%E4%B8%BB%E8%A2%AB%E8%A5%BF%E7%93%9C%E7%A0%B8%E5%A4%B4%E8%8E%B7%E8%B5%947%E4%B8%87",
+        "extra": {
+          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
+          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
+          "origin_id": "摊主被西瓜砸头获赔7万"
+        }
+      },
+      "summary": "",
+      "category": "其他"
+    },
+    {
+      "rank": 32,
+      "title": "秦腔名家李爱琴逝世",
+      "hot": 9875000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%A7%A6%E8%85%94%E5%90%8D%E5%AE%B6%E6%9D%8E%E7%88%B1%E7%90%B4%E9%80%9D%E4%B8%96",
+      "cover": "./data/covers/cfb030f85cf83b32.webp",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 32,
+        "title": "秦腔名家李爱琴逝世",
+        "heat": "987.5万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E7%A7%A6%E8%85%94%E5%90%8D%E5%AE%B6%E6%9D%8E%E7%88%B1%E7%90%B4%E9%80%9D%E4%B8%96",
+        "extra": {
+          "icon": null,
+          "original_url": null,
+          "origin_id": "秦腔名家李爱琴逝世"
+        }
+      },
+      "summary": "",
+      "category": "其他"
+    },
+    {
+      "rank": 33,
+      "title": "白小白我爱你不问归期",
+      "hot": 9850000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%99%BD%E5%B0%8F%E7%99%BD%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%8D%E9%97%AE%E5%BD%92%E6%9C%9F",
+      "cover": "./data/covers/1fec179466a7c757.webp",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 33,
+        "title": "白小白我爱你不问归期",
+        "heat": "985万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E7%99%BD%E5%B0%8F%E7%99%BD%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%8D%E9%97%AE%E5%BD%92%E6%9C%9F",
+        "extra": {
+          "icon": "https://images.weserv.nl/?url=hw2.a.kwimgs.com%2Fudata%2Fpkg%2Fnebula-app%2Frank_tag_new3x.png",
+          "original_url": "https://hw2.a.kwimgs.com/udata/pkg/nebula-app/rank_tag_new3x.png",
+          "origin_id": "白小白我爱你不问归期"
+        }
+      },
+      "summary": "",
+      "category": "其他"
+    },
+    {
+      "rank": 34,
+      "title": "小沈阳包头演唱会",
+      "hot": 9826000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B0%8F%E6%B2%88%E9%98%B3%E5%8C%85%E5%A4%B4%E6%BC%94%E5%94%B1%E4%BC%9A",
+      "cover": "./data/covers/95f08a10cfac98ca.webp",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 34,
+        "title": "小沈阳包头演唱会",
+        "heat": "982.6万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B0%8F%E6%B2%88%E9%98%B3%E5%8C%85%E5%A4%B4%E6%BC%94%E5%94%B1%E4%BC%9A",
+        "extra": {
+          "icon": null,
+          "original_url": null,
+          "origin_id": "小沈阳包头演唱会"
+        }
+      },
+      "summary": "",
+      "category": "娱乐"
+    },
+    {
+      "rank": 35,
+      "title": "超长蛋挞的风吹到蛋糕界了",
+      "hot": 9802000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%B6%85%E9%95%BF%E8%9B%8B%E6%8C%9E%E7%9A%84%E9%A3%8E%E5%90%B9%E5%88%B0%E8%9B%8B%E7%B3%95%E7%95%8C%E4%BA%86",
+      "cover": "./data/covers/bd3fd676bce68c6e.webp",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 35,
+        "title": "超长蛋挞的风吹到蛋糕界了",
+        "heat": "980.2万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E8%B6%85%E9%95%BF%E8%9B%8B%E6%8C%9E%E7%9A%84%E9%A3%8E%E5%90%B9%E5%88%B0%E8%9B%8B%E7%B3%95%E7%95%8C%E4%BA%86",
+        "extra": {
+          "icon": null,
+          "original_url": null,
+          "origin_id": "超长蛋挞的风吹到蛋糕界了"
+        }
+      },
+      "summary": "",
+      "category": "其他"
+    },
+    {
+      "rank": 36,
+      "title": "跳舞才能关掉的闹钟都用起来",
+      "hot": 9779000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%B7%B3%E8%88%9E%E6%89%8D%E8%83%BD%E5%85%B3%E6%8E%89%E7%9A%84%E9%97%B9%E9%92%9F%E9%83%BD%E7%94%A8%E8%B5%B7%E6%9D%A5",
+      "cover": "./data/covers/c6f7511e4c705524.webp",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 36,
+        "title": "跳舞才能关掉的闹钟都用起来",
+        "heat": "977.9万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E8%B7%B3%E8%88%9E%E6%89%8D%E8%83%BD%E5%85%B3%E6%8E%89%E7%9A%84%E9%97%B9%E9%92%9F%E9%83%BD%E7%94%A8%E8%B5%B7%E6%9D%A5",
+        "extra": {
+          "icon": null,
+          "original_url": null,
+          "origin_id": "跳舞才能关掉的闹钟都用起来"
+        }
+      },
+      "summary": "",
+      "category": "其他"
+    },
+    {
+      "rank": 37,
+      "title": "女子失踪7年托梦闺蜜破案",
+      "hot": 9751000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A5%B3%E5%AD%90%E5%A4%B1%E8%B8%AA7%E5%B9%B4%E6%89%98%E6%A2%A6%E9%97%BA%E8%9C%9C%E7%A0%B4%E6%A1%88",
+      "cover": "./data/covers/f93f8f3d6fe40583.webp",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 37,
+        "title": "女子失踪7年托梦闺蜜破案",
+        "heat": "975.1万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A5%B3%E5%AD%90%E5%A4%B1%E8%B8%AA7%E5%B9%B4%E6%89%98%E6%A2%A6%E9%97%BA%E8%9C%9C%E7%A0%B4%E6%A1%88",
+        "extra": {
+          "icon": null,
+          "original_url": null,
+          "origin_id": "女子失踪7年托梦闺蜜破案"
+        }
+      },
+      "summary": "",
+      "category": "社会民生"
+    },
+    {
+      "rank": 38,
+      "title": "王者荣耀貂蝉cos",
+      "hot": 9727000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%B2%82%E8%9D%89cos",
+      "cover": "./data/covers/5a1a6b69f929c700.webp",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 38,
+        "title": "王者荣耀貂蝉cos",
+        "heat": "972.7万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%B2%82%E8%9D%89cos",
+        "extra": {
+          "icon": null,
+          "original_url": null,
+          "origin_id": "王者荣耀貂蝉cos"
+        }
+      },
+      "summary": "",
+      "category": "其他"
+    },
+    {
+      "rank": 39,
+      "title": "中国队有望冲击亚运电竞首金",
+      "hot": 9701000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%9C%89%E6%9C%9B%E5%86%B2%E5%87%BB%E4%BA%9A%E8%BF%90%E7%94%B5%E7%AB%9E%E9%A6%96%E9%87%91",
+      "cover": "./data/covers/3b8b9018cafffadc.webp",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 39,
+        "title": "中国队有望冲击亚运电竞首金",
+        "heat": "970.1万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%9C%89%E6%9C%9B%E5%86%B2%E5%87%BB%E4%BA%9A%E8%BF%90%E7%94%B5%E7%AB%9E%E9%A6%96%E9%87%91",
+        "extra": {
+          "icon": null,
+          "original_url": null,
+          "origin_id": "中国队有望冲击亚运电竞首金"
+        }
+      },
+      "summary": "",
+      "category": "体育"
+    },
+    {
+      "rank": 40,
+      "title": "开学第一批被逼疯的人出现了",
+      "hot": 9672000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E6%89%B9%E8%A2%AB%E9%80%BC%E7%96%AF%E7%9A%84%E4%BA%BA%E5%87%BA%E7%8E%B0%E4%BA%86",
+      "cover": "./data/covers/80dbe7bfba5f2940.webp",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 40,
+        "title": "开学第一批被逼疯的人出现了",
+        "heat": "967.2万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E6%89%B9%E8%A2%AB%E9%80%BC%E7%96%AF%E7%9A%84%E4%BA%BA%E5%87%BA%E7%8E%B0%E4%BA%86",
+        "extra": {
+          "icon": null,
+          "original_url": null,
+          "origin_id": "开学第一批被逼疯的人出现了"
+        }
+      },
+      "summary": "",
+      "category": "其他"
+    },
+    {
+      "rank": 41,
+      "title": "iPhone18Pro配置大变化",
+      "hot": 9643000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=iPhone18Pro%E9%85%8D%E7%BD%AE%E5%A4%A7%E5%8F%98%E5%8C%96",
+      "cover": "./data/covers/c2ef2b438a68fb5c.webp",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 41,
+        "title": "iPhone18Pro配置大变化",
+        "heat": "964.3万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=iPhone18Pro%E9%85%8D%E7%BD%AE%E5%A4%A7%E5%8F%98%E5%8C%96",
+        "extra": {
+          "icon": null,
+          "original_url": null,
+          "origin_id": "iPhone18Pro配置大变化"
+        }
+      },
+      "summary": "",
+      "category": "科技"
+    },
+    {
+      "rank": 42,
+      "title": "新疆一男生神似科比走红",
+      "hot": 9615000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%96%B0%E7%96%86%E4%B8%80%E7%94%B7%E7%94%9F%E7%A5%9E%E4%BC%BC%E7%A7%91%E6%AF%94%E8%B5%B0%E7%BA%A2",
+      "cover": "./data/covers/2633920076eae733.webp",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 42,
+        "title": "新疆一男生神似科比走红",
+        "heat": "961.5万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%96%B0%E7%96%86%E4%B8%80%E7%94%B7%E7%94%9F%E7%A5%9E%E4%BC%BC%E7%A7%91%E6%AF%94%E8%B5%B0%E7%BA%A2",
+        "extra": {
+          "icon": null,
+          "original_url": null,
+          "origin_id": "新疆一男生神似科比走红"
+        }
+      },
+      "summary": "",
+      "category": "其他"
+    },
+    {
+      "rank": 43,
+      "title": "“错换人生28年”姚策的生父去世",
+      "hot": 9591000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E2%80%9C%E9%94%99%E6%8D%A2%E4%BA%BA%E7%94%9F28%E5%B9%B4%E2%80%9D%E5%A7%9A%E7%AD%96%E7%9A%84%E7%94%9F%E7%88%B6%E5%8E%BB%E4%B8%96",
+      "cover": "./data/covers/e709753cd7aaa1fd.webp",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 43,
+        "title": "“错换人生28年”姚策的生父去世",
+        "heat": "959.1万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E2%80%9C%E9%94%99%E6%8D%A2%E4%BA%BA%E7%94%9F28%E5%B9%B4%E2%80%9D%E5%A7%9A%E7%AD%96%E7%9A%84%E7%94%9F%E7%88%B6%E5%8E%BB%E4%B8%96",
+        "extra": {
+          "icon": null,
+          "original_url": null,
+          "origin_id": "“错换人生28年”姚策的生父去世"
+        }
+      },
+      "summary": "",
+      "category": "其他"
+    },
+    {
       "rank": 44,
+      "title": "中国男篮为什么输",
+      "hot": 9566000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BE%93",
+      "cover": "./data/covers/d6e92f3bfc03ba3b.webp",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 44,
+        "title": "中国男篮为什么输",
+        "heat": "956.6万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BE%93",
+        "extra": {
+          "icon": null,
+          "original_url": null,
+          "origin_id": "中国男篮为什么输"
+        }
+      },
+      "summary": "",
+      "category": "体育"
+    },
+    {
+      "rank": 45,
+      "title": "甲乙丙丁清唱挑战",
+      "hot": 9558000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%B2%E4%B9%99%E4%B8%99%E4%B8%81%E6%B8%85%E5%94%B1%E6%8C%91%E6%88%98",
+      "cover": "./data/covers/c306912e6fe4e582.webp",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 45,
+        "title": "甲乙丙丁清唱挑战",
+        "heat": "955.8万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%B2%E4%B9%99%E4%B8%99%E4%B8%81%E6%B8%85%E5%94%B1%E6%8C%91%E6%88%98",
+        "extra": {
+          "icon": null,
+          "original_url": null,
+          "origin_id": "甲乙丙丁清唱挑战"
+        }
+      },
+      "summary": "",
+      "category": "其他"
+    },
+    {
+      "rank": 46,
+      "title": "法院判赔22万最终执行仅11.3元",
+      "hot": 9552000,
+      "hotText": "",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B3%95%E9%99%A2%E5%88%A4%E8%B5%9422%E4%B8%87%E6%9C%80%E7%BB%88%E6%89%A7%E8%A1%8C%E4%BB%8511.3%E5%85%83",
+      "cover": "./data/covers/f8a6f83e8369d002.webp",
+      "source": "kuaishou",
+      "sourceName": "快手",
+      "raw": {
+        "id": 46,
+        "title": "法院判赔22万最终执行仅11.3元",
+        "heat": "955.2万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B3%95%E9%99%A2%E5%88%A4%E8%B5%9422%E4%B8%87%E6%9C%80%E7%BB%88%E6%89%A7%E8%A1%8C%E4%BB%8511.3%E5%85%83",
+        "extra": {
+          "icon": null,
+          "original_url": null,
+          "origin_id": "法院判赔22万最终执行仅11.3元"
+        }
+      },
+      "summary": "",
+      "category": "其他"
+    },
+    {
+      "rank": 47,
       "title": "白小白重庆演唱会",
-      "hot": 8609000,
+      "hot": 9546000,
       "hotText": "",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%99%BD%E5%B0%8F%E7%99%BD%E9%87%8D%E5%BA%86%E6%BC%94%E5%94%B1%E4%BC%9A",
       "cover": "./data/covers/2bcb00de9ce65c9e.webp",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
-        "id": 44,
+        "id": 47,
         "title": "白小白重庆演唱会",
-        "heat": "860.9万",
+        "heat": "954.6万",
         "url": "https://www.kuaishou.com/search/video?searchKey=%E7%99%BD%E5%B0%8F%E7%99%BD%E9%87%8D%E5%BA%86%E6%BC%94%E5%94%B1%E4%BC%9A",
         "extra": {
           "icon": null,
@@ -1017,69 +1086,23 @@
       "category": "娱乐"
     },
     {
-      "rank": 45,
-      "title": "快手武林大会赛前团建",
-      "hot": 8601000,
+      "rank": 48,
+      "title": "加装聚能环母子中毒身亡获赔65万",
+      "hot": 9539000,
       "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BF%AB%E6%89%8B%E6%AD%A6%E6%9E%97%E5%A4%A7%E4%BC%9A%E8%B5%9B%E5%89%8D%E5%9B%A2%E5%BB%BA",
-      "cover": "./data/covers/6082f71854b04511.webp",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8A%A0%E8%A3%85%E8%81%9A%E8%83%BD%E7%8E%AF%E6%AF%8D%E5%AD%90%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1%E8%8E%B7%E8%B5%9465%E4%B8%87",
+      "cover": "./data/covers/04ee010324d46ce3.webp",
       "source": "kuaishou",
       "sourceName": "快手",
       "raw": {
-        "id": 45,
-        "title": "快手武林大会赛前团建",
-        "heat": "860.1万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BF%AB%E6%89%8B%E6%AD%A6%E6%9E%97%E5%A4%A7%E4%BC%9A%E8%B5%9B%E5%89%8D%E5%9B%A2%E5%BB%BA",
+        "id": 48,
+        "title": "加装聚能环母子中毒身亡获赔65万",
+        "heat": "953.9万",
+        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8A%A0%E8%A3%85%E8%81%9A%E8%83%BD%E7%8E%AF%E6%AF%8D%E5%AD%90%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1%E8%8E%B7%E8%B5%9465%E4%B8%87",
         "extra": {
           "icon": null,
           "original_url": null,
-          "origin_id": "快手武林大会赛前团建"
-        }
-      },
-      "summary": "",
-      "category": "其他"
-    },
-    {
-      "rank": 46,
-      "title": "大疆张雪机车车机联动",
-      "hot": 8597000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%A7%E7%96%86%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E8%BD%A6%E6%9C%BA%E8%81%94%E5%8A%A8",
-      "cover": "./data/covers/80af4814327e1c8d.webp",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 46,
-        "title": "大疆张雪机车车机联动",
-        "heat": "859.7万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%A7%E7%96%86%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E8%BD%A6%E6%9C%BA%E8%81%94%E5%8A%A8",
-        "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "大疆张雪机车车机联动"
-        }
-      },
-      "summary": "",
-      "category": "其他"
-    },
-    {
-      "rank": 47,
-      "title": "生母回应姚策生父去世",
-      "hot": 8593000,
-      "hotText": "",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%9F%E6%AF%8D%E5%9B%9E%E5%BA%94%E5%A7%9A%E7%AD%96%E7%94%9F%E7%88%B6%E5%8E%BB%E4%B8%96",
-      "cover": "./data/covers/ee8eda94d04e9025.webp",
-      "source": "kuaishou",
-      "sourceName": "快手",
-      "raw": {
-        "id": 47,
-        "title": "生母回应姚策生父去世",
-        "heat": "859.3万",
-        "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%9F%E6%AF%8D%E5%9B%9E%E5%BA%94%E5%A7%9A%E7%AD%96%E7%94%9F%E7%88%B6%E5%8E%BB%E4%B8%96",
-        "extra": {
-          "icon": null,
-          "original_url": null,
-          "origin_id": "生母回应姚策生父去世"
+          "origin_id": "加装聚能环母子中毒身亡获赔65万"
         }
       },
       "summary": "",
