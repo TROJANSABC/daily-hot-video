@@ -1,16 +1,16 @@
 {
   "id": "douyin",
   "name": "抖音",
-  "updatedAt": "2026-11-05T15:46:34+08:00",
+  "updatedAt": "2026-11-06T15:45:34+08:00",
   "status": "ok",
   "items": [
     {
       "rank": 1,
-      "title": "GEN战胜LYON挺进半决赛",
-      "hot": 11949463,
+      "title": "BLG战胜DK晋级半决赛",
+      "hot": 11394750,
       "hotText": "",
-      "url": "https://www.douyin.com/search/GEN%E6%88%98%E8%83%9CLYON%E6%8C%BA%E8%BF%9B%E5%8D%8A%E5%86%B3%E8%B5%9B",
-      "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oMnAuPvC82QxBIIuDAIiirDXzEsJaratgBp1i~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=xQhtKOOqni848AvRDVTNKwQDaA4%3D&from=3218412987",
+      "url": "https://www.douyin.com/search/BLG%E6%88%98%E8%83%9CDK%E6%99%8B%E7%BA%A7%E5%8D%8A%E5%86%B3%E8%B5%9B",
+      "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/oYDt2NfBQBw7qQELFf9CA59Anh8uQgkBJAApFq~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=vV7QmrmnTM3%2FNP3%2B0bYO4Y8JZ0w%3D&from=3218412987",
       "source": "douyin",
       "sourceName": "抖音",
       "raw": {
@@ -20,38 +20,38 @@
         "discuss_video_count": 1,
         "display_style": 0,
         "drift_info": null,
-        "event_time": 1793836534,
-        "group_id": "7703786121814250767",
-        "hot_value": 11949463,
+        "event_time": 1793923816,
+        "group_id": "7703492554042168627",
+        "hot_value": 11394750,
         "hotlist_param": "{\"version\":1}",
         "label": 3,
         "position": 1,
         "related_words": null,
-        "sentence_id": "2730004",
+        "sentence_id": "2731877",
         "sentence_tag": 12000,
-        "video_count": 7,
-        "word": "GEN战胜LYON挺进半决赛",
+        "video_count": 13,
+        "word": "BLG战胜DK晋级半决赛",
         "word_cover": {
-          "uri": "tos-cn-p-0015/oMnAuPvC82QxBIIuDAIiirDXzEsJaratgBp1i",
+          "uri": "tos-cn-p-0015/oYDt2NfBQBw7qQELFf9CA59Anh8uQgkBJAApFq",
           "url_list": [
-            "https://p3-sign.douyinpic.com/tos-cn-p-0015/oMnAuPvC82QxBIIuDAIiirDXzEsJaratgBp1i~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=xQhtKOOqni848AvRDVTNKwQDaA4%3D&from=3218412987",
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/oMnAuPvC82QxBIIuDAIiirDXzEsJaratgBp1i~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=0NJuzXNxiWcz%2Bh336bwCshrrNW4%3D&from=3218412987",
-            "https://p11-sign.douyinpic.com/tos-cn-p-0015/oMnAuPvC82QxBIIuDAIiirDXzEsJaratgBp1i~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=P9GUB4U6IC9YKcH1nQrIzS60DI0%3D&from=3218412987"
+            "https://p11-sign.douyinpic.com/tos-cn-p-0015/oYDt2NfBQBw7qQELFf9CA59Anh8uQgkBJAApFq~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=vV7QmrmnTM3%2FNP3%2B0bYO4Y8JZ0w%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oYDt2NfBQBw7qQELFf9CA59Anh8uQgkBJAApFq~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=XlYbwvthautKjUfCm%2FffIMXq0zo%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/oYDt2NfBQBw7qQELFf9CA59Anh8uQgkBJAApFq~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=PBlj%2BhxKtqSgckHDqgu50u2CaTA%3D&from=3218412987"
           ]
         },
         "word_sub_board": null,
         "word_type": 1
       },
-      "summary": "GEN战胜LYON挺进半决赛",
+      "summary": "BLG战胜DK晋级半决赛",
       "category": "体育"
     },
     {
       "rank": 2,
-      "title": "原来深秋是咕嘟的",
-      "hot": 11687745,
+      "title": "降温了羽绒服先穿为敬",
+      "hot": 11002098,
       "hotText": "",
-      "url": "https://www.douyin.com/search/%E5%8E%9F%E6%9D%A5%E6%B7%B1%E7%A7%8B%E6%98%AF%E5%92%95%E5%98%9F%E7%9A%84",
-      "cover": "https://p11-sign.douyinpic.com/tos-cn-i-0813c000-ce/okDACjo0IEPSBv9L3MaiAoBnS4ibhAupLAwAB~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=Os2fw3MsUkC%2B96a6IelXgegi4%2BM%3D&from=3218412987",
+      "url": "https://www.douyin.com/search/%E9%99%8D%E6%B8%A9%E4%BA%86%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%85%88%E7%A9%BF%E4%B8%BA%E6%95%AC",
+      "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/osIAXFqZ5BmCE2DhQfVA8oGwEfOEC6ktsPvA9N~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=ncuGfhMJ3mxsd2J8ehDAecJNf4M%3D&from=3218412987",
       "source": "douyin",
       "sourceName": "抖音",
       "raw": {
@@ -61,38 +61,38 @@
         "discuss_video_count": 1,
         "display_style": 0,
         "drift_info": null,
-        "event_time": 1793714440,
-        "group_id": "7521820134852744457",
-        "hot_value": 11687745,
+        "event_time": 1793861533,
+        "group_id": "7694678943148053786",
+        "hot_value": 11002098,
         "hotlist_param": "{\"version\":1}",
         "label": 3,
         "position": 2,
         "related_words": null,
-        "sentence_id": "2728034",
-        "sentence_tag": 9000,
+        "sentence_id": "2730666",
+        "sentence_tag": 16000,
         "video_count": 3,
-        "word": "原来深秋是咕嘟的",
+        "word": "降温了羽绒服先穿为敬",
         "word_cover": {
-          "uri": "tos-cn-i-0813c000-ce/okDACjo0IEPSBv9L3MaiAoBnS4ibhAupLAwAB",
+          "uri": "tos-cn-p-0015c000-ce/osIAXFqZ5BmCE2DhQfVA8oGwEfOEC6ktsPvA9N",
           "url_list": [
-            "https://p11-sign.douyinpic.com/tos-cn-i-0813c000-ce/okDACjo0IEPSBv9L3MaiAoBnS4ibhAupLAwAB~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=Os2fw3MsUkC%2B96a6IelXgegi4%2BM%3D&from=3218412987",
-            "https://p3-sign.douyinpic.com/tos-cn-i-0813c000-ce/okDACjo0IEPSBv9L3MaiAoBnS4ibhAupLAwAB~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=cy1TFvJV35rLybILuitlhmzANM4%3D&from=3218412987",
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-0813c000-ce/okDACjo0IEPSBv9L3MaiAoBnS4ibhAupLAwAB~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=%2F2rdbQxholfJ0IlM%2BPOQNDPwXXg%3D&from=3218412987"
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/osIAXFqZ5BmCE2DhQfVA8oGwEfOEC6ktsPvA9N~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=ncuGfhMJ3mxsd2J8ehDAecJNf4M%3D&from=3218412987",
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015c000-ce/osIAXFqZ5BmCE2DhQfVA8oGwEfOEC6ktsPvA9N~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=jHLC76gOtVFIytPKn5QATLeyDwo%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015c000-ce/osIAXFqZ5BmCE2DhQfVA8oGwEfOEC6ktsPvA9N~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=3sPJnXmcqCuUkt3Z6kxtVfMIWFg%3D&from=3218412987"
           ]
         },
         "word_sub_board": null,
         "word_type": 1
       },
-      "summary": "深秋是咕嘟的季节",
+      "summary": "降温了羽绒服先穿为敬",
       "category": "生活"
     },
     {
       "rank": 3,
-      "title": "读懂31省份三季报三大看点",
-      "hot": 11156613,
+      "title": "进博会里的十五五脚步",
+      "hot": 10928369,
       "hotText": "",
-      "url": "https://www.douyin.com/search/%E8%AF%BB%E6%87%8231%E7%9C%81%E4%BB%BD%E4%B8%89%E5%AD%A3%E6%8A%A5%E4%B8%89%E5%A4%A7%E7%9C%8B%E7%82%B9",
-      "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/ogq6r0ciIVoMBBQAIMsqbAADH9FpRCf53gfDqE~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=8TkogH%2B5VgwoIfFn1981NwjxzVU%3D&from=3218412987",
+      "url": "https://www.douyin.com/search/%E8%BF%9B%E5%8D%9A%E4%BC%9A%E9%87%8C%E7%9A%84%E5%8D%81%E4%BA%94%E4%BA%94%E8%84%9A%E6%AD%A5",
+      "cover": "https://p9-sign.douyinpic.com/tos-cn-p-0015/ocGYfEHVgCs2lgIAfe72BaKBtt0kNAULKzAiLV~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=GLPHQwVK21q%2F7Ch8otfXsLgfDqc%3D&from=3218412987",
       "source": "douyin",
       "sourceName": "抖音",
       "raw": {
@@ -102,38 +102,38 @@
         "discuss_video_count": 1,
         "display_style": 0,
         "drift_info": null,
-        "event_time": 1793846623,
-        "group_id": "7703482831125468451",
-        "hot_value": 11156613,
+        "event_time": 1793932875,
+        "group_id": "7703400621042521394",
+        "hot_value": 10928369,
         "hotlist_param": "{\"version\":1}",
         "label": 3,
         "position": 3,
         "related_words": null,
-        "sentence_id": "2730168",
+        "sentence_id": "2732075",
         "sentence_tag": 3001,
         "video_count": 1,
-        "word": "读懂31省份三季报三大看点",
+        "word": "进博会里的十五五脚步",
         "word_cover": {
-          "uri": "tos-cn-p-0015/ogq6r0ciIVoMBBQAIMsqbAADH9FpRCf53gfDqE",
+          "uri": "tos-cn-p-0015/ocGYfEHVgCs2lgIAfe72BaKBtt0kNAULKzAiLV",
           "url_list": [
-            "https://p26-sign.douyinpic.com/tos-cn-p-0015/ogq6r0ciIVoMBBQAIMsqbAADH9FpRCf53gfDqE~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=8TkogH%2B5VgwoIfFn1981NwjxzVU%3D&from=3218412987",
-            "https://p11-sign.douyinpic.com/tos-cn-p-0015/ogq6r0ciIVoMBBQAIMsqbAADH9FpRCf53gfDqE~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=O8ZGLUbrWjK2hl5XQiJat4eQfKQ%3D&from=3218412987",
-            "https://p3-sign.douyinpic.com/tos-cn-p-0015/ogq6r0ciIVoMBBQAIMsqbAADH9FpRCf53gfDqE~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=IDbDPuZTqkR1o%2FvO%2B0EYC%2B5K6VY%3D&from=3218412987"
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/ocGYfEHVgCs2lgIAfe72BaKBtt0kNAULKzAiLV~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=GLPHQwVK21q%2F7Ch8otfXsLgfDqc%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/ocGYfEHVgCs2lgIAfe72BaKBtt0kNAULKzAiLV~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=lbv2wK1OTCdKK2%2F%2BJ5zVQ21LLn8%3D&from=3218412987",
+            "https://p11-sign.douyinpic.com/tos-cn-p-0015/ocGYfEHVgCs2lgIAfe72BaKBtt0kNAULKzAiLV~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=9%2BKKoN2WE2L2eguViUzTru8K7v4%3D&from=3218412987"
           ]
         },
         "word_sub_board": null,
         "word_type": 1
       },
-      "summary": "解读31省份三季报三大看点",
+      "summary": "进博会里的十五五脚步",
       "category": "财经"
     },
     {
       "rank": 4,
-      "title": "马兴瑞被提起公诉",
-      "hot": 11133309,
+      "title": "你怎么舍得让有趣的知识流走",
+      "hot": 10828333,
       "hotText": "",
-      "url": "https://www.douyin.com/search/%E9%A9%AC%E5%85%B4%E7%91%9E%E8%A2%AB%E6%8F%90%E8%B5%B7%E5%85%AC%E8%AF%89",
-      "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/ogi9l0IrzTcWcCB9BgfAiSANBIITGImyAf6q5A~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=d5qArv0w91zIuIPl18fPCdXMCCA%3D&from=3218412987",
+      "url": "https://www.douyin.com/search/%E4%BD%A0%E6%80%8E%E4%B9%88%E8%88%8D%E5%BE%97%E8%AE%A9%E6%9C%89%E8%B6%A3%E7%9A%84%E7%9F%A5%E8%AF%86%E6%B5%81%E8%B5%B0",
+      "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/oc1cQa6edGA0BV3fqwLrB7VCPBjAACqyQbekLI~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=wCo8rr2MYgrYVsQ6o3TImOpHZjE%3D&from=3218412987",
       "source": "douyin",
       "sourceName": "抖音",
       "raw": {
@@ -143,38 +143,38 @@
         "discuss_video_count": 1,
         "display_style": 0,
         "drift_info": null,
-        "event_time": 1793844084,
-        "group_id": "7655541865835861267",
-        "hot_value": 11133309,
+        "event_time": 1793852057,
+        "group_id": "7703842410774729984",
+        "hot_value": 10828333,
         "hotlist_param": "{\"version\":1}",
-        "label": 3,
+        "label": 0,
         "position": 4,
         "related_words": null,
-        "sentence_id": "2730092",
-        "sentence_tag": 3001,
-        "video_count": 7,
-        "word": "马兴瑞被提起公诉",
+        "sentence_id": "2730337",
+        "sentence_tag": 6000,
+        "video_count": 6,
+        "word": "你怎么舍得让有趣的知识流走",
         "word_cover": {
-          "uri": "tos-cn-p-0015/ogi9l0IrzTcWcCB9BgfAiSANBIITGImyAf6q5A",
+          "uri": "tos-cn-p-0015/oc1cQa6edGA0BV3fqwLrB7VCPBjAACqyQbekLI",
           "url_list": [
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/ogi9l0IrzTcWcCB9BgfAiSANBIITGImyAf6q5A~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=d5qArv0w91zIuIPl18fPCdXMCCA%3D&from=3218412987",
-            "https://p3-sign.douyinpic.com/tos-cn-p-0015/ogi9l0IrzTcWcCB9BgfAiSANBIITGImyAf6q5A~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=tJ7mdef70oCj83bSuDdc8x2TwS4%3D&from=3218412987",
-            "https://p26-sign.douyinpic.com/tos-cn-p-0015/ogi9l0IrzTcWcCB9BgfAiSANBIITGImyAf6q5A~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=EOYQfFtf4y5K53NHg%2Fpc7AOk%2B%2Bw%3D&from=3218412987"
+            "https://p11-sign.douyinpic.com/tos-cn-p-0015/oc1cQa6edGA0BV3fqwLrB7VCPBjAACqyQbekLI~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=wCo8rr2MYgrYVsQ6o3TImOpHZjE%3D&from=3218412987",
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/oc1cQa6edGA0BV3fqwLrB7VCPBjAACqyQbekLI~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=s3mdVG8Ta5lClraRZt3%2B2TghU6I%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oc1cQa6edGA0BV3fqwLrB7VCPBjAACqyQbekLI~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=y8N1e3bntzGGZ2EN08q7w6riCCM%3D&from=3218412987"
           ]
         },
         "word_sub_board": null,
         "word_type": 1
       },
-      "summary": "马兴瑞被提起公诉",
-      "category": "社会民生"
+      "summary": "你怎么舍得让有趣的知识流走",
+      "category": "其他"
     },
     {
       "rank": 5,
-      "title": "一道热乎菜开启各地冬天",
-      "hot": 10570617,
+      "title": "东风61已列装火箭军常态参训",
+      "hot": 10218944,
       "hotText": "",
-      "url": "https://www.douyin.com/search/%E4%B8%80%E9%81%93%E7%83%AD%E4%B9%8E%E8%8F%9C%E5%BC%80%E5%90%AF%E5%90%84%E5%9C%B0%E5%86%AC%E5%A4%A9",
-      "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/oIXzQA0lJEJdGEQVX0FfBCAq1oeheoQE79DpB7~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=pidUZuhalMT2Sj%2BbU8AKu%2BaLcTc%3D&from=3218412987",
+      "url": "https://www.douyin.com/search/%E4%B8%9C%E9%A3%8E61%E5%B7%B2%E5%88%97%E8%A3%85%E7%81%AB%E7%AE%AD%E5%86%9B%E5%B8%B8%E6%80%81%E5%8F%82%E8%AE%AD",
+      "cover": "https://p9-sign.douyinpic.com/tos-cn-p-0015/oYnAxNBFi4DddOslCeKUABbAK65IIDCfg1hiii~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=c1JjVeZqJXJTtIXMVwF%2BUulzyUs%3D&from=3218412987",
       "source": "douyin",
       "sourceName": "抖音",
       "raw": {
@@ -184,38 +184,38 @@
         "discuss_video_count": 1,
         "display_style": 0,
         "drift_info": null,
-        "event_time": 1793757490,
-        "group_id": "7700749687141586217",
-        "hot_value": 10570617,
+        "event_time": 1793866542,
+        "group_id": "7703603493119104298",
+        "hot_value": 10218944,
         "hotlist_param": "{\"version\":1}",
-        "label": 5,
+        "label": 0,
         "position": 5,
         "related_words": null,
-        "sentence_id": "2728300",
-        "sentence_tag": 9000,
-        "video_count": 3,
-        "word": "一道热乎菜开启各地冬天",
+        "sentence_id": "2730958",
+        "sentence_tag": 21000,
+        "video_count": 7,
+        "word": "东风61已列装火箭军常态参训",
         "word_cover": {
-          "uri": "tos-cn-p-0015/oIXzQA0lJEJdGEQVX0FfBCAq1oeheoQE79DpB7",
+          "uri": "tos-cn-p-0015/oYnAxNBFi4DddOslCeKUABbAK65IIDCfg1hiii",
           "url_list": [
-            "https://p11-sign.douyinpic.com/tos-cn-p-0015/oIXzQA0lJEJdGEQVX0FfBCAq1oeheoQE79DpB7~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=pidUZuhalMT2Sj%2BbU8AKu%2BaLcTc%3D&from=3218412987",
-            "https://p5-sign.douyinpic.com/tos-cn-p-0015/oIXzQA0lJEJdGEQVX0FfBCAq1oeheoQE79DpB7~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=E0NMIPzTP0RttjKIgw1iSL7RJF0%3D&from=3218412987",
-            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oIXzQA0lJEJdGEQVX0FfBCAq1oeheoQE79DpB7~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=C%2BDREcQB8EJ0ZaQEI6I97kLrEV8%3D&from=3218412987"
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/oYnAxNBFi4DddOslCeKUABbAK65IIDCfg1hiii~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=c1JjVeZqJXJTtIXMVwF%2BUulzyUs%3D&from=3218412987",
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/oYnAxNBFi4DddOslCeKUABbAK65IIDCfg1hiii~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=cFmbVWUswmLfshRDDNgJjoog1tI%3D&from=3218412987",
+            "https://p11-sign.douyinpic.com/tos-cn-p-0015/oYnAxNBFi4DddOslCeKUABbAK65IIDCfg1hiii~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=jM0HKhg8xXQDOmC7CnvUhIHdxrc%3D&from=3218412987"
           ]
         },
         "word_sub_board": null,
         "word_type": 1
       },
-      "summary": "一道热乎菜开启各地冬天",
-      "category": "生活"
+      "summary": "东风61已列装火箭军常态参训",
+      "category": "其他"
     },
     {
       "rank": 6,
-      "title": "男生秋冬简约穿搭攻略",
-      "hot": 10463129,
+      "title": "路漫漫终有归处",
+      "hot": 10119573,
       "hotText": "",
-      "url": "https://www.douyin.com/search/%E7%94%B7%E7%94%9F%E7%A7%8B%E5%86%AC%E7%AE%80%E7%BA%A6%E7%A9%BF%E6%90%AD%E6%94%BB%E7%95%A5",
-      "cover": "https://p11-sign.douyinpic.com/tos-cn-i-0813c001/ow1AD5o9uC0EEAieyAEIW7hAAdA0gmPDofnBio~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=6o1i%2FnxzzdqsWKP7NtFfIEb38Jk%3D&from=3218412987",
+      "url": "https://www.douyin.com/search/%E8%B7%AF%E6%BC%AB%E6%BC%AB%E7%BB%88%E6%9C%89%E5%BD%92%E5%A4%84",
+      "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/osL6DQhQD8ETCBJPgEfaAtCO6Fc5eqAASgA96o~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=i3sa2IEY3gTsWUT7k19qSxQj59s%3D&from=3218412987",
       "source": "douyin",
       "sourceName": "抖音",
       "raw": {
@@ -225,79 +225,38 @@
         "discuss_video_count": 1,
         "display_style": 0,
         "drift_info": null,
-        "event_time": 1793765401,
-        "group_id": "7567179223090418979",
-        "hot_value": 10463129,
+        "event_time": 1793869387,
+        "group_id": "7268702993922004236",
+        "hot_value": 10119573,
         "hotlist_param": "{\"version\":1}",
         "label": 0,
         "position": 6,
         "related_words": null,
-        "sentence_id": "2728534",
-        "sentence_tag": 16000,
-        "video_count": 2,
-        "word": "男生秋冬简约穿搭攻略",
+        "sentence_id": "2731078",
+        "sentence_tag": 20002,
+        "video_count": 1,
+        "word": "路漫漫终有归处",
         "word_cover": {
-          "uri": "tos-cn-i-0813c001/ow1AD5o9uC0EEAieyAEIW7hAAdA0gmPDofnBio",
+          "uri": "tos-cn-p-0015/osL6DQhQD8ETCBJPgEfaAtCO6Fc5eqAASgA96o",
           "url_list": [
-            "https://p11-sign.douyinpic.com/tos-cn-i-0813c001/ow1AD5o9uC0EEAieyAEIW7hAAdA0gmPDofnBio~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=6o1i%2FnxzzdqsWKP7NtFfIEb38Jk%3D&from=3218412987",
-            "https://p26-sign.douyinpic.com/tos-cn-i-0813c001/ow1AD5o9uC0EEAieyAEIW7hAAdA0gmPDofnBio~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=4wsuAyi9YfEGVWfEbHl%2Bh73XDlk%3D&from=3218412987",
-            "https://p3-sign.douyinpic.com/tos-cn-i-0813c001/ow1AD5o9uC0EEAieyAEIW7hAAdA0gmPDofnBio~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=u1W9qWGv05PeE5xoUGYBmicVmsY%3D&from=3218412987"
+            "https://p11-sign.douyinpic.com/tos-cn-p-0015/osL6DQhQD8ETCBJPgEfaAtCO6Fc5eqAASgA96o~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=i3sa2IEY3gTsWUT7k19qSxQj59s%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/osL6DQhQD8ETCBJPgEfaAtCO6Fc5eqAASgA96o~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=UTN8c8zfKXTSrvI77nzI%2BQx2dJY%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/osL6DQhQD8ETCBJPgEfaAtCO6Fc5eqAASgA96o~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=xAlOq3%2FRpwLpIFX3hBhT8t0tLQs%3D&from=3218412987"
           ]
         },
         "word_sub_board": null,
         "word_type": 1
       },
-      "summary": "男生秋冬简约穿搭攻略",
-      "category": "生活"
+      "summary": "路漫漫终有归处",
+      "category": "其他"
     },
     {
       "rank": 7,
-      "title": "马刺险胜独行侠",
-      "hot": 9340233,
+      "title": "日本考虑紧急情况下运进核武器",
+      "hot": 8623686,
       "hotText": "",
-      "url": "https://www.douyin.com/search/%E9%A9%AC%E5%88%BA%E9%99%A9%E8%83%9C%E7%8B%AC%E8%A1%8C%E4%BE%A0",
-      "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oIWFFG4UqTAja2YsB1FEgRDHA7A98TfQQAf3NB~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=2XtkT0RIMVVxrVdU4ZV5DNKG%2Fgw%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 1,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793856675,
-        "group_id": "6948416134161831183",
-        "hot_value": 9340233,
-        "hotlist_param": "{\"version\":1}",
-        "label": 1,
-        "position": 7,
-        "related_words": null,
-        "sentence_id": "2730424",
-        "sentence_tag": 0,
-        "video_count": 2,
-        "word": "马刺险胜独行侠",
-        "word_cover": {
-          "uri": "tos-cn-p-0015/oIWFFG4UqTAja2YsB1FEgRDHA7A98TfQQAf3NB",
-          "url_list": [
-            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oIWFFG4UqTAja2YsB1FEgRDHA7A98TfQQAf3NB~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=2XtkT0RIMVVxrVdU4ZV5DNKG%2Fgw%3D&from=3218412987",
-            "https://p3-sign.douyinpic.com/tos-cn-p-0015/oIWFFG4UqTAja2YsB1FEgRDHA7A98TfQQAf3NB~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=9xRN3WE%2BLgB6WH1C%2Fmxl9EnEKuU%3D&from=3218412987",
-            "https://p11-sign.douyinpic.com/tos-cn-p-0015/oIWFFG4UqTAja2YsB1FEgRDHA7A98TfQQAf3NB~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=ugWY4RB28Iu0Y33FCYt2XZO3Bh4%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": null,
-        "word_type": 1
-      },
-      "summary": "马刺险胜独行侠",
-      "category": "体育"
-    },
-    {
-      "rank": 8,
-      "title": "森林狼力克火箭",
-      "hot": 9337419,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/%E6%A3%AE%E6%9E%97%E7%8B%BC%E5%8A%9B%E5%85%8B%E7%81%AB%E7%AE%AD",
-      "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/oEE2Lb7BIBAfqIPrCVKAjfRXGCFql61Deavkis~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=BX9JpHNEcjvL6sYiDPzZ127H10Y%3D&from=3218412987",
+      "url": "https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E8%80%83%E8%99%91%E7%B4%A7%E6%80%A5%E6%83%85%E5%86%B5%E4%B8%8B%E8%BF%90%E8%BF%9B%E6%A0%B8%E6%AD%A6%E5%99%A8",
+      "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/ochPKAACqsBIPMXIXDz8jiX7YBPuQiEaAxXTx~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=iICz6V9rM7dGQlxH8W7ACD8Ze%2BY%3D&from=3218412987",
       "source": "douyin",
       "sourceName": "抖音",
       "raw": {
@@ -307,38 +266,79 @@
         "discuss_video_count": 1,
         "display_style": 0,
         "drift_info": null,
-        "event_time": 1793848060,
-        "group_id": "6825703921332327688",
-        "hot_value": 9337419,
+        "event_time": 1793868439,
+        "group_id": "7704490981115434276",
+        "hot_value": 8623686,
         "hotlist_param": "{\"version\":1}",
-        "label": 0,
-        "position": 8,
+        "label": 3,
+        "position": 7,
         "related_words": null,
-        "sentence_id": "2730225",
-        "sentence_tag": 5000,
+        "sentence_id": "2731041",
+        "sentence_tag": 3002,
         "video_count": 5,
-        "word": "森林狼力克火箭",
+        "word": "日本考虑紧急情况下运进核武器",
         "word_cover": {
-          "uri": "tos-cn-p-0015/oEE2Lb7BIBAfqIPrCVKAjfRXGCFql61Deavkis",
+          "uri": "tos-cn-p-0015c000-ce/ochPKAACqsBIPMXIXDz8jiX7YBPuQiEaAxXTx",
           "url_list": [
-            "https://p11-sign.douyinpic.com/tos-cn-p-0015/oEE2Lb7BIBAfqIPrCVKAjfRXGCFql61Deavkis~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=BX9JpHNEcjvL6sYiDPzZ127H10Y%3D&from=3218412987",
-            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oEE2Lb7BIBAfqIPrCVKAjfRXGCFql61Deavkis~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=gNRfgNR0XrOYGZTpsQyXJOBQDoo%3D&from=3218412987",
-            "https://p9-sign.douyinpic.com/tos-cn-p-0015/oEE2Lb7BIBAfqIPrCVKAjfRXGCFql61Deavkis~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=RFw56XiW1lTbxHpfwsSlsfQYzBg%3D&from=3218412987"
+            "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/ochPKAACqsBIPMXIXDz8jiX7YBPuQiEaAxXTx~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=iICz6V9rM7dGQlxH8W7ACD8Ze%2BY%3D&from=3218412987",
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015c000-ce/ochPKAACqsBIPMXIXDz8jiX7YBPuQiEaAxXTx~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=ptym5mmeX6hXxvUYhn%2BzT%2B6T1DE%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/ochPKAACqsBIPMXIXDz8jiX7YBPuQiEaAxXTx~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=%2F4AJlWxRqj7F%2Bm34Zb38pDRzYq8%3D&from=3218412987"
           ]
         },
         "word_sub_board": null,
         "word_type": 1
       },
-      "summary": "森林狼力克火箭",
+      "summary": "日本考虑紧急情况下运进核武器",
+      "category": "其他"
+    },
+    {
+      "rank": 8,
+      "title": "库里升至历史得分榜第17位",
+      "hot": 8315704,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/%E5%BA%93%E9%87%8C%E5%8D%87%E8%87%B3%E5%8E%86%E5%8F%B2%E5%BE%97%E5%88%86%E6%A6%9C%E7%AC%AC17%E4%BD%8D",
+      "cover": "https://p26-sign.douyinpic.com/tos-cn-i-dy/18ba3c12bc2c40268c6424cddd960ac3~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=Tqpe5q%2Fj884EOrpNixM7dS%2FuDi4%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793937136,
+        "group_id": "7701593858577487130",
+        "hot_value": 8315704,
+        "hotlist_param": "{\"version\":1}",
+        "label": 1,
+        "position": 8,
+        "related_words": null,
+        "sentence_id": "2732193",
+        "sentence_tag": 5000,
+        "video_count": 2,
+        "word": "库里升至历史得分榜第17位",
+        "word_cover": {
+          "uri": "tos-cn-i-dy/18ba3c12bc2c40268c6424cddd960ac3",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-i-dy/18ba3c12bc2c40268c6424cddd960ac3~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=Tqpe5q%2Fj884EOrpNixM7dS%2FuDi4%3D&from=3218412987",
+            "https://p11-sign.douyinpic.com/tos-cn-i-dy/18ba3c12bc2c40268c6424cddd960ac3~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=NcgpV3dpRVPglQt89Mo2ydXpb4Y%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-i-dy/18ba3c12bc2c40268c6424cddd960ac3~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=0Mjqog%2F7JBV7NaAsAPs58ioKgqs%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": null,
+        "word_type": 1
+      },
+      "summary": "库里升至历史得分榜第17位",
       "category": "体育"
     },
     {
       "rank": 9,
-      "title": "76人战胜活塞迎五连胜",
-      "hot": 9186846,
+      "title": "江苏多地高中推迟到校时间",
+      "hot": 8130232,
       "hotText": "",
-      "url": "https://www.douyin.com/search/76%E4%BA%BA%E6%88%98%E8%83%9C%E6%B4%BB%E5%A1%9E%E8%BF%8E%E4%BA%94%E8%BF%9E%E8%83%9C",
-      "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oQ0Ali7BgKwB4m7ifxq9ADA0IvrL36I2e0C7YD~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=xm6R3JyXQmdG7N7F60FKQKlPJ58%3D&from=3218412987",
+      "url": "https://www.douyin.com/search/%E6%B1%9F%E8%8B%8F%E5%A4%9A%E5%9C%B0%E9%AB%98%E4%B8%AD%E6%8E%A8%E8%BF%9F%E5%88%B0%E6%A0%A1%E6%97%B6%E9%97%B4",
+      "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/ow47O2QeCcFIzyEfBUPRJ2AhM8AeXBqiTCnVRA~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=CtLsjlLdEnwLszm8%2BfldYGl5MrM%3D&from=3218412987",
       "source": "douyin",
       "sourceName": "抖音",
       "raw": {
@@ -348,38 +348,38 @@
         "discuss_video_count": 1,
         "display_style": 0,
         "drift_info": null,
-        "event_time": 1793842096,
-        "group_id": "7702787314619045171",
-        "hot_value": 9186846,
+        "event_time": 1793887063,
+        "group_id": "7703927418293720330",
+        "hot_value": 8130232,
         "hotlist_param": "{\"version\":1}",
         "label": 3,
         "position": 9,
         "related_words": null,
-        "sentence_id": "2730060",
-        "sentence_tag": 5000,
-        "video_count": 7,
-        "word": "76人战胜活塞迎五连胜",
+        "sentence_id": "2731691",
+        "sentence_tag": 14000,
+        "video_count": 11,
+        "word": "江苏多地高中推迟到校时间",
         "word_cover": {
-          "uri": "tos-cn-p-0015/oQ0Ali7BgKwB4m7ifxq9ADA0IvrL36I2e0C7YD",
+          "uri": "tos-cn-p-0015/ow47O2QeCcFIzyEfBUPRJ2AhM8AeXBqiTCnVRA",
           "url_list": [
-            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oQ0Ali7BgKwB4m7ifxq9ADA0IvrL36I2e0C7YD~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=xm6R3JyXQmdG7N7F60FKQKlPJ58%3D&from=3218412987",
-            "https://p9-sign.douyinpic.com/tos-cn-p-0015/oQ0Ali7BgKwB4m7ifxq9ADA0IvrL36I2e0C7YD~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=YvwHVOFWJZTk92aUgJk2hfLBSy4%3D&from=3218412987",
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/oQ0Ali7BgKwB4m7ifxq9ADA0IvrL36I2e0C7YD~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=qjESe1%2F4XOUSzaBD%2BH6JTPT8UZY%3D&from=3218412987"
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/ow47O2QeCcFIzyEfBUPRJ2AhM8AeXBqiTCnVRA~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=CtLsjlLdEnwLszm8%2BfldYGl5MrM%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/ow47O2QeCcFIzyEfBUPRJ2AhM8AeXBqiTCnVRA~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=gGRjZFimqUCM8gf%2BIxtg9gn9T8g%3D&from=3218412987",
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/ow47O2QeCcFIzyEfBUPRJ2AhM8AeXBqiTCnVRA~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=S18m50%2F28qpr%2F5sZIC2M9r1uzY0%3D&from=3218412987"
           ]
         },
         "word_sub_board": null,
         "word_type": 1
       },
-      "summary": "76人胜活塞迎五连胜",
-      "category": "体育"
+      "summary": "江苏多地高中推迟到校时间",
+      "category": "社会民生"
     },
     {
       "rank": 10,
-      "title": "福建舰电磁弹射实战价值解析",
-      "hot": 9185852,
+      "title": "在乌镇被机器人“拿捏”了",
+      "hot": 7961522,
       "hotText": "",
-      "url": "https://www.douyin.com/search/%E7%A6%8F%E5%BB%BA%E8%88%B0%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%E5%AE%9E%E6%88%98%E4%BB%B7%E5%80%BC%E8%A7%A3%E6%9E%90",
-      "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/osr4URkA9QwAONRfhfQGz7DqLvqFEAJ8BgZjy6~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=yfrbtBgbrkQGc6YWnp6OUc9Joq0%3D&from=3218412987",
+      "url": "https://www.douyin.com/search/%E5%9C%A8%E4%B9%8C%E9%95%87%E8%A2%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E6%8B%BF%E6%8D%8F%E2%80%9D%E4%BA%86",
+      "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/o8jrnvGiPBBQ9DaIAlPIhIzkP5iAPwlFwPu8I~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=DTbvjt75%2FR9rqdytoBKMlUz5rDw%3D&from=3218412987",
       "source": "douyin",
       "sourceName": "抖音",
       "raw": {
@@ -389,38 +389,38 @@
         "discuss_video_count": 1,
         "display_style": 0,
         "drift_info": null,
-        "event_time": 1793839054,
-        "group_id": "7703737123258307840",
-        "hot_value": 9185852,
+        "event_time": 1793929951,
+        "group_id": "7703588715013264680",
+        "hot_value": 7961522,
         "hotlist_param": "{\"version\":1}",
-        "label": 3,
+        "label": 0,
         "position": 10,
         "related_words": null,
-        "sentence_id": "2730027",
-        "sentence_tag": 21000,
-        "video_count": 2,
-        "word": "福建舰电磁弹射实战价值解析",
+        "sentence_id": "2731993",
+        "sentence_tag": 6000,
+        "video_count": 5,
+        "word": "在乌镇被机器人“拿捏”了",
         "word_cover": {
-          "uri": "tos-cn-p-0015/osr4URkA9QwAONRfhfQGz7DqLvqFEAJ8BgZjy6",
+          "uri": "tos-cn-p-0015/o8jrnvGiPBBQ9DaIAlPIhIzkP5iAPwlFwPu8I",
           "url_list": [
-            "https://p26-sign.douyinpic.com/tos-cn-p-0015/osr4URkA9QwAONRfhfQGz7DqLvqFEAJ8BgZjy6~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=yfrbtBgbrkQGc6YWnp6OUc9Joq0%3D&from=3218412987",
-            "https://p11-sign.douyinpic.com/tos-cn-p-0015/osr4URkA9QwAONRfhfQGz7DqLvqFEAJ8BgZjy6~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=c4U6%2FxemeSD1f4RK8NFefJX7P58%3D&from=3218412987",
-            "https://p9-sign.douyinpic.com/tos-cn-p-0015/osr4URkA9QwAONRfhfQGz7DqLvqFEAJ8BgZjy6~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=SZZaZ4ZropC2r2PFPtj8a1ZnalU%3D&from=3218412987"
+            "https://p11-sign.douyinpic.com/tos-cn-p-0015/o8jrnvGiPBBQ9DaIAlPIhIzkP5iAPwlFwPu8I~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=DTbvjt75%2FR9rqdytoBKMlUz5rDw%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/o8jrnvGiPBBQ9DaIAlPIhIzkP5iAPwlFwPu8I~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=tNFHWsEZ4UEOPfRPTEgJQO92OIw%3D&from=3218412987",
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/o8jrnvGiPBBQ9DaIAlPIhIzkP5iAPwlFwPu8I~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=Qt%2Fc%2FhEfrvy9Q1LdGjP3SJNXQDQ%3D&from=3218412987"
           ]
         },
         "word_sub_board": null,
         "word_type": 1
       },
-      "summary": "福建舰电磁弹射实战价值解析",
-      "category": "其他"
+      "summary": "在乌镇被机器人“拿捏”了",
+      "category": "科技"
     },
     {
       "rank": 11,
-      "title": "盘点影响2027经济走向的大事件",
-      "hot": 9123933,
+      "title": "向C罗和我的青春说再见",
+      "hot": 7794319,
       "hotText": "",
-      "url": "https://www.douyin.com/search/%E7%9B%98%E7%82%B9%E5%BD%B1%E5%93%8D2027%E7%BB%8F%E6%B5%8E%E8%B5%B0%E5%90%91%E7%9A%84%E5%A4%A7%E4%BA%8B%E4%BB%B6",
-      "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/oIC77bMD1eY8UTLTrBfJGetQ95kXBBVSBAAAUi~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=D4Cg1yrK4XxPWxnM66GwdEILaCs%3D&from=3218412987",
+      "url": "https://www.douyin.com/search/%E5%90%91C%E7%BD%97%E5%92%8C%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E8%AF%B4%E5%86%8D%E8%A7%81",
+      "cover": "https://p3-sign.douyinpic.com/tos-cn-i-0813c001/owXKPABdAXDA4iep1Y5ifACAgEisCThIAA1iiH~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=Z8Rlk2ayoqitShDgkorVBqqEQQw%3D&from=3218412987",
       "source": "douyin",
       "sourceName": "抖音",
       "raw": {
@@ -430,38 +430,38 @@
         "discuss_video_count": 1,
         "display_style": 0,
         "drift_info": null,
-        "event_time": 1793773187,
-        "group_id": "7703539637456770339",
-        "hot_value": 9123933,
+        "event_time": 1793935020,
+        "group_id": "7703514355732272438",
+        "hot_value": 7794319,
         "hotlist_param": "{\"version\":1}",
-        "label": 3,
+        "label": 0,
         "position": 11,
         "related_words": null,
-        "sentence_id": "2728784",
-        "sentence_tag": 7000,
-        "video_count": 1,
-        "word": "盘点影响2027经济走向的大事件",
+        "sentence_id": "2732131",
+        "sentence_tag": 5000,
+        "video_count": 8,
+        "word": "向C罗和我的青春说再见",
         "word_cover": {
-          "uri": "tos-cn-p-0015/oIC77bMD1eY8UTLTrBfJGetQ95kXBBVSBAAAUi",
+          "uri": "tos-cn-i-0813c001/owXKPABdAXDA4iep1Y5ifACAgEisCThIAA1iiH",
           "url_list": [
-            "https://p11-sign.douyinpic.com/tos-cn-p-0015/oIC77bMD1eY8UTLTrBfJGetQ95kXBBVSBAAAUi~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=D4Cg1yrK4XxPWxnM66GwdEILaCs%3D&from=3218412987",
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/oIC77bMD1eY8UTLTrBfJGetQ95kXBBVSBAAAUi~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=Ca%2BybvpvVmkvinZz3SGoahQzRMM%3D&from=3218412987",
-            "https://p3-sign.douyinpic.com/tos-cn-p-0015/oIC77bMD1eY8UTLTrBfJGetQ95kXBBVSBAAAUi~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=Z%2BhUGYGqI1gP5cHDiwllrxflIjo%3D&from=3218412987"
+            "https://p3-sign.douyinpic.com/tos-cn-i-0813c001/owXKPABdAXDA4iep1Y5ifACAgEisCThIAA1iiH~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=Z8Rlk2ayoqitShDgkorVBqqEQQw%3D&from=3218412987",
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-0813c001/owXKPABdAXDA4iep1Y5ifACAgEisCThIAA1iiH~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=NMQ1owbARsIR5Ds46dcTAcZYvvs%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-i-0813c001/owXKPABdAXDA4iep1Y5ifACAgEisCThIAA1iiH~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=U8C3gnc8Y4G4iqPlc9W1I5tIy7I%3D&from=3218412987"
           ]
         },
         "word_sub_board": null,
         "word_type": 1
       },
-      "summary": "盘点影响2027经济走向大事件",
-      "category": "财经"
+      "summary": "向C罗和我的青春说再见",
+      "category": "体育"
     },
     {
       "rank": 12,
-      "title": "朗斯1:9不敌科莫",
-      "hot": 9102765,
+      "title": "范争一无缘国锦赛决赛",
+      "hot": 7784220,
       "hotText": "",
-      "url": "https://www.douyin.com/search/%E6%9C%97%E6%96%AF1%3A9%E4%B8%8D%E6%95%8C%E7%A7%91%E8%8E%AB",
-      "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oMzX9qB06nmEAg4kAAQR5mFf3Beg6FQDLdCBc8~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=0vFB1brXaLLSi5DGRoFIPTuwyso%3D&from=3218412987",
+      "url": "https://www.douyin.com/search/%E8%8C%83%E4%BA%89%E4%B8%80%E6%97%A0%E7%BC%98%E5%9B%BD%E9%94%A6%E8%B5%9B%E5%86%B3%E8%B5%9B",
+      "cover": "https://p9-sign.douyinpic.com/tos-cn-p-0015c000-ce/osiusM5ZaZgoySZ3k9LAxTEKP70KiPAIBB9iI~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=e0IErzLWo%2FvymN77H9IVK782R2c%3D&from=3218412987",
       "source": "douyin",
       "sourceName": "抖音",
       "raw": {
@@ -471,38 +471,38 @@
         "discuss_video_count": 1,
         "display_style": 0,
         "drift_info": null,
-        "event_time": 1793835936,
-        "group_id": "7703323939480917288",
-        "hot_value": 9102765,
+        "event_time": 1793892731,
+        "group_id": "7703798570197472548",
+        "hot_value": 7784220,
         "hotlist_param": "{\"version\":1}",
-        "label": 3,
+        "label": 0,
         "position": 12,
         "related_words": null,
-        "sentence_id": "2729998",
+        "sentence_id": "2731788",
         "sentence_tag": 5000,
-        "video_count": 2,
-        "word": "朗斯1:9不敌科莫",
+        "video_count": 1,
+        "word": "范争一无缘国锦赛决赛",
         "word_cover": {
-          "uri": "tos-cn-p-0015/oMzX9qB06nmEAg4kAAQR5mFf3Beg6FQDLdCBc8",
+          "uri": "tos-cn-p-0015c000-ce/osiusM5ZaZgoySZ3k9LAxTEKP70KiPAIBB9iI",
           "url_list": [
-            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oMzX9qB06nmEAg4kAAQR5mFf3Beg6FQDLdCBc8~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=0vFB1brXaLLSi5DGRoFIPTuwyso%3D&from=3218412987",
-            "https://p11-sign.douyinpic.com/tos-cn-p-0015/oMzX9qB06nmEAg4kAAQR5mFf3Beg6FQDLdCBc8~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=HVycWmPGUNntdmzofOvyMk%2B9HJo%3D&from=3218412987",
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/oMzX9qB06nmEAg4kAAQR5mFf3Beg6FQDLdCBc8~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=OzgvHLpiQU1t43Qf9goUVkhcHvg%3D&from=3218412987"
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015c000-ce/osiusM5ZaZgoySZ3k9LAxTEKP70KiPAIBB9iI~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=e0IErzLWo%2FvymN77H9IVK782R2c%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/osiusM5ZaZgoySZ3k9LAxTEKP70KiPAIBB9iI~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=YItCc7m2gj1jE82J8fnuYB8w9TY%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/osiusM5ZaZgoySZ3k9LAxTEKP70KiPAIBB9iI~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=Wc7NSHQlI9Yjft15HN%2Fm6GAYhz0%3D&from=3218412987"
           ]
         },
         "word_sub_board": null,
         "word_type": 1
       },
-      "summary": "朗斯1:9惨败科莫",
+      "summary": "范争一无缘国锦赛决赛",
       "category": "体育"
     },
     {
       "rank": 13,
-      "title": "常冰玉胜赵心童晋级国锦赛四强",
-      "hot": 9030368,
+      "title": "为什么你越安慰孩子越有压力",
+      "hot": 7782521,
       "hotText": "",
-      "url": "https://www.douyin.com/search/%E5%B8%B8%E5%86%B0%E7%8E%89%E8%83%9C%E8%B5%B5%E5%BF%83%E7%AB%A5%E6%99%8B%E7%BA%A7%E5%9B%BD%E9%94%A6%E8%B5%9B%E5%9B%9B%E5%BC%BA",
-      "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/ocIDV1Dz46u3BCierJeB6CgAEza7rw2INAfF7v~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=ISiusCESEM95DsVwggvwbkiee7U%3D&from=3218412987",
+      "url": "https://www.douyin.com/search/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E8%B6%8A%E5%AE%89%E6%85%B0%E5%AD%A9%E5%AD%90%E8%B6%8A%E6%9C%89%E5%8E%8B%E5%8A%9B",
+      "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/o43tLmgdfAI9U7HZDBe1BnBtPiADiAaMtp3Iox~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=WyEkpGaS4%2Fy0YgOdc383FD9vd9w%3D&from=3218412987",
       "source": "douyin",
       "sourceName": "抖音",
       "raw": {
@@ -512,79 +512,38 @@
         "discuss_video_count": 1,
         "display_style": 0,
         "drift_info": null,
-        "event_time": 1793835618,
-        "group_id": "7703513409200231699",
-        "hot_value": 9030368,
+        "event_time": 1793934531,
+        "group_id": "7704135964406568192",
+        "hot_value": 7782521,
         "hotlist_param": "{\"version\":1}",
-        "label": 0,
+        "label": 16,
         "position": 13,
         "related_words": null,
-        "sentence_id": "2729992",
-        "sentence_tag": 5000,
-        "video_count": 8,
-        "word": "常冰玉胜赵心童晋级国锦赛四强",
-        "word_cover": {
-          "uri": "tos-cn-p-0015/ocIDV1Dz46u3BCierJeB6CgAEza7rw2INAfF7v",
-          "url_list": [
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/ocIDV1Dz46u3BCierJeB6CgAEza7rw2INAfF7v~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=ISiusCESEM95DsVwggvwbkiee7U%3D&from=3218412987",
-            "https://p5-sign.douyinpic.com/tos-cn-p-0015/ocIDV1Dz46u3BCierJeB6CgAEza7rw2INAfF7v~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=liRaiW9ythysbDh0qw3ki1B%2BYMA%3D&from=3218412987",
-            "https://p9-sign.douyinpic.com/tos-cn-p-0015/ocIDV1Dz46u3BCierJeB6CgAEza7rw2INAfF7v~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=1hcFw4fuFFfDCqJyueBRp%2FsISjw%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": null,
-        "word_type": 1
-      },
-      "summary": "常冰玉胜赵心童晋级国锦赛四强",
-      "category": "体育"
-    },
-    {
-      "rank": 14,
-      "title": "一件单品穿两季穿搭技巧",
-      "hot": 8964973,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/%E4%B8%80%E4%BB%B6%E5%8D%95%E5%93%81%E7%A9%BF%E4%B8%A4%E5%AD%A3%E7%A9%BF%E6%90%AD%E6%8A%80%E5%B7%A7",
-      "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/o4Q7Tr8DBFzbUA2g3YgAfLITVmGKypP8Qesfe4~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=vY43l7Scgj4PtCgGv9kFznhwB84%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 0,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793782880,
-        "group_id": "7704138046384444723",
-        "hot_value": 8964973,
-        "hotlist_param": "{\"version\":1}",
-        "label": 3,
-        "position": 14,
-        "related_words": null,
-        "sentence_id": "2729262",
-        "sentence_tag": 16000,
+        "sentence_id": "2732118",
+        "sentence_tag": 20001,
         "video_count": 1,
-        "word": "一件单品穿两季穿搭技巧",
+        "word": "为什么你越安慰孩子越有压力",
         "word_cover": {
-          "uri": "tos-cn-p-0015c000-ce/o4Q7Tr8DBFzbUA2g3YgAfLITVmGKypP8Qesfe4",
+          "uri": "tos-cn-p-0015/o43tLmgdfAI9U7HZDBe1BnBtPiADiAaMtp3Iox",
           "url_list": [
-            "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/o4Q7Tr8DBFzbUA2g3YgAfLITVmGKypP8Qesfe4~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=vY43l7Scgj4PtCgGv9kFznhwB84%3D&from=3218412987",
-            "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/o4Q7Tr8DBFzbUA2g3YgAfLITVmGKypP8Qesfe4~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=GwhtUZtC9JGFe07e2qVIWTSiECQ%3D&from=3218412987",
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015c000-ce/o4Q7Tr8DBFzbUA2g3YgAfLITVmGKypP8Qesfe4~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=kpojcihMVpEEh8OztjSqLSdJQRQ%3D&from=3218412987"
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/o43tLmgdfAI9U7HZDBe1BnBtPiADiAaMtp3Iox~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=WyEkpGaS4%2Fy0YgOdc383FD9vd9w%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/o43tLmgdfAI9U7HZDBe1BnBtPiADiAaMtp3Iox~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=KWe0651FhVJ6Qw7A3aqbV8zw%2FDQ%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/o43tLmgdfAI9U7HZDBe1BnBtPiADiAaMtp3Iox~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=bSl%2FiVUdrKLXvGTnbbgAnAO12as%3D&from=3218412987"
           ]
         },
         "word_sub_board": null,
         "word_type": 1
       },
-      "summary": "一件单品穿两季穿搭技巧",
+      "summary": "为什么你越安慰孩子越有压力",
       "category": "生活"
     },
     {
-      "rank": 15,
-      "title": "曼城3:2客胜莱比锡红牛",
-      "hot": 8736176,
+      "rank": 14,
+      "title": "甲亢哥含泪弹琴致敬C罗",
+      "hot": 7768125,
       "hotText": "",
-      "url": "https://www.douyin.com/search/%E6%9B%BC%E5%9F%8E3%3A2%E5%AE%A2%E8%83%9C%E8%8E%B1%E6%AF%94%E9%94%A1%E7%BA%A2%E7%89%9B",
-      "cover": "https://p11-sign.douyinpic.com/tos-cn-i-0813c000-ce/o4rFuAXA9I9AnnnfeDEAdVDqA7EFEE57CwqJs6~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=x1FL1A36Jlchvde9kCNALfBS2v8%3D&from=3218412987",
+      "url": "https://www.douyin.com/search/%E7%94%B2%E4%BA%A2%E5%93%A5%E5%90%AB%E6%B3%AA%E5%BC%B9%E7%90%B4%E8%87%B4%E6%95%ACC%E7%BD%97",
+      "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/osHAeAG2sT3BVL7OVFfBlEEBAE7tCjGIJkfpIz~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=tVhQ%2B%2BxTAsqFUL1ifLtRqHmkC6s%3D&from=3218412987",
       "source": "douyin",
       "sourceName": "抖音",
       "raw": {
@@ -594,38 +553,743 @@
         "discuss_video_count": 1,
         "display_style": 0,
         "drift_info": null,
-        "event_time": 1793833773,
-        "group_id": "7703419472829388072",
-        "hot_value": 8736176,
+        "event_time": 1793936888,
+        "group_id": "7703807329250645284",
+        "hot_value": 7768125,
         "hotlist_param": "{\"version\":1}",
-        "label": 0,
-        "position": 15,
+        "label": 1,
+        "position": 14,
         "related_words": null,
-        "sentence_id": "2729954",
+        "sentence_id": "2732189",
         "sentence_tag": 5000,
         "video_count": 2,
-        "word": "曼城3:2客胜莱比锡红牛",
+        "word": "甲亢哥含泪弹琴致敬C罗",
         "word_cover": {
-          "uri": "tos-cn-i-0813c000-ce/o4rFuAXA9I9AnnnfeDEAdVDqA7EFEE57CwqJs6",
+          "uri": "tos-cn-p-0015/osHAeAG2sT3BVL7OVFfBlEEBAE7tCjGIJkfpIz",
           "url_list": [
-            "https://p11-sign.douyinpic.com/tos-cn-i-0813c000-ce/o4rFuAXA9I9AnnnfeDEAdVDqA7EFEE57CwqJs6~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=x1FL1A36Jlchvde9kCNALfBS2v8%3D&from=3218412987",
-            "https://p26-sign.douyinpic.com/tos-cn-i-0813c000-ce/o4rFuAXA9I9AnnnfeDEAdVDqA7EFEE57CwqJs6~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=j9KQI95JFhh2pkUZ%2BmYV%2B6dTnJA%3D&from=3218412987",
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-0813c000-ce/o4rFuAXA9I9AnnnfeDEAdVDqA7EFEE57CwqJs6~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=8%2B24IzueAUGeGZ5Mom8ORdBOBv4%3D&from=3218412987"
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/osHAeAG2sT3BVL7OVFfBlEEBAE7tCjGIJkfpIz~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=tVhQ%2B%2BxTAsqFUL1ifLtRqHmkC6s%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/osHAeAG2sT3BVL7OVFfBlEEBAE7tCjGIJkfpIz~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=qbY4l59ZJP4hYkYA9ZcR4GhzFfs%3D&from=3218412987",
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/osHAeAG2sT3BVL7OVFfBlEEBAE7tCjGIJkfpIz~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=m1NfC66GCBjMlYoVyFoexpoxIkw%3D&from=3218412987"
           ]
         },
         "word_sub_board": null,
         "word_type": 1
       },
-      "summary": "曼城3:2客胜莱比锡红牛",
-      "category": "体育"
+      "summary": "甲亢哥含泪弹琴致敬C罗",
+      "category": "娱乐"
+    },
+    {
+      "rank": 15,
+      "title": "一起来跳呲牙舞",
+      "hot": 7759751,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/%E4%B8%80%E8%B5%B7%E6%9D%A5%E8%B7%B3%E5%91%B2%E7%89%99%E8%88%9E",
+      "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/ooQmtBNDqBE1yR7FElBIkAIKAA5Rf6Ig99QeHo~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=F23XCrSiNeDCMU0XY%2BEFa8whTFU%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793884739,
+        "group_id": "7427968270617597234",
+        "hot_value": 7759751,
+        "hotlist_param": "{\"version\":1}",
+        "label": 9,
+        "position": 15,
+        "related_words": null,
+        "sentence_id": "2731639",
+        "sentence_tag": 1001,
+        "video_count": 9,
+        "word": "一起来跳呲牙舞",
+        "word_cover": {
+          "uri": "tos-cn-p-0015/ooQmtBNDqBE1yR7FElBIkAIKAA5Rf6Ig99QeHo",
+          "url_list": [
+            "https://p11-sign.douyinpic.com/tos-cn-p-0015/ooQmtBNDqBE1yR7FElBIkAIKAA5Rf6Ig99QeHo~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=F23XCrSiNeDCMU0XY%2BEFa8whTFU%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/ooQmtBNDqBE1yR7FElBIkAIKAA5Rf6Ig99QeHo~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=v8UL4s8j7sfRUG0R6%2BtfbSslRug%3D&from=3218412987",
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/ooQmtBNDqBE1yR7FElBIkAIKAA5Rf6Ig99QeHo~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=rMH9JTcqlk2ZGX7v58vnd1KSEIg%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": [
+          3
+        ],
+        "word_type": 1
+      },
+      "summary": "一起来跳呲牙舞",
+      "category": "娱乐"
     },
     {
       "rank": 16,
+      "title": "贺炜发文致敬C罗国家队生涯",
+      "hot": 7753025,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/%E8%B4%BA%E7%82%9C%E5%8F%91%E6%96%87%E8%87%B4%E6%95%ACC%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF",
+      "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/o4RulPSPEciwg7tAILjJARiQBvBI10xAXIapj~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=T%2BzZ1XsPt%2BuM%2BuW9oGNeIoNERrA%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793930472,
+        "group_id": "7704134507084125475",
+        "hot_value": 7753025,
+        "hotlist_param": "{\"version\":1}",
+        "label": 3,
+        "position": 16,
+        "related_words": null,
+        "sentence_id": "2732007",
+        "sentence_tag": 5000,
+        "video_count": 1,
+        "word": "贺炜发文致敬C罗国家队生涯",
+        "word_cover": {
+          "uri": "tos-cn-p-0015/o4RulPSPEciwg7tAILjJARiQBvBI10xAXIapj",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/o4RulPSPEciwg7tAILjJARiQBvBI10xAXIapj~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=T%2BzZ1XsPt%2BuM%2BuW9oGNeIoNERrA%3D&from=3218412987",
+            "https://p11-sign.douyinpic.com/tos-cn-p-0015/o4RulPSPEciwg7tAILjJARiQBvBI10xAXIapj~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=oQjUKzdDK4NlRbyOafiHi0Ha84k%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/o4RulPSPEciwg7tAILjJARiQBvBI10xAXIapj~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=q9uV67F2yqZ1Tyzcr2Ehan%2F%2Bqo8%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": null,
+        "word_type": 1
+      },
+      "summary": "贺炜发文致敬C罗国家队生涯",
+      "category": "体育"
+    },
+    {
+      "rank": 17,
+      "title": "后会友期第四期看点",
+      "hot": 7752221,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E7%AC%AC%E5%9B%9B%E6%9C%9F%E7%9C%8B%E7%82%B9",
+      "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/oAYJA2GEtQV5LXocGGeC7Mndef8ktLBbAIBSuQ~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=0%2FmK9KVtltY7fcwnAwFipYgCw20%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793882472,
+        "group_id": "7700424285501412644",
+        "hot_value": 7752221,
+        "hotlist_param": "{\"version\":1}",
+        "label": 3,
+        "position": 17,
+        "related_words": null,
+        "sentence_id": "2731572",
+        "sentence_tag": 2003,
+        "video_count": 1,
+        "word": "后会友期第四期看点",
+        "word_cover": {
+          "uri": "tos-cn-p-0015/oAYJA2GEtQV5LXocGGeC7Mndef8ktLBbAIBSuQ",
+          "url_list": [
+            "https://p11-sign.douyinpic.com/tos-cn-p-0015/oAYJA2GEtQV5LXocGGeC7Mndef8ktLBbAIBSuQ~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=0%2FmK9KVtltY7fcwnAwFipYgCw20%3D&from=3218412987",
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/oAYJA2GEtQV5LXocGGeC7Mndef8ktLBbAIBSuQ~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=xUf4z1FDNgp3QpB3m7KQSGw0sgI%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oAYJA2GEtQV5LXocGGeC7Mndef8ktLBbAIBSuQ~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=m7VK40z35oS4I8hBQ6Z2ciDlodo%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": null,
+        "word_type": 1
+      },
+      "summary": "后会友期第四期看点",
+      "category": "娱乐"
+    },
+    {
+      "rank": 18,
+      "title": "冬将至 我与你",
+      "hot": 7747415,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/%E5%86%AC%E5%B0%86%E8%87%B3%20%E6%88%91%E4%B8%8E%E4%BD%A0",
+      "cover": "https://p11-sign.douyinpic.com/tos-cn-i-0813c000-ce/osAA6uEQIEwqtJ6fESFeVzHCIVSBfAArDEq9A0~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=Yixgid%2Bm7NEAOlkuXjA492Kidaw%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793871167,
+        "group_id": "7418417623275590946",
+        "hot_value": 7747415,
+        "hotlist_param": "{\"version\":1}",
+        "label": 17,
+        "position": 18,
+        "related_words": null,
+        "sentence_id": "2731172",
+        "sentence_tag": 1002,
+        "video_count": 10,
+        "word": "冬将至 我与你",
+        "word_cover": {
+          "uri": "tos-cn-i-0813c000-ce/osAA6uEQIEwqtJ6fESFeVzHCIVSBfAArDEq9A0",
+          "url_list": [
+            "https://p11-sign.douyinpic.com/tos-cn-i-0813c000-ce/osAA6uEQIEwqtJ6fESFeVzHCIVSBfAArDEq9A0~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=Yixgid%2Bm7NEAOlkuXjA492Kidaw%3D&from=3218412987",
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-0813c000-ce/osAA6uEQIEwqtJ6fESFeVzHCIVSBfAArDEq9A0~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=Mwk1KH2Vrx010J0QPJpe2R2twVQ%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-i-0813c000-ce/osAA6uEQIEwqtJ6fESFeVzHCIVSBfAArDEq9A0~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=Gpc2d7nH6IZ8U%2FC6N3TKEEdFzfE%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": [
+          3
+        ],
+        "word_type": 1
+      },
+      "summary": "冬将至 我与你",
+      "category": "生活"
+    },
+    {
+      "rank": 19,
+      "title": "深度复盘BLG战胜DK",
+      "hot": 7743686,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98BLG%E6%88%98%E8%83%9CDK",
+      "cover": "https://p11-sign.douyinpic.com/tos-cn-i-jm8ajry58r/7b111a47c92d4e9ea49f750eb6863c60~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=ns%2FP0re86JnHMjfLO8YB26voFUE%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793928561,
+        "group_id": "7703601810083157258",
+        "hot_value": 7743686,
+        "hotlist_param": "{\"version\":1}",
+        "label": 3,
+        "position": 19,
+        "related_words": null,
+        "sentence_id": "2731958",
+        "sentence_tag": 12000,
+        "video_count": 3,
+        "word": "深度复盘BLG战胜DK",
+        "word_cover": {
+          "uri": "tos-cn-i-jm8ajry58r/7b111a47c92d4e9ea49f750eb6863c60",
+          "url_list": [
+            "https://p11-sign.douyinpic.com/tos-cn-i-jm8ajry58r/7b111a47c92d4e9ea49f750eb6863c60~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=ns%2FP0re86JnHMjfLO8YB26voFUE%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-i-jm8ajry58r/7b111a47c92d4e9ea49f750eb6863c60~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=g1i2IuKhypxdODxKNkb5oswnfls%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-i-jm8ajry58r/7b111a47c92d4e9ea49f750eb6863c60~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=pMW5%2FrTHWtI7ptess8uLqpEbJ6w%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": null,
+        "word_type": 1
+      },
+      "summary": "深度复盘BLG战胜DK",
+      "category": "体育"
+    },
+    {
+      "rank": 20,
+      "title": "今天是太阳雨开播",
+      "hot": 7736932,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E5%BC%80%E6%92%AD",
+      "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oY27A4tE9CzfrTHrNgATpIw7EAfqJkDgxmOAFB~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=UIiYB0SoZZIvVMupU8zeY9581RE%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793935726,
+        "group_id": "7364604680242648372",
+        "hot_value": 7736932,
+        "hotlist_param": "{\"version\":1}",
+        "label": 5,
+        "position": 20,
+        "related_words": null,
+        "sentence_id": "2732158",
+        "sentence_tag": 2002,
+        "video_count": 3,
+        "word": "今天是太阳雨开播",
+        "word_cover": {
+          "uri": "tos-cn-p-0015/oY27A4tE9CzfrTHrNgATpIw7EAfqJkDgxmOAFB",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/oY27A4tE9CzfrTHrNgATpIw7EAfqJkDgxmOAFB~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=UIiYB0SoZZIvVMupU8zeY9581RE%3D&from=3218412987",
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/oY27A4tE9CzfrTHrNgATpIw7EAfqJkDgxmOAFB~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=0WkMO527woL0KIbMcoq81VXH1WY%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oY27A4tE9CzfrTHrNgATpIw7EAfqJkDgxmOAFB~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=kBNoE2u6Men4WLVNg0inO1n9C6o%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": null,
+        "word_type": 1
+      },
+      "summary": "今天是太阳雨开播",
+      "category": "娱乐"
+    },
+    {
+      "rank": 21,
+      "title": "C罗宣布从葡萄牙国家队退役",
+      "hot": 7732505,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/C%E7%BD%97%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%91%A1%E8%90%84%E7%89%99%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9",
+      "cover": "https://p26-sign.douyinpic.com/tos-cn-i-jm8ajry58r/9e69dcb24ff445b081976048c805979e~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=u6J3gEZ1PIeGxgxkG4PqJw7F%2Ff4%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793874800,
+        "group_id": "7596332122487805222",
+        "hot_value": 7732505,
+        "hotlist_param": "{\"version\":1}",
+        "label": 0,
+        "position": 21,
+        "related_words": null,
+        "sentence_id": "2731329",
+        "sentence_tag": 5000,
+        "video_count": 15,
+        "word": "C罗宣布从葡萄牙国家队退役",
+        "word_cover": {
+          "uri": "tos-cn-i-jm8ajry58r/9e69dcb24ff445b081976048c805979e",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-i-jm8ajry58r/9e69dcb24ff445b081976048c805979e~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=u6J3gEZ1PIeGxgxkG4PqJw7F%2Ff4%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-i-jm8ajry58r/9e69dcb24ff445b081976048c805979e~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=ORn4eUj40%2B3Y8fWeXwjHHe6%2BFRs%3D&from=3218412987",
+            "https://p11-sign.douyinpic.com/tos-cn-i-jm8ajry58r/9e69dcb24ff445b081976048c805979e~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=ENGe6H5ltShiSU%2BPOyv3abclxyk%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": null,
+        "word_type": 1
+      },
+      "summary": "C罗宣布从葡萄牙国家队退役",
+      "category": "体育"
+    },
+    {
+      "rank": 22,
+      "title": "姐感穿搭法则",
+      "hot": 7731780,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/%E5%A7%90%E6%84%9F%E7%A9%BF%E6%90%AD%E6%B3%95%E5%88%99",
+      "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/ocVVuAhsIADWG7STgILW0fOG5e6SeFvIJBDPSQ~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=RMLm2%2F%2Fr%2FUPXg4RkraMDX%2BDn9NY%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793870487,
+        "group_id": "7556992693684933939",
+        "hot_value": 7731780,
+        "hotlist_param": "{\"version\":1}",
+        "label": 3,
+        "position": 22,
+        "related_words": null,
+        "sentence_id": "2731128",
+        "sentence_tag": 16000,
+        "video_count": 3,
+        "word": "姐感穿搭法则",
+        "word_cover": {
+          "uri": "tos-cn-p-0015c000-ce/ocVVuAhsIADWG7STgILW0fOG5e6SeFvIJBDPSQ",
+          "url_list": [
+            "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/ocVVuAhsIADWG7STgILW0fOG5e6SeFvIJBDPSQ~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=RMLm2%2F%2Fr%2FUPXg4RkraMDX%2BDn9NY%3D&from=3218412987",
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015c000-ce/ocVVuAhsIADWG7STgILW0fOG5e6SeFvIJBDPSQ~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=GH8LmSmWtzccwGz0mJTuTMioefA%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/ocVVuAhsIADWG7STgILW0fOG5e6SeFvIJBDPSQ~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=6%2BIX7ke3GvHtlVTnSSMrMt80RX0%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": null,
+        "word_type": 1
+      },
+      "summary": "姐感穿搭法则分享",
+      "category": "生活"
+    },
+    {
+      "rank": 23,
+      "title": "WTT法兰克福温瑞博3:0王楚钦",
+      "hot": 7728385,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/WTT%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F%E6%B8%A9%E7%91%9E%E5%8D%9A3%3A0%E7%8E%8B%E6%A5%9A%E9%92%A6",
+      "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/ok0wnZdgGg2PfAECoEtrAeeYASMptCce4PsDFT~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=EGkBlyHLzIYqCThQKp8w6jdI8vI%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793869300,
+        "group_id": "7704109455839433999",
+        "hot_value": 7728385,
+        "hotlist_param": "{\"version\":1}",
+        "label": 0,
+        "position": 23,
+        "related_words": null,
+        "sentence_id": "2731075",
+        "sentence_tag": 5000,
+        "video_count": 9,
+        "word": "WTT法兰克福温瑞博3:0王楚钦",
+        "word_cover": {
+          "uri": "tos-cn-p-0015/ok0wnZdgGg2PfAECoEtrAeeYASMptCce4PsDFT",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/ok0wnZdgGg2PfAECoEtrAeeYASMptCce4PsDFT~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=EGkBlyHLzIYqCThQKp8w6jdI8vI%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/ok0wnZdgGg2PfAECoEtrAeeYASMptCce4PsDFT~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=C81EkW8gEwN5k%2FJjXWOYYjdI1Pk%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/ok0wnZdgGg2PfAECoEtrAeeYASMptCce4PsDFT~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=4nZ%2B4D%2BUG7h6U7ReBIEvfEYGJcc%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": null,
+        "word_type": 1
+      },
+      "summary": "温瑞博3:0战胜王楚钦",
+      "category": "体育"
+    },
+    {
+      "rank": 24,
+      "title": "袁成杰被列为失信被执行人",
+      "hot": 7728195,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/%E8%A2%81%E6%88%90%E6%9D%B0%E8%A2%AB%E5%88%97%E4%B8%BA%E5%A4%B1%E4%BF%A1%E8%A2%AB%E6%89%A7%E8%A1%8C%E4%BA%BA",
+      "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oMcgnIu3vvuyACiJiaaItsiwIPAaBQnu8wMZO~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=xaQ7dJFjw4HD4pnyqQIqsGJMxHw%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793862074,
+        "group_id": "7704425817011623206",
+        "hot_value": 7728195,
+        "hotlist_param": "{\"version\":1}",
+        "label": 3,
+        "position": 24,
+        "related_words": null,
+        "sentence_id": "2730702",
+        "sentence_tag": 4003,
+        "video_count": 7,
+        "word": "袁成杰被列为失信被执行人",
+        "word_cover": {
+          "uri": "tos-cn-p-0015/oMcgnIu3vvuyACiJiaaItsiwIPAaBQnu8wMZO",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oMcgnIu3vvuyACiJiaaItsiwIPAaBQnu8wMZO~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=xaQ7dJFjw4HD4pnyqQIqsGJMxHw%3D&from=3218412987",
+            "https://p11-sign.douyinpic.com/tos-cn-p-0015/oMcgnIu3vvuyACiJiaaItsiwIPAaBQnu8wMZO~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=9w4mmlMhc9LD%2BahMCJTxcUBpPbA%3D&from=3218412987",
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/oMcgnIu3vvuyACiJiaaItsiwIPAaBQnu8wMZO~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=BqMCkAEMtw3Sk8pu1hRYbFuA78k%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": null,
+        "word_type": 1
+      },
+      "summary": "袁成杰被列为失信被执行人",
+      "category": "娱乐"
+    },
+    {
+      "rank": 25,
+      "title": "我和豆包关系最好时belike",
+      "hot": 7726803,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/%E6%88%91%E5%92%8C%E8%B1%86%E5%8C%85%E5%85%B3%E7%B3%BB%E6%9C%80%E5%A5%BD%E6%97%B6belike",
+      "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oEbUx3GrQLAYgqD2cTIOFfByJvHee7SwVIrugx~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=qQ%2BQy4YjN5eSJNqfKbXJfhp04LA%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793881229,
+        "group_id": "7704540949549323535",
+        "hot_value": 7726803,
+        "hotlist_param": "{\"version\":1}",
+        "label": 3,
+        "position": 25,
+        "related_words": null,
+        "sentence_id": "2731518",
+        "sentence_tag": 20002,
+        "video_count": 3,
+        "word": "我和豆包关系最好时belike",
+        "word_cover": {
+          "uri": "tos-cn-p-0015c000-ce/oEbUx3GrQLAYgqD2cTIOFfByJvHee7SwVIrugx",
+          "url_list": [
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oEbUx3GrQLAYgqD2cTIOFfByJvHee7SwVIrugx~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=qQ%2BQy4YjN5eSJNqfKbXJfhp04LA%3D&from=3218412987",
+            "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/oEbUx3GrQLAYgqD2cTIOFfByJvHee7SwVIrugx~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=k78aCxoYPimhMFgEBbD%2BYpTGgns%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/oEbUx3GrQLAYgqD2cTIOFfByJvHee7SwVIrugx~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=O1PePqafOst%2FewX2D2g7MX1ocFo%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": null,
+        "word_type": 1
+      },
+      "summary": "我和豆包关系最好时状态",
+      "category": "生活"
+    },
+    {
+      "rank": 26,
+      "title": "也是拍上鸭舌大片了啊厉娜",
+      "hot": 7720684,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/%E4%B9%9F%E6%98%AF%E6%8B%8D%E4%B8%8A%E9%B8%AD%E8%88%8C%E5%A4%A7%E7%89%87%E4%BA%86%E5%95%8A%E5%8E%89%E5%A8%9C",
+      "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oA8fePpG2CBXgBZBJAuVwZAkEPdAAVsnMB7xQe~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=5XriS3Kq94KrBuU%2BTcs%2BDm3wSu0%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793935517,
+        "group_id": "7703439081497875754",
+        "hot_value": 7720684,
+        "hotlist_param": "{\"version\":1}",
+        "label": 1,
+        "position": 26,
+        "related_words": null,
+        "sentence_id": "2732144",
+        "sentence_tag": 2012,
+        "video_count": 1,
+        "word": "也是拍上鸭舌大片了啊厉娜",
+        "word_cover": {
+          "uri": "tos-cn-p-0015/oA8fePpG2CBXgBZBJAuVwZAkEPdAAVsnMB7xQe",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oA8fePpG2CBXgBZBJAuVwZAkEPdAAVsnMB7xQe~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=5XriS3Kq94KrBuU%2BTcs%2BDm3wSu0%3D&from=3218412987",
+            "https://p5-sign.douyinpic.com/tos-cn-p-0015/oA8fePpG2CBXgBZBJAuVwZAkEPdAAVsnMB7xQe~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=N47GzgeLBJF8eRkpwX3IqRlqlkY%3D&from=3218412987",
+            "https://p11-sign.douyinpic.com/tos-cn-p-0015/oA8fePpG2CBXgBZBJAuVwZAkEPdAAVsnMB7xQe~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=63pgxIZASOH66X8gSblKEF8gASw%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": null,
+        "word_type": 1
+      },
+      "summary": "厉娜拍鸭舌大片",
+      "category": "娱乐"
+    },
+    {
+      "rank": 27,
+      "title": "第五人格终于想起自己是恐怖游戏",
+      "hot": 7718600,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E7%BB%88%E4%BA%8E%E6%83%B3%E8%B5%B7%E8%87%AA%E5%B7%B1%E6%98%AF%E6%81%90%E6%80%96%E6%B8%B8%E6%88%8F",
+      "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/oonE8NE9EvyAea7C0sTDfEe9dIAFCBDwLJEqIm~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=tGLP4KzWWySVKjipNo7an5LFzE8%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793936691,
+        "group_id": "6958392057446602023",
+        "hot_value": 7718600,
+        "hotlist_param": "{\"version\":1}",
+        "label": 1,
+        "position": 27,
+        "related_words": null,
+        "sentence_id": "2732184",
+        "sentence_tag": 12000,
+        "video_count": 3,
+        "word": "第五人格终于想起自己是恐怖游戏",
+        "word_cover": {
+          "uri": "tos-cn-p-0015c000-ce/oonE8NE9EvyAea7C0sTDfEe9dIAFCBDwLJEqIm",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/oonE8NE9EvyAea7C0sTDfEe9dIAFCBDwLJEqIm~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=tGLP4KzWWySVKjipNo7an5LFzE8%3D&from=3218412987",
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oonE8NE9EvyAea7C0sTDfEe9dIAFCBDwLJEqIm~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=XG2li81HFN%2F8Knayz9IDw3J9%2Fvw%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/oonE8NE9EvyAea7C0sTDfEe9dIAFCBDwLJEqIm~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=pQhaqL3CiA%2BURmyvJFwqIj8G%2BjI%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": null,
+        "word_type": 1
+      },
+      "summary": "第五人格回归恐怖游戏本质",
+      "category": "娱乐"
+    },
+    {
+      "rank": 28,
+      "title": "肱二头肌比心模仿挑战",
+      "hot": 7714456,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/%E8%82%B1%E4%BA%8C%E5%A4%B4%E8%82%8C%E6%AF%94%E5%BF%83%E6%A8%A1%E4%BB%BF%E6%8C%91%E6%88%98",
+      "cover": "https://p11-sign.douyinpic.com/tos-cn-i-0813c000-ce/oMWADEWDwxAEb25FfAq9EAAkIhTay6Q3aRNHfe~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=uEPETBeefsz7%2FuH%2Fq2ms1myyLtc%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793860961,
+        "group_id": "7703109555043325210",
+        "hot_value": 7714456,
+        "hotlist_param": "{\"version\":1}",
+        "label": 9,
+        "position": 28,
+        "related_words": null,
+        "sentence_id": "2730624",
+        "sentence_tag": 1001,
+        "video_count": 10,
+        "word": "肱二头肌比心模仿挑战",
+        "word_cover": {
+          "uri": "tos-cn-i-0813c000-ce/oMWADEWDwxAEb25FfAq9EAAkIhTay6Q3aRNHfe",
+          "url_list": [
+            "https://p11-sign.douyinpic.com/tos-cn-i-0813c000-ce/oMWADEWDwxAEb25FfAq9EAAkIhTay6Q3aRNHfe~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=uEPETBeefsz7%2FuH%2Fq2ms1myyLtc%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-i-0813c000-ce/oMWADEWDwxAEb25FfAq9EAAkIhTay6Q3aRNHfe~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=d4DPG0rwlFKmhhVxUMcDWNIflhU%3D&from=3218412987",
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-0813c000-ce/oMWADEWDwxAEb25FfAq9EAAkIhTay6Q3aRNHfe~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=r6UPUzrzSQP0rODwHJ3FxxoMAOY%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": [
+          3
+        ],
+        "word_type": 1
+      },
+      "summary": "肱二头肌比心模仿挑战",
+      "category": "生活"
+    },
+    {
+      "rank": 29,
+      "title": "考古许飞的采访太好品了",
+      "hot": 7711823,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/%E8%80%83%E5%8F%A4%E8%AE%B8%E9%A3%9E%E7%9A%84%E9%87%87%E8%AE%BF%E5%A4%AA%E5%A5%BD%E5%93%81%E4%BA%86",
+      "cover": "https://p26-sign.douyinpic.com/tos-cn-i-dy/f94fb5b999b94c2484140ced96c46ff6~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=yzvGJsTsp%2BzlP1u97YZ5fOOWhrs%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793860938,
+        "group_id": "7703614409503905078",
+        "hot_value": 7711823,
+        "hotlist_param": "{\"version\":1}",
+        "label": 3,
+        "position": 29,
+        "related_words": null,
+        "sentence_id": "2730621",
+        "sentence_tag": 2003,
+        "video_count": 1,
+        "word": "考古许飞的采访太好品了",
+        "word_cover": {
+          "uri": "tos-cn-i-dy/f94fb5b999b94c2484140ced96c46ff6",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-i-dy/f94fb5b999b94c2484140ced96c46ff6~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=yzvGJsTsp%2BzlP1u97YZ5fOOWhrs%3D&from=3218412987",
+            "https://p11-sign.douyinpic.com/tos-cn-i-dy/f94fb5b999b94c2484140ced96c46ff6~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=QZNiqGx6LoawM%2FSssdm0NhZjW2k%3D&from=3218412987",
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-dy/f94fb5b999b94c2484140ced96c46ff6~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=GMYEa6oUE2DT9lxydfXTMKHPyrU%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": null,
+        "word_type": 1
+      },
+      "summary": "考古许飞采访引热议",
+      "category": "娱乐"
+    },
+    {
+      "rank": 30,
+      "title": "吴磊一天骑行100公里",
+      "hot": 7687513,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/%E5%90%B4%E7%A3%8A%E4%B8%80%E5%A4%A9%E9%AA%91%E8%A1%8C100%E5%85%AC%E9%87%8C",
+      "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/oAegdgIe6E6RAVXEi1Cw8sB6imfBACl9LI9oGp~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=nGg9k%2FqAlzpZsOc%2Bn6rLGejxOkk%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793860339,
+        "group_id": "7702522824233866538",
+        "hot_value": 7687513,
+        "hotlist_param": "{\"version\":1}",
+        "label": 3,
+        "position": 30,
+        "related_words": null,
+        "sentence_id": "2730580",
+        "sentence_tag": 2012,
+        "video_count": 3,
+        "word": "吴磊一天骑行100公里",
+        "word_cover": {
+          "uri": "tos-cn-p-0015c000-ce/oAegdgIe6E6RAVXEi1Cw8sB6imfBACl9LI9oGp",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/oAegdgIe6E6RAVXEi1Cw8sB6imfBACl9LI9oGp~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=nGg9k%2FqAlzpZsOc%2Bn6rLGejxOkk%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/oAegdgIe6E6RAVXEi1Cw8sB6imfBACl9LI9oGp~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=nXsBKHJdexj%2BAYJoyp8sgLhHQDI%3D&from=3218412987",
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oAegdgIe6E6RAVXEi1Cw8sB6imfBACl9LI9oGp~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=qqRUZ5%2BbjwSwT8hoe1PIN1OAC8c%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": null,
+        "word_type": 1
+      },
+      "summary": "吴磊一天骑行100公里",
+      "category": "娱乐"
+    },
+    {
+      "rank": 31,
+      "title": "全网为许飞厉娜画地为牢",
+      "hot": 7686995,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/%E5%85%A8%E7%BD%91%E4%B8%BA%E8%AE%B8%E9%A3%9E%E5%8E%89%E5%A8%9C%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2",
+      "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/okgX8BCWQe7GfOSrr8euWgkJVBERWMOY1EQAAB~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=qfM4aBAiNA%2BUN1bx6wPoxKnwXy4%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793859612,
+        "group_id": "7703858917268788520",
+        "hot_value": 7686995,
+        "hotlist_param": "{\"version\":1}",
+        "label": 9,
+        "position": 31,
+        "related_words": null,
+        "sentence_id": "2730539",
+        "sentence_tag": 1001,
+        "video_count": 10,
+        "word": "全网为许飞厉娜画地为牢",
+        "word_cover": {
+          "uri": "tos-cn-p-0015/okgX8BCWQe7GfOSrr8euWgkJVBERWMOY1EQAAB",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/okgX8BCWQe7GfOSrr8euWgkJVBERWMOY1EQAAB~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=qfM4aBAiNA%2BUN1bx6wPoxKnwXy4%3D&from=3218412987",
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/okgX8BCWQe7GfOSrr8euWgkJVBERWMOY1EQAAB~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=qYK7mnZhLv0UekX%2FCgJQjqGv7sY%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/okgX8BCWQe7GfOSrr8euWgkJVBERWMOY1EQAAB~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=4j69MnbMCWZQIY9B3SpGYmNys7g%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": [
+          3
+        ],
+        "word_type": 1
+      },
+      "summary": "全网为许飞厉娜画地为牢",
+      "category": "娱乐"
+    },
+    {
+      "rank": 32,
       "title": "三角洲新刀皮黑伤测评",
-      "hot": 8667586,
+      "hot": 7686346,
       "hotText": "",
       "url": "https://www.douyin.com/search/%E4%B8%89%E8%A7%92%E6%B4%B2%E6%96%B0%E5%88%80%E7%9A%AE%E9%BB%91%E4%BC%A4%E6%B5%8B%E8%AF%84",
-      "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-dy/1ce148901a1740efb89068cf294d6723~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=BmTXjsGcn0OG4FTsZ9n6qYbV4bs%3D&from=3218412987",
+      "cover": "https://p3-sign.douyinpic.com/tos-cn-i-dy/1ce148901a1740efb89068cf294d6723~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=qciYoftUoJsU%2F2PBuLeO%2FV908p4%3D&from=3218412987",
       "source": "douyin",
       "sourceName": "抖音",
       "raw": {
@@ -637,36 +1301,36 @@
         "drift_info": null,
         "event_time": 1793849969,
         "group_id": "7697301799560222003",
-        "hot_value": 8667586,
+        "hot_value": 7686346,
         "hotlist_param": "{\"version\":1}",
-        "label": 1,
-        "position": 16,
+        "label": 0,
+        "position": 32,
         "related_words": null,
         "sentence_id": "2730287",
         "sentence_tag": 12000,
-        "video_count": 2,
+        "video_count": 3,
         "word": "三角洲新刀皮黑伤测评",
         "word_cover": {
           "uri": "tos-cn-i-dy/1ce148901a1740efb89068cf294d6723",
           "url_list": [
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-dy/1ce148901a1740efb89068cf294d6723~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=BmTXjsGcn0OG4FTsZ9n6qYbV4bs%3D&from=3218412987",
-            "https://p3-sign.douyinpic.com/tos-cn-i-dy/1ce148901a1740efb89068cf294d6723~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=i96v1t4V2D6PLSm0WQaYSrRbzUs%3D&from=3218412987",
-            "https://p26-sign.douyinpic.com/tos-cn-i-dy/1ce148901a1740efb89068cf294d6723~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=sxbQCDciKZZAqNGu2uobPFwayqo%3D&from=3218412987"
+            "https://p3-sign.douyinpic.com/tos-cn-i-dy/1ce148901a1740efb89068cf294d6723~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=qciYoftUoJsU%2F2PBuLeO%2FV908p4%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-i-dy/1ce148901a1740efb89068cf294d6723~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=RuRiVX5aLLcRN%2By5e2yt5Z5f6zs%3D&from=3218412987",
+            "https://p11-sign.douyinpic.com/tos-cn-i-dy/1ce148901a1740efb89068cf294d6723~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=a0clJvdQWVaWfmxFZ%2F2xkyHytuU%3D&from=3218412987"
           ]
         },
         "word_sub_board": null,
         "word_type": 1
       },
       "summary": "三角洲新刀皮黑伤测评",
-      "category": "娱乐"
+      "category": "科技"
     },
     {
-      "rank": 17,
-      "title": "Chovy：今年的我确实有些不一样",
-      "hot": 8509622,
+      "rank": 33,
+      "title": "王彦霖救助小狗后续",
+      "hot": 7683388,
       "hotText": "",
-      "url": "https://www.douyin.com/search/Chovy%EF%BC%9A%E4%BB%8A%E5%B9%B4%E7%9A%84%E6%88%91%E7%A1%AE%E5%AE%9E%E6%9C%89%E4%BA%9B%E4%B8%8D%E4%B8%80%E6%A0%B7",
-      "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/ogoPvI4B8IMJ2CaL1FrguAXiBu8vaA4Rib6Pr~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=0%2B2RVpp9Hc6xx%2Flur6hOYlLZbDU%3D&from=3218412987",
+      "url": "https://www.douyin.com/search/%E7%8E%8B%E5%BD%A6%E9%9C%96%E6%95%91%E5%8A%A9%E5%B0%8F%E7%8B%97%E5%90%8E%E7%BB%AD",
+      "cover": "https://p9-sign.douyinpic.com/tos-cn-p-0015c000-ce/ok0jEf9FDEbqFhXAztEHRIIL7CeIbeTw7795tA~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=dbsdEws3EIQM89gk%2FFxQ%2B5rhV%2Fg%3D&from=3218412987",
       "source": "douyin",
       "sourceName": "抖音",
       "raw": {
@@ -676,38 +1340,411 @@
         "discuss_video_count": 1,
         "display_style": 0,
         "drift_info": null,
-        "event_time": 1793847119,
-        "group_id": "7703850752586650917",
-        "hot_value": 8509622,
+        "event_time": 1793935265,
+        "group_id": "7700039785163887899",
+        "hot_value": 7683388,
         "hotlist_param": "{\"version\":1}",
-        "label": 0,
-        "position": 17,
+        "label": 1,
+        "position": 33,
         "related_words": null,
-        "sentence_id": "2730188",
-        "sentence_tag": 12000,
-        "video_count": 3,
-        "word": "Chovy：今年的我确实有些不一样",
+        "sentence_id": "2732139",
+        "sentence_tag": 2012,
+        "video_count": 2,
+        "word": "王彦霖救助小狗后续",
         "word_cover": {
-          "uri": "tos-cn-p-0015c000-ce/ogoPvI4B8IMJ2CaL1FrguAXiBu8vaA4Rib6Pr",
+          "uri": "tos-cn-p-0015c000-ce/ok0jEf9FDEbqFhXAztEHRIIL7CeIbeTw7795tA",
           "url_list": [
-            "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/ogoPvI4B8IMJ2CaL1FrguAXiBu8vaA4Rib6Pr~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=0%2B2RVpp9Hc6xx%2Flur6hOYlLZbDU%3D&from=3218412987",
-            "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/ogoPvI4B8IMJ2CaL1FrguAXiBu8vaA4Rib6Pr~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=KSes4DpI0BNcZ6oaFv3rhfve6YA%3D&from=3218412987",
-            "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/ogoPvI4B8IMJ2CaL1FrguAXiBu8vaA4Rib6Pr~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=h%2FhKKvZkbexZPlpd7%2F6UHy7RUwg%3D&from=3218412987"
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015c000-ce/ok0jEf9FDEbqFhXAztEHRIIL7CeIbeTw7795tA~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=dbsdEws3EIQM89gk%2FFxQ%2B5rhV%2Fg%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/ok0jEf9FDEbqFhXAztEHRIIL7CeIbeTw7795tA~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=27bSF1s5m53Pe8H2dgJDK8cmtik%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/ok0jEf9FDEbqFhXAztEHRIIL7CeIbeTw7795tA~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=2jX4W7NzVrHHuDqjelUxOn3hstQ%3D&from=3218412987"
           ]
         },
         "word_sub_board": null,
         "word_type": 1
       },
-      "summary": "Chovy称今年自己有些不一样",
+      "summary": "王彦霖救助小狗后续",
+      "category": "娱乐"
+    },
+    {
+      "rank": 34,
+      "title": "后会友期群像太绝了",
+      "hot": 7681642,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E7%BE%A4%E5%83%8F%E5%A4%AA%E7%BB%9D%E4%BA%86",
+      "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/ogKgIyaZApjAGuDq9imBA8gJUEQpQFFsNze7fD~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=v0WIdAygV87EqDCzcrujeGV5p64%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793935106,
+        "group_id": "7703856767852385599",
+        "hot_value": 7681642,
+        "hotlist_param": "{\"version\":1}",
+        "label": 1,
+        "position": 34,
+        "related_words": null,
+        "sentence_id": "2732135",
+        "sentence_tag": 2003,
+        "video_count": 2,
+        "word": "后会友期群像太绝了",
+        "word_cover": {
+          "uri": "tos-cn-p-0015/ogKgIyaZApjAGuDq9imBA8gJUEQpQFFsNze7fD",
+          "url_list": [
+            "https://p11-sign.douyinpic.com/tos-cn-p-0015/ogKgIyaZApjAGuDq9imBA8gJUEQpQFFsNze7fD~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=v0WIdAygV87EqDCzcrujeGV5p64%3D&from=3218412987",
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/ogKgIyaZApjAGuDq9imBA8gJUEQpQFFsNze7fD~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=beYvmf%2B3NnhVb%2BAIJD9LJIuORwM%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/ogKgIyaZApjAGuDq9imBA8gJUEQpQFFsNze7fD~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=u7JXjqqnPJM4Fuuj3nYRy7BKB6k%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": null,
+        "word_type": 1
+      },
+      "summary": "后会友期群像获好评",
+      "category": "娱乐"
+    },
+    {
+      "rank": 35,
+      "title": "黑猫顺拐舞一跳通透极了",
+      "hot": 7678159,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/%E9%BB%91%E7%8C%AB%E9%A1%BA%E6%8B%90%E8%88%9E%E4%B8%80%E8%B7%B3%E9%80%9A%E9%80%8F%E6%9E%81%E4%BA%86",
+      "cover": "https://p11-sign.douyinpic.com/tos-cn-i-0629/oouDAq4IvbgHlExiAEj3rIJqw1iBAuABFarRC~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=PCaKl746n7IhluUatyp6ygUU9Tw%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793861406,
+        "group_id": "7702792970647852326",
+        "hot_value": 7678159,
+        "hotlist_param": "{\"version\":1}",
+        "label": 9,
+        "position": 35,
+        "related_words": null,
+        "sentence_id": "2730658",
+        "sentence_tag": 1003,
+        "video_count": 6,
+        "word": "黑猫顺拐舞一跳通透极了",
+        "word_cover": {
+          "uri": "tos-cn-i-0629/oouDAq4IvbgHlExiAEj3rIJqw1iBAuABFarRC",
+          "url_list": [
+            "https://p11-sign.douyinpic.com/tos-cn-i-0629/oouDAq4IvbgHlExiAEj3rIJqw1iBAuABFarRC~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=PCaKl746n7IhluUatyp6ygUU9Tw%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-i-0629/oouDAq4IvbgHlExiAEj3rIJqw1iBAuABFarRC~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=54uGhbvY%2BUXfehGFV8Sr5gEhiuE%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-i-0629/oouDAq4IvbgHlExiAEj3rIJqw1iBAuABFarRC~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=TUruAzd1zQS8zYZ71y0zmcESjYE%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": [
+          3
+        ],
+        "word_type": 1
+      },
+      "summary": "黑猫顺拐舞一跳通透",
+      "category": "生活"
+    },
+    {
+      "rank": 36,
+      "title": "TheShy喊话把力量借给iG",
+      "hot": 7677521,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/TheShy%E5%96%8A%E8%AF%9D%E6%8A%8A%E5%8A%9B%E9%87%8F%E5%80%9F%E7%BB%99iG",
+      "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/okE1Ge3lBIDGQS8LTGVALCfWQf7vA8UqPB088V~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=3eQorYL1E5ithBOTs99YpuW8Uhg%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793859928,
+        "group_id": "7703203653763552562",
+        "hot_value": 7677521,
+        "hotlist_param": "{\"version\":1}",
+        "label": 3,
+        "position": 36,
+        "related_words": null,
+        "sentence_id": "2730565",
+        "sentence_tag": 12000,
+        "video_count": 1,
+        "word": "TheShy喊话把力量借给iG",
+        "word_cover": {
+          "uri": "tos-cn-p-0015/okE1Ge3lBIDGQS8LTGVALCfWQf7vA8UqPB088V",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/okE1Ge3lBIDGQS8LTGVALCfWQf7vA8UqPB088V~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=3eQorYL1E5ithBOTs99YpuW8Uhg%3D&from=3218412987",
+            "https://p11-sign.douyinpic.com/tos-cn-p-0015/okE1Ge3lBIDGQS8LTGVALCfWQf7vA8UqPB088V~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=NWwA7oVH%2FTJG4e35lqvaW7GiQbM%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/okE1Ge3lBIDGQS8LTGVALCfWQf7vA8UqPB088V~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=DIyzICMXGAp0oxj6nwGml3Rcx6k%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": null,
+        "word_type": 1
+      },
+      "summary": "TheShy喊话把力量借给iG",
       "category": "体育"
     },
     {
-      "rank": 18,
+      "rank": 37,
+      "title": "现场见证BLG战胜DK",
+      "hot": 7671141,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/%E7%8E%B0%E5%9C%BA%E8%A7%81%E8%AF%81BLG%E6%88%98%E8%83%9CDK",
+      "cover": "https://p9-sign.douyinpic.com/tos-cn-p-0015c000-ce/oIAcaADkkQJe5QAVf2W8JDgldQLeFohz7zMiBH~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=Vq7i%2FHnV8essb%2Bt1j94gMevTX%2Fc%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793928089,
+        "group_id": "7703118679938176266",
+        "hot_value": 7671141,
+        "hotlist_param": "{\"version\":1}",
+        "label": 3,
+        "position": 37,
+        "related_words": null,
+        "sentence_id": "2731946",
+        "sentence_tag": 12000,
+        "video_count": 5,
+        "word": "现场见证BLG战胜DK",
+        "word_cover": {
+          "uri": "tos-cn-p-0015c000-ce/oIAcaADkkQJe5QAVf2W8JDgldQLeFohz7zMiBH",
+          "url_list": [
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015c000-ce/oIAcaADkkQJe5QAVf2W8JDgldQLeFohz7zMiBH~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=Vq7i%2FHnV8essb%2Bt1j94gMevTX%2Fc%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/oIAcaADkkQJe5QAVf2W8JDgldQLeFohz7zMiBH~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=9F60rbF2DlegUW3SCCS69J2xBrQ%3D&from=3218412987",
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oIAcaADkkQJe5QAVf2W8JDgldQLeFohz7zMiBH~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=0G5JB6ykiEs6aihTHAXicoNedwk%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": null,
+        "word_type": 1
+      },
+      "summary": "现场见证BLG战胜DK",
+      "category": "体育"
+    },
+    {
+      "rank": 38,
+      "title": "电视剧谷雨上演获奖即被抓",
+      "hot": 7669715,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/%E7%94%B5%E8%A7%86%E5%89%A7%E8%B0%B7%E9%9B%A8%E4%B8%8A%E6%BC%94%E8%8E%B7%E5%A5%96%E5%8D%B3%E8%A2%AB%E6%8A%93",
+      "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/oYqfQt6AADEvuwFDgRkBfFtkaEoiDQbI9U7RpD~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=rlo9w7rWYZCQE%2BgMKvynujkiyd4%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793936441,
+        "group_id": "7704172342633977139",
+        "hot_value": 7669715,
+        "hotlist_param": "{\"version\":1}",
+        "label": 5,
+        "position": 38,
+        "related_words": null,
+        "sentence_id": "2732180",
+        "sentence_tag": 2002,
+        "video_count": 3,
+        "word": "电视剧谷雨上演获奖即被抓",
+        "word_cover": {
+          "uri": "tos-cn-p-0015c000-ce/oYqfQt6AADEvuwFDgRkBfFtkaEoiDQbI9U7RpD",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/oYqfQt6AADEvuwFDgRkBfFtkaEoiDQbI9U7RpD~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=rlo9w7rWYZCQE%2BgMKvynujkiyd4%3D&from=3218412987",
+            "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/oYqfQt6AADEvuwFDgRkBfFtkaEoiDQbI9U7RpD~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=Wy0QzhhjsUdRkBS1C%2FjYcmhlrJE%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015c000-ce/oYqfQt6AADEvuwFDgRkBfFtkaEoiDQbI9U7RpD~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=i%2FaxHAX%2By2%2FLCy4Cos5mAgSSNNk%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": null,
+        "word_type": 1
+      },
+      "summary": "电视剧谷雨获奖即被抓",
+      "category": "娱乐"
+    },
+    {
+      "rank": 39,
+      "title": "iG对阵GEN前瞻分析",
+      "hot": 7661415,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/iG%E5%AF%B9%E9%98%B5GEN%E5%89%8D%E7%9E%BB%E5%88%86%E6%9E%90",
+      "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/oEB87FIg8HALiICFb37vC2efelGhJCUQtEUV0s~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=aQI463GMG1aX5%2BKwKpCiY15GaCU%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793863863,
+        "group_id": "7703424245623412018",
+        "hot_value": 7661415,
+        "hotlist_param": "{\"version\":1}",
+        "label": 0,
+        "position": 39,
+        "related_words": null,
+        "sentence_id": "2730798",
+        "sentence_tag": 12000,
+        "video_count": 1,
+        "word": "iG对阵GEN前瞻分析",
+        "word_cover": {
+          "uri": "tos-cn-p-0015c000-ce/oEB87FIg8HALiICFb37vC2efelGhJCUQtEUV0s",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/oEB87FIg8HALiICFb37vC2efelGhJCUQtEUV0s~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=aQI463GMG1aX5%2BKwKpCiY15GaCU%3D&from=3218412987",
+            "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/oEB87FIg8HALiICFb37vC2efelGhJCUQtEUV0s~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=WSbPGw9NuErwsXS4BpTMzTyOdpk%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/oEB87FIg8HALiICFb37vC2efelGhJCUQtEUV0s~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=JVaQ8RdKc2muy8%2BHVBbmwbFvSTg%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": null,
+        "word_type": 1
+      },
+      "summary": "iG对阵GEN前瞻分析",
+      "category": "体育"
+    },
+    {
+      "rank": 40,
+      "title": "红果为什么在台湾这么火",
+      "hot": 7659307,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/%E7%BA%A2%E6%9E%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E5%8F%B0%E6%B9%BE%E8%BF%99%E4%B9%88%E7%81%AB",
+      "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/ooAMPuPBysnXiA9IXa2IwTwavB3YAigiAXIiQ~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=z0PHzbVWRIaQn%2FejFhEBfFdYsgo%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793873007,
+        "group_id": "7703018712702063899",
+        "hot_value": 7659307,
+        "hotlist_param": "{\"version\":1}",
+        "label": 3,
+        "position": 40,
+        "related_words": null,
+        "sentence_id": "2731266",
+        "sentence_tag": 2002,
+        "video_count": 4,
+        "word": "红果为什么在台湾这么火",
+        "word_cover": {
+          "uri": "tos-cn-p-0015/ooAMPuPBysnXiA9IXa2IwTwavB3YAigiAXIiQ",
+          "url_list": [
+            "https://p11-sign.douyinpic.com/tos-cn-p-0015/ooAMPuPBysnXiA9IXa2IwTwavB3YAigiAXIiQ~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=z0PHzbVWRIaQn%2FejFhEBfFdYsgo%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-p-0015/ooAMPuPBysnXiA9IXa2IwTwavB3YAigiAXIiQ~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=IOUcSRARH3SZx2y0a5IFc%2BDR%2FY0%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/ooAMPuPBysnXiA9IXa2IwTwavB3YAigiAXIiQ~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=tAgSUEi%2FEQ3f1kVlmtw2TCa905Y%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": null,
+        "word_type": 1
+      },
+      "summary": "红果在台湾走红原因",
+      "category": "科技"
+    },
+    {
+      "rank": 41,
+      "title": "转眼又到了立冬",
+      "hot": 7659134,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/%E8%BD%AC%E7%9C%BC%E5%8F%88%E5%88%B0%E4%BA%86%E7%AB%8B%E5%86%AC",
+      "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/oojwtRlZAhcAZfeq9ZVCEcRozEISIFFp7jX6fD~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=9w3vx83HO9GTbbB3ZH%2FOLIxJjn0%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793865630,
+        "group_id": "6621002954587510029",
+        "hot_value": 7659134,
+        "hotlist_param": "{\"version\":1}",
+        "label": 9,
+        "position": 41,
+        "related_words": null,
+        "sentence_id": "2730908",
+        "sentence_tag": 1001,
+        "video_count": 10,
+        "word": "转眼又到了立冬",
+        "word_cover": {
+          "uri": "tos-cn-p-0015c000-ce/oojwtRlZAhcAZfeq9ZVCEcRozEISIFFp7jX6fD",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/oojwtRlZAhcAZfeq9ZVCEcRozEISIFFp7jX6fD~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=9w3vx83HO9GTbbB3ZH%2FOLIxJjn0%3D&from=3218412987",
+            "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/oojwtRlZAhcAZfeq9ZVCEcRozEISIFFp7jX6fD~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=TL%2BLf7yq2s%2BYzWKSvoP1rnJNyXY%3D&from=3218412987",
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oojwtRlZAhcAZfeq9ZVCEcRozEISIFFp7jX6fD~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=A%2FSmeCTkB8VXjFSduyy%2FCoiKD%2FQ%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": [
+          3
+        ],
+        "word_type": 1
+      },
+      "summary": "立冬节气到来",
+      "category": "生活"
+    },
+    {
+      "rank": 42,
+      "title": "一件单品穿两季穿搭技巧",
+      "hot": 7657497,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/%E4%B8%80%E4%BB%B6%E5%8D%95%E5%93%81%E7%A9%BF%E4%B8%A4%E5%AD%A3%E7%A9%BF%E6%90%AD%E6%8A%80%E5%B7%A7",
+      "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/o4Q7Tr8DBFzbUA2g3YgAfLITVmGKypP8Qesfe4~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=gYemMNm5gHqUEdM%2FjB7uw9TajK8%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793782880,
+        "group_id": "7704138046384444723",
+        "hot_value": 7657497,
+        "hotlist_param": "{\"version\":1}",
+        "label": 0,
+        "position": 42,
+        "related_words": null,
+        "sentence_id": "2729262",
+        "sentence_tag": 16000,
+        "video_count": 1,
+        "word": "一件单品穿两季穿搭技巧",
+        "word_cover": {
+          "uri": "tos-cn-p-0015c000-ce/o4Q7Tr8DBFzbUA2g3YgAfLITVmGKypP8Qesfe4",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/o4Q7Tr8DBFzbUA2g3YgAfLITVmGKypP8Qesfe4~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=gYemMNm5gHqUEdM%2FjB7uw9TajK8%3D&from=3218412987",
+            "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/o4Q7Tr8DBFzbUA2g3YgAfLITVmGKypP8Qesfe4~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=T1oHuusmDj%2Fif8shPjH%2BJvKpiAM%3D&from=3218412987",
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015c000-ce/o4Q7Tr8DBFzbUA2g3YgAfLITVmGKypP8Qesfe4~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=Vj5WMfym1i6owkALmNsaojMXc0c%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": null,
+        "word_type": 1
+      },
+      "summary": "单品两季穿搭技巧",
+      "category": "生活"
+    },
+    {
+      "rank": 43,
       "title": "沈阳保洁大叔老钱风穿搭好飒",
-      "hot": 8281862,
+      "hot": 7653819,
       "hotText": "",
       "url": "https://www.douyin.com/search/%E6%B2%88%E9%98%B3%E4%BF%9D%E6%B4%81%E5%A4%A7%E5%8F%94%E8%80%81%E9%92%B1%E9%A3%8E%E7%A9%BF%E6%90%AD%E5%A5%BD%E9%A3%92",
-      "cover": "https://p9-sign.douyinpic.com/tos-cn-p-0015/ogIMi3aZBpASl6o6uWQnPBiIAcXvYzbIRhvkg~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=TaAlxDI67Yi01wO5rlaNJ4y0DMw%3D&from=3218412987",
+      "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/ogIMi3aZBpASl6o6uWQnPBiIAcXvYzbIRhvkg~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=zCzQrouDa8M2zcQblPKiYlVc2JY%3D&from=3218412987",
       "source": "douyin",
       "sourceName": "抖音",
       "raw": {
@@ -719,10 +1756,10 @@
         "drift_info": null,
         "event_time": 1793775702,
         "group_id": "7702449941758874929",
-        "hot_value": 8281862,
+        "hot_value": 7653819,
         "hotlist_param": "{\"version\":1}",
         "label": 3,
-        "position": 18,
+        "position": 43,
         "related_words": null,
         "sentence_id": "2728922",
         "sentence_tag": 16000,
@@ -731,24 +1768,24 @@
         "word_cover": {
           "uri": "tos-cn-p-0015/ogIMi3aZBpASl6o6uWQnPBiIAcXvYzbIRhvkg",
           "url_list": [
-            "https://p9-sign.douyinpic.com/tos-cn-p-0015/ogIMi3aZBpASl6o6uWQnPBiIAcXvYzbIRhvkg~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=TaAlxDI67Yi01wO5rlaNJ4y0DMw%3D&from=3218412987",
-            "https://p26-sign.douyinpic.com/tos-cn-p-0015/ogIMi3aZBpASl6o6uWQnPBiIAcXvYzbIRhvkg~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=FK51UxFymnu4NA0QGIT7h4UavZY%3D&from=3218412987",
-            "https://p11-sign.douyinpic.com/tos-cn-p-0015/ogIMi3aZBpASl6o6uWQnPBiIAcXvYzbIRhvkg~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=eBy6VAaqV5w%2BalXFg9oGINzcXCk%3D&from=3218412987"
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/ogIMi3aZBpASl6o6uWQnPBiIAcXvYzbIRhvkg~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=zCzQrouDa8M2zcQblPKiYlVc2JY%3D&from=3218412987",
+            "https://p11-sign.douyinpic.com/tos-cn-p-0015/ogIMi3aZBpASl6o6uWQnPBiIAcXvYzbIRhvkg~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=l3Kt%2BRbyH8%2BF6igWFologyvcPTM%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/ogIMi3aZBpASl6o6uWQnPBiIAcXvYzbIRhvkg~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=MIRw%2BN2gEgw%2FPDvoFKTeYmk%2B%2Bew%3D&from=3218412987"
           ]
         },
         "word_sub_board": null,
         "word_type": 1
       },
-      "summary": "沈阳保洁大叔老钱风穿搭好飒",
+      "summary": "沈阳保洁大叔穿搭走红",
       "category": "社会民生"
     },
     {
-      "rank": 19,
-      "title": "谁懂影之刃零中华武术的含金量",
-      "hot": 7951047,
+      "rank": 44,
+      "title": "轻松拿捏穿搭障眼法",
+      "hot": 7650619,
       "hotText": "",
-      "url": "https://www.douyin.com/search/%E8%B0%81%E6%87%82%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E4%B8%AD%E5%8D%8E%E6%AD%A6%E6%9C%AF%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F",
-      "cover": "https://p9-sign.douyinpic.com/tos-cn-p-0015/oE9nXA5NAhuQKExquFCFENp6QBlfAPPQegDpAQ~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=pItMn%2FJ880QQo5DoV8vk5kLafno%3D&from=3218412987",
+      "url": "https://www.douyin.com/search/%E8%BD%BB%E6%9D%BE%E6%8B%BF%E6%8D%8F%E7%A9%BF%E6%90%AD%E9%9A%9C%E7%9C%BC%E6%B3%95",
+      "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/oEy6aFrAEQPIwx6PGQfVyHKA9CLNqDnREGOfBY~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=h4wCW6GCYsXXffi9drtcSXc9eCE%3D&from=3218412987",
       "source": "douyin",
       "sourceName": "抖音",
       "raw": {
@@ -758,866 +1795,79 @@
         "discuss_video_count": 1,
         "display_style": 0,
         "drift_info": null,
-        "event_time": 1793778056,
-        "group_id": "7703071446130267401",
-        "hot_value": 7951047,
+        "event_time": 1793870316,
+        "group_id": "7601481558911374602",
+        "hot_value": 7650619,
         "hotlist_param": "{\"version\":1}",
         "label": 3,
-        "position": 19,
+        "position": 44,
         "related_words": null,
-        "sentence_id": "2729045",
-        "sentence_tag": 12000,
-        "video_count": 1,
-        "word": "谁懂影之刃零中华武术的含金量",
-        "word_cover": {
-          "uri": "tos-cn-p-0015/oE9nXA5NAhuQKExquFCFENp6QBlfAPPQegDpAQ",
-          "url_list": [
-            "https://p9-sign.douyinpic.com/tos-cn-p-0015/oE9nXA5NAhuQKExquFCFENp6QBlfAPPQegDpAQ~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=pItMn%2FJ880QQo5DoV8vk5kLafno%3D&from=3218412987",
-            "https://p3-sign.douyinpic.com/tos-cn-p-0015/oE9nXA5NAhuQKExquFCFENp6QBlfAPPQegDpAQ~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=%2BUi7ef9k752L4mAjtxziwEE%2Bh3g%3D&from=3218412987",
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/oE9nXA5NAhuQKExquFCFENp6QBlfAPPQegDpAQ~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=wTZZQDXhBZ2f%2BGlQP%2BnIR098xvw%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": null,
-        "word_type": 1
-      },
-      "summary": "影之刃零中华武术含金量获赞",
-      "category": "娱乐"
-    },
-    {
-      "rank": 20,
-      "title": "许飞一开口就是晋江文学",
-      "hot": 7779913,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/%E8%AE%B8%E9%A3%9E%E4%B8%80%E5%BC%80%E5%8F%A3%E5%B0%B1%E6%98%AF%E6%99%8B%E6%B1%9F%E6%96%87%E5%AD%A6",
-      "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/oQeyMnyE48IC5EjqApEI9jsF9fjcq0AnED9Bwd~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=to7iluGxJYGEt%2BfWCjkvP1vX4JU%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 0,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793756982,
-        "group_id": "7702974153665910067",
-        "hot_value": 7779913,
-        "hotlist_param": "{\"version\":1}",
-        "label": 3,
-        "position": 20,
-        "related_words": null,
-        "sentence_id": "2728280",
-        "sentence_tag": 2003,
-        "video_count": 1,
-        "word": "许飞一开口就是晋江文学",
-        "word_cover": {
-          "uri": "tos-cn-p-0015c000-ce/oQeyMnyE48IC5EjqApEI9jsF9fjcq0AnED9Bwd",
-          "url_list": [
-            "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/oQeyMnyE48IC5EjqApEI9jsF9fjcq0AnED9Bwd~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=to7iluGxJYGEt%2BfWCjkvP1vX4JU%3D&from=3218412987",
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oQeyMnyE48IC5EjqApEI9jsF9fjcq0AnED9Bwd~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=ZBaGHmAar%2FKERBLnZ110N6JJeFM%3D&from=3218412987",
-            "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/oQeyMnyE48IC5EjqApEI9jsF9fjcq0AnED9Bwd~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=5427iKQwiqLOQp14e3U%2Be1Lf%2FYM%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": null,
-        "word_type": 1
-      },
-      "summary": "许飞一开口就是晋江文学",
-      "category": "娱乐"
-    },
-    {
-      "rank": 21,
-      "title": "妈妈的话是家里的圣旨",
-      "hot": 7762565,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/%E5%A6%88%E5%A6%88%E7%9A%84%E8%AF%9D%E6%98%AF%E5%AE%B6%E9%87%8C%E7%9A%84%E5%9C%A3%E6%97%A8",
-      "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/okpMxcr2DQfhyp9UASFKCy9cPBfTqLAIERgpA6~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=1atv1ioKJMekEEIuLFmY3FzKBvw%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 0,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793749576,
-        "group_id": "7703864665814242594",
-        "hot_value": 7762565,
-        "hotlist_param": "{\"version\":1}",
-        "label": 0,
-        "position": 21,
-        "related_words": null,
-        "sentence_id": "2728176",
-        "sentence_tag": 19000,
-        "video_count": 2,
-        "word": "妈妈的话是家里的圣旨",
-        "word_cover": {
-          "uri": "tos-cn-p-0015/okpMxcr2DQfhyp9UASFKCy9cPBfTqLAIERgpA6",
-          "url_list": [
-            "https://p26-sign.douyinpic.com/tos-cn-p-0015/okpMxcr2DQfhyp9UASFKCy9cPBfTqLAIERgpA6~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=1atv1ioKJMekEEIuLFmY3FzKBvw%3D&from=3218412987",
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/okpMxcr2DQfhyp9UASFKCy9cPBfTqLAIERgpA6~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=xsD5F8rEEr4k2uQapHo%2FmfV72hA%3D&from=3218412987",
-            "https://p9-sign.douyinpic.com/tos-cn-p-0015/okpMxcr2DQfhyp9UASFKCy9cPBfTqLAIERgpA6~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=rEj9mVfrGi5eLFB4jEHN2z4mPm8%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": null,
-        "word_type": 1
-      },
-      "summary": "妈妈的话在家中如圣旨般权威",
-      "category": "生活"
-    },
-    {
-      "rank": 22,
-      "title": "毛茸茸的青稚有脾气",
-      "hot": 7743873,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/%E6%AF%9B%E8%8C%B8%E8%8C%B8%E7%9A%84%E9%9D%92%E7%A8%9A%E6%9C%89%E8%84%BE%E6%B0%94",
-      "cover": "https://p9-sign.douyinpic.com/tos-cn-p-0015/oUNB6KdAvwiD18qGDQZ9fwf3AiAFWGEqgICQaV~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=OQVsPvZEasZigkGij2suMWgedpI%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 0,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793797417,
-        "group_id": "7703559054329009442",
-        "hot_value": 7743873,
-        "hotlist_param": "{\"version\":1}",
-        "label": 3,
-        "position": 22,
-        "related_words": null,
-        "sentence_id": "2729720",
-        "sentence_tag": 2003,
-        "video_count": 1,
-        "word": "毛茸茸的青稚有脾气",
-        "word_cover": {
-          "uri": "tos-cn-p-0015/oUNB6KdAvwiD18qGDQZ9fwf3AiAFWGEqgICQaV",
-          "url_list": [
-            "https://p9-sign.douyinpic.com/tos-cn-p-0015/oUNB6KdAvwiD18qGDQZ9fwf3AiAFWGEqgICQaV~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=OQVsPvZEasZigkGij2suMWgedpI%3D&from=3218412987",
-            "https://p11-sign.douyinpic.com/tos-cn-p-0015/oUNB6KdAvwiD18qGDQZ9fwf3AiAFWGEqgICQaV~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=sOqitp38EBZ8iFVj%2FoVOQPEHV%2Bc%3D&from=3218412987",
-            "https://p3-sign.douyinpic.com/tos-cn-p-0015/oUNB6KdAvwiD18qGDQZ9fwf3AiAFWGEqgICQaV~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=azVTFFzs0DlOSGBvEW9PUUBSOdE%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": null,
-        "word_type": 1
-      },
-      "summary": "毛茸茸的青稚也有小脾气",
-      "category": "生活"
-    },
-    {
-      "rank": 23,
-      "title": "第一视角沉浸式体验天门山跑酷",
-      "hot": 7734028,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E5%A4%A9%E9%97%A8%E5%B1%B1%E8%B7%91%E9%85%B7",
-      "cover": "https://p26-sign.douyinpic.com/tos-cn-i-0629/ogeYskVBBAEIAUArzGG8GVga1QA7ePrehLQOOS~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=KlkBa5TnguwzBWAkO12DdDeD7JI%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 0,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793842214,
-        "group_id": "7703557063272387881",
-        "hot_value": 7734028,
-        "hotlist_param": "{\"version\":1}",
-        "label": 0,
-        "position": 23,
-        "related_words": null,
-        "sentence_id": "2730063",
-        "sentence_tag": 20002,
-        "video_count": 2,
-        "word": "第一视角沉浸式体验天门山跑酷",
-        "word_cover": {
-          "uri": "tos-cn-i-0629/ogeYskVBBAEIAUArzGG8GVga1QA7ePrehLQOOS",
-          "url_list": [
-            "https://p26-sign.douyinpic.com/tos-cn-i-0629/ogeYskVBBAEIAUArzGG8GVga1QA7ePrehLQOOS~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=KlkBa5TnguwzBWAkO12DdDeD7JI%3D&from=3218412987",
-            "https://p11-sign.douyinpic.com/tos-cn-i-0629/ogeYskVBBAEIAUArzGG8GVga1QA7ePrehLQOOS~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=ON%2ByFE%2FrKioXhi%2BZa5lwwiW1FbM%3D&from=3218412987",
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-0629/ogeYskVBBAEIAUArzGG8GVga1QA7ePrehLQOOS~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=4yUC7tbCF%2BBL0cwKp%2B8b79wxCpo%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": null,
-        "word_type": 1
-      },
-      "summary": "第一视角沉浸体验天门山跑酷",
-      "category": "体育"
-    },
-    {
-      "rank": 24,
-      "title": "特朗普中期选举失利后首露面",
-      "hot": 7732212,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%A4%B1%E5%88%A9%E5%90%8E%E9%A6%96%E9%9C%B2%E9%9D%A2",
-      "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/o0C6Aa81lLfpDBmHgVIGmeeog2zhAvArBEWPA7~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=mTuSA55QGBGLtrl4HQQ%2FkQuuH%2FQ%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 0,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793833395,
-        "group_id": "7703242803538744627",
-        "hot_value": 7732212,
-        "hotlist_param": "{\"version\":1}",
-        "label": 3,
-        "position": 24,
-        "related_words": null,
-        "sentence_id": "2729950",
-        "sentence_tag": 3002,
-        "video_count": 6,
-        "word": "特朗普中期选举失利后首露面",
-        "word_cover": {
-          "uri": "tos-cn-p-0015/o0C6Aa81lLfpDBmHgVIGmeeog2zhAvArBEWPA7",
-          "url_list": [
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/o0C6Aa81lLfpDBmHgVIGmeeog2zhAvArBEWPA7~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=mTuSA55QGBGLtrl4HQQ%2FkQuuH%2FQ%3D&from=3218412987",
-            "https://p3-sign.douyinpic.com/tos-cn-p-0015/o0C6Aa81lLfpDBmHgVIGmeeog2zhAvArBEWPA7~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=FgvxOSlyGCtQE9R0b6ykQf4RtOI%3D&from=3218412987",
-            "https://p9-sign.douyinpic.com/tos-cn-p-0015/o0C6Aa81lLfpDBmHgVIGmeeog2zhAvArBEWPA7~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=ssc1tANzigDypprjTCnVHMhhDl8%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": null,
-        "word_type": 1
-      },
-      "summary": "特朗普中期选举失利后首次露面",
-      "category": "其他"
-    },
-    {
-      "rank": 25,
-      "title": "我的第五人格磷光症手记",
-      "hot": 7730337,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E7%A3%B7%E5%85%89%E7%97%87%E6%89%8B%E8%AE%B0",
-      "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/ocQtVVRBFCXvfA7tSJgAfLIBVdGnT1Eq5eUnkE~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=mYFRkanJVXihHQr1hFkR9tytn48%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 0,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793806417,
-        "group_id": "7702824218723783974",
-        "hot_value": 7730337,
-        "hotlist_param": "{\"version\":1}",
-        "label": 3,
-        "position": 25,
-        "related_words": null,
-        "sentence_id": "2729935",
-        "sentence_tag": 12000,
-        "video_count": 4,
-        "word": "我的第五人格磷光症手记",
-        "word_cover": {
-          "uri": "tos-cn-p-0015/ocQtVVRBFCXvfA7tSJgAfLIBVdGnT1Eq5eUnkE",
-          "url_list": [
-            "https://p26-sign.douyinpic.com/tos-cn-p-0015/ocQtVVRBFCXvfA7tSJgAfLIBVdGnT1Eq5eUnkE~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=mYFRkanJVXihHQr1hFkR9tytn48%3D&from=3218412987",
-            "https://p11-sign.douyinpic.com/tos-cn-p-0015/ocQtVVRBFCXvfA7tSJgAfLIBVdGnT1Eq5eUnkE~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=TKncl4Kf9KzFVc%2BNMMkXYHD%2BQso%3D&from=3218412987",
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/ocQtVVRBFCXvfA7tSJgAfLIBVdGnT1Eq5eUnkE~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=bf2ZKv72QGWDTmejUheBsLiaNJo%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": null,
-        "word_type": 1
-      },
-      "summary": "玩家分享第五人格磷光症手记",
-      "category": "娱乐"
-    },
-    {
-      "rank": 26,
-      "title": "厉娜剪了个新短发",
-      "hot": 7730004,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/%E5%8E%89%E5%A8%9C%E5%89%AA%E4%BA%86%E4%B8%AA%E6%96%B0%E7%9F%AD%E5%8F%91",
-      "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/oQvXGIAbN5Da3jsB7IwIDiQQdwrz5ajPxNuAi~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=LQkymPoD0nTyqoETKfglGC%2FraV0%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 0,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793799577,
-        "group_id": "7703458407760074027",
-        "hot_value": 7730004,
-        "hotlist_param": "{\"version\":1}",
-        "label": 3,
-        "position": 26,
-        "related_words": null,
-        "sentence_id": "2729772",
-        "sentence_tag": 2012,
-        "video_count": 1,
-        "word": "厉娜剪了个新短发",
-        "word_cover": {
-          "uri": "tos-cn-p-0015/oQvXGIAbN5Da3jsB7IwIDiQQdwrz5ajPxNuAi",
-          "url_list": [
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/oQvXGIAbN5Da3jsB7IwIDiQQdwrz5ajPxNuAi~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=LQkymPoD0nTyqoETKfglGC%2FraV0%3D&from=3218412987",
-            "https://p9-sign.douyinpic.com/tos-cn-p-0015/oQvXGIAbN5Da3jsB7IwIDiQQdwrz5ajPxNuAi~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=oYNxFgov340XyOjPQNAimj65YBo%3D&from=3218412987",
-            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oQvXGIAbN5Da3jsB7IwIDiQQdwrz5ajPxNuAi~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=e1QVJ1IW%2FMTUpD%2FBn6P2UaqewBk%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": null,
-        "word_type": 1
-      },
-      "summary": "厉娜剪新短发造型引关注",
-      "category": "娱乐"
-    },
-    {
-      "rank": 27,
-      "title": "各行各业在红果都有专属短剧",
-      "hot": 7725901,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/%E5%90%84%E8%A1%8C%E5%90%84%E4%B8%9A%E5%9C%A8%E7%BA%A2%E6%9E%9C%E9%83%BD%E6%9C%89%E4%B8%93%E5%B1%9E%E7%9F%AD%E5%89%A7",
-      "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/okHAATrcEiQhWDsQ8VQiXA1IPBa0IC4BPmHuz~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=myW3qiMhxJibxIZSLRrjjIDukZM%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 0,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793778107,
-        "group_id": "7702690985822115099",
-        "hot_value": 7725901,
-        "hotlist_param": "{\"version\":1}",
-        "label": 3,
-        "position": 27,
-        "related_words": null,
-        "sentence_id": "2729051",
-        "sentence_tag": 20003,
-        "video_count": 4,
-        "word": "各行各业在红果都有专属短剧",
-        "word_cover": {
-          "uri": "tos-cn-p-0015/okHAATrcEiQhWDsQ8VQiXA1IPBa0IC4BPmHuz",
-          "url_list": [
-            "https://p26-sign.douyinpic.com/tos-cn-p-0015/okHAATrcEiQhWDsQ8VQiXA1IPBa0IC4BPmHuz~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=myW3qiMhxJibxIZSLRrjjIDukZM%3D&from=3218412987",
-            "https://p11-sign.douyinpic.com/tos-cn-p-0015/okHAATrcEiQhWDsQ8VQiXA1IPBa0IC4BPmHuz~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=IrXYc8py55nKvs%2BMOzV00D1OZbQ%3D&from=3218412987",
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/okHAATrcEiQhWDsQ8VQiXA1IPBa0IC4BPmHuz~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=pk8PqS6Vf1orAEo%2BEcYD8WfWIvA%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": null,
-        "word_type": 1
-      },
-      "summary": "红果平台各行业专属短剧涌现",
-      "category": "娱乐"
-    },
-    {
-      "rank": 28,
-      "title": "我家门口新开了一朵茉莉",
-      "hot": 7724937,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/%E6%88%91%E5%AE%B6%E9%97%A8%E5%8F%A3%E6%96%B0%E5%BC%80%E4%BA%86%E4%B8%80%E6%9C%B5%E8%8C%89%E8%8E%89",
-      "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/oQEwp1dArBN2dwea8yIALiiELpBwJdAIyfLjmo~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=cHvwZ9iDeWB0KLvhAaT%2BBCgLEIc%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 0,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793796803,
-        "group_id": "7692524958098543907",
-        "hot_value": 7724937,
-        "hotlist_param": "{\"version\":1}",
-        "label": 9,
-        "position": 28,
-        "related_words": null,
-        "sentence_id": "2729709",
-        "sentence_tag": 1002,
-        "video_count": 10,
-        "word": "我家门口新开了一朵茉莉",
-        "word_cover": {
-          "uri": "tos-cn-p-0015c000-ce/oQEwp1dArBN2dwea8yIALiiELpBwJdAIyfLjmo",
-          "url_list": [
-            "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/oQEwp1dArBN2dwea8yIALiiELpBwJdAIyfLjmo~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=cHvwZ9iDeWB0KLvhAaT%2BBCgLEIc%3D&from=3218412987",
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oQEwp1dArBN2dwea8yIALiiELpBwJdAIyfLjmo~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=4Ip8R8D07TZNTDeUBebYuB%2Boh%2BA%3D&from=3218412987",
-            "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/oQEwp1dArBN2dwea8yIALiiELpBwJdAIyfLjmo~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=5ZnWVS1KrhJQkRxjdz6usivx9R4%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": [
-          3
-        ],
-        "word_type": 1
-      },
-      "summary": "家门口新开一朵茉莉花",
-      "category": "生活"
-    },
-    {
-      "rank": 29,
-      "title": "三角洲新赛季的n种打法",
-      "hot": 7711057,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/%E4%B8%89%E8%A7%92%E6%B4%B2%E6%96%B0%E8%B5%9B%E5%AD%A3%E7%9A%84n%E7%A7%8D%E6%89%93%E6%B3%95",
-      "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/o4PAu8DsFjIt6Cqp09knABaAewtEICBfgqg6qE~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=T5xSrHP78LSNtCJsf2ao32CtXNU%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 0,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793800703,
-        "group_id": "7703138657608389915",
-        "hot_value": 7711057,
-        "hotlist_param": "{\"version\":1}",
-        "label": 3,
-        "position": 29,
-        "related_words": null,
-        "sentence_id": "2729822",
-        "sentence_tag": 12000,
-        "video_count": 1,
-        "word": "三角洲新赛季的n种打法",
-        "word_cover": {
-          "uri": "tos-cn-p-0015/o4PAu8DsFjIt6Cqp09knABaAewtEICBfgqg6qE",
-          "url_list": [
-            "https://p26-sign.douyinpic.com/tos-cn-p-0015/o4PAu8DsFjIt6Cqp09knABaAewtEICBfgqg6qE~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=T5xSrHP78LSNtCJsf2ao32CtXNU%3D&from=3218412987",
-            "https://p11-sign.douyinpic.com/tos-cn-p-0015/o4PAu8DsFjIt6Cqp09knABaAewtEICBfgqg6qE~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=0eoLCo%2BHdtbRBbO81hsU3P4X06E%3D&from=3218412987",
-            "https://p3-sign.douyinpic.com/tos-cn-p-0015/o4PAu8DsFjIt6Cqp09knABaAewtEICBfgqg6qE~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=w8IvVEWb0T9X2rUaM1Tc4vsvSik%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": null,
-        "word_type": 1
-      },
-      "summary": "三角洲新赛季多种打法解析",
-      "category": "娱乐"
-    },
-    {
-      "rank": 30,
-      "title": "媒体评IG战胜TES",
-      "hot": 7706692,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/%E5%AA%92%E4%BD%93%E8%AF%84IG%E6%88%98%E8%83%9CTES",
-      "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oQEhqqXAEBsgXg9C5RIALFEAnyDIf6Bp2frDgC~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=XMyXLXxB3S3d%2FA%2FWbTGtWLYA4m0%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 0,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793779832,
-        "group_id": "7704186745109861641",
-        "hot_value": 7706692,
-        "hotlist_param": "{\"version\":1}",
-        "label": 3,
-        "position": 30,
-        "related_words": null,
-        "sentence_id": "2729172",
-        "sentence_tag": 12000,
-        "video_count": 4,
-        "word": "媒体评IG战胜TES",
-        "word_cover": {
-          "uri": "tos-cn-p-0015/oQEhqqXAEBsgXg9C5RIALFEAnyDIf6Bp2frDgC",
-          "url_list": [
-            "https://p3-sign.douyinpic.com/tos-cn-p-0015/oQEhqqXAEBsgXg9C5RIALFEAnyDIf6Bp2frDgC~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=XMyXLXxB3S3d%2FA%2FWbTGtWLYA4m0%3D&from=3218412987",
-            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oQEhqqXAEBsgXg9C5RIALFEAnyDIf6Bp2frDgC~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=wQ3JMh6iopktFzTQjsHm9wdEe%2FE%3D&from=3218412987",
-            "https://p11-sign.douyinpic.com/tos-cn-p-0015/oQEhqqXAEBsgXg9C5RIALFEAnyDIf6Bp2frDgC~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=2UnpxmdWoIEFJ8PSTz1e%2FdmOz%2Bo%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": null,
-        "word_type": 1
-      },
-      "summary": "媒体评IG战胜TES比赛",
-      "category": "体育"
-    },
-    {
-      "rank": 31,
-      "title": "TheShy感谢粉丝支持",
-      "hot": 7698497,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/TheShy%E6%84%9F%E8%B0%A2%E7%B2%89%E4%B8%9D%E6%94%AF%E6%8C%81",
-      "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/ooeV84hfXV4GQAIecQRLdBGGCbzs1g7VIxGAEB~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=br9UC1SpYOZrCNxci2Z6CM7c%2BaM%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 0,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793770678,
-        "group_id": "7444292135728190729",
-        "hot_value": 7698497,
-        "hotlist_param": "{\"version\":1}",
-        "label": 3,
-        "position": 31,
-        "related_words": null,
-        "sentence_id": "2728657",
-        "sentence_tag": 12000,
-        "video_count": 1,
-        "word": "TheShy感谢粉丝支持",
-        "word_cover": {
-          "uri": "tos-cn-p-0015/ooeV84hfXV4GQAIecQRLdBGGCbzs1g7VIxGAEB",
-          "url_list": [
-            "https://p26-sign.douyinpic.com/tos-cn-p-0015/ooeV84hfXV4GQAIecQRLdBGGCbzs1g7VIxGAEB~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=br9UC1SpYOZrCNxci2Z6CM7c%2BaM%3D&from=3218412987",
-            "https://p9-sign.douyinpic.com/tos-cn-p-0015/ooeV84hfXV4GQAIecQRLdBGGCbzs1g7VIxGAEB~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=%2FaemWIfrtGcfn%2FscCxj9fkSnfkM%3D&from=3218412987",
-            "https://p3-sign.douyinpic.com/tos-cn-p-0015/ooeV84hfXV4GQAIecQRLdBGGCbzs1g7VIxGAEB~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=mPRKx5JRjOBgGo3AUlZWOdVgmtg%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": null,
-        "word_type": 1
-      },
-      "summary": "TheShy发文感谢粉丝支持",
-      "category": "体育"
-    },
-    {
-      "rank": 32,
-      "title": "深度解析后会友期背后看点",
-      "hot": 7697101,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E8%83%8C%E5%90%8E%E7%9C%8B%E7%82%B9",
-      "cover": "https://p26-sign.douyinpic.com/tos-cn-i-jm8ajry58r/373591c7dec342238c1d3cdcb2879105~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=q%2BR0MY30GnVB4TUzISA3si%2Bxek0%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 0,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793716979,
-        "group_id": "7703543444933874998",
-        "hot_value": 7697101,
-        "hotlist_param": "{\"version\":1}",
-        "label": 3,
-        "position": 32,
-        "related_words": null,
-        "sentence_id": "2728071",
-        "sentence_tag": 2003,
-        "video_count": 3,
-        "word": "深度解析后会友期背后看点",
-        "word_cover": {
-          "uri": "tos-cn-i-jm8ajry58r/373591c7dec342238c1d3cdcb2879105",
-          "url_list": [
-            "https://p26-sign.douyinpic.com/tos-cn-i-jm8ajry58r/373591c7dec342238c1d3cdcb2879105~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=q%2BR0MY30GnVB4TUzISA3si%2Bxek0%3D&from=3218412987",
-            "https://p3-sign.douyinpic.com/tos-cn-i-jm8ajry58r/373591c7dec342238c1d3cdcb2879105~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=PgXJuRx1FShO9SDdUjMEtD1hBmk%3D&from=3218412987",
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-jm8ajry58r/373591c7dec342238c1d3cdcb2879105~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=TrKQLqrfb2kOqPTFyzdZ7GGBYUQ%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": null,
-        "word_type": 1
-      },
-      "summary": "深度解析后会友期节目看点",
-      "category": "娱乐"
-    },
-    {
-      "rank": 33,
-      "title": "这一支舞我只为你一个人跳",
-      "hot": 7694842,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/%E8%BF%99%E4%B8%80%E6%94%AF%E8%88%9E%E6%88%91%E5%8F%AA%E4%B8%BA%E4%BD%A0%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%B7%B3",
-      "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oQ9n8AlTAhjQRBkqaVNFELO6IBXf5GfSngDpA0~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=f5CP2wncWys7jodPGny7W0lSYQ8%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 0,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793696964,
-        "group_id": "6745857672148456712",
-        "hot_value": 7694842,
-        "hotlist_param": "{\"version\":1}",
-        "label": 9,
-        "position": 33,
-        "related_words": null,
-        "sentence_id": "2727555",
-        "sentence_tag": 1001,
-        "video_count": 10,
-        "word": "这一支舞我只为你一个人跳",
-        "word_cover": {
-          "uri": "tos-cn-p-0015/oQ9n8AlTAhjQRBkqaVNFELO6IBXf5GfSngDpA0",
-          "url_list": [
-            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oQ9n8AlTAhjQRBkqaVNFELO6IBXf5GfSngDpA0~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=f5CP2wncWys7jodPGny7W0lSYQ8%3D&from=3218412987",
-            "https://p9-sign.douyinpic.com/tos-cn-p-0015/oQ9n8AlTAhjQRBkqaVNFELO6IBXf5GfSngDpA0~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=Xv4t206PMUfPml2azUNZLQtyXJc%3D&from=3218412987",
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/oQ9n8AlTAhjQRBkqaVNFELO6IBXf5GfSngDpA0~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=Tq%2F5HRvHsL8Z5TpbA6HkBpz80jo%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": [
-          3
-        ],
-        "word_type": 1
-      },
-      "summary": "一支舞只为你一人而跳",
-      "category": "娱乐"
-    },
-    {
-      "rank": 34,
-      "title": "小蓝叔对口型演绎大赏",
-      "hot": 7694330,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/%E5%B0%8F%E8%93%9D%E5%8F%94%E5%AF%B9%E5%8F%A3%E5%9E%8B%E6%BC%94%E7%BB%8E%E5%A4%A7%E8%B5%8F",
-      "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/oUqSnjohCBJEEAi90EjIj5yAy6ARwdfL4eTBiO~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=qnK3D5GjRWlqpFooj1ZkiYdw93g%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 0,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793687575,
-        "group_id": "7702866283587441956",
-        "hot_value": 7694330,
-        "hotlist_param": "{\"version\":1}",
-        "label": 9,
-        "position": 34,
-        "related_words": null,
-        "sentence_id": "2727117",
-        "sentence_tag": 1003,
-        "video_count": 6,
-        "word": "小蓝叔对口型演绎大赏",
-        "word_cover": {
-          "uri": "tos-cn-p-0015c000-ce/oUqSnjohCBJEEAi90EjIj5yAy6ARwdfL4eTBiO",
-          "url_list": [
-            "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/oUqSnjohCBJEEAi90EjIj5yAy6ARwdfL4eTBiO~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=qnK3D5GjRWlqpFooj1ZkiYdw93g%3D&from=3218412987",
-            "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/oUqSnjohCBJEEAi90EjIj5yAy6ARwdfL4eTBiO~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=7mTWRZrPNcpqCr8RCYrFbNOZigc%3D&from=3218412987",
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oUqSnjohCBJEEAi90EjIj5yAy6ARwdfL4eTBiO~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=K8PO1PwLsnZSFDxASKKWMoVPzew%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": [
-          3
-        ],
-        "word_type": 1
-      },
-      "summary": "小蓝叔对口型演绎精彩合集",
-      "category": "娱乐"
-    },
-    {
-      "rank": 35,
-      "title": "嫁金钗红线拿下大结果",
-      "hot": 7692999,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/%E5%AB%81%E9%87%91%E9%92%97%E7%BA%A2%E7%BA%BF%E6%8B%BF%E4%B8%8B%E5%A4%A7%E7%BB%93%E6%9E%9C",
-      "cover": "https://p26-sign.douyinpic.com/tos-cn-i-0813/ooFKy6AhEi3AXrAAMm1ApBRCdIXBDsAfgAOiDe~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=9jW1heX1hkrDLzDvveaWh7VF44c%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 0,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793767537,
-        "group_id": "7703276272525055275",
-        "hot_value": 7692999,
-        "hotlist_param": "{\"version\":1}",
-        "label": 3,
-        "position": 35,
-        "related_words": null,
-        "sentence_id": "2728575",
-        "sentence_tag": 2002,
-        "video_count": 3,
-        "word": "嫁金钗红线拿下大结果",
-        "word_cover": {
-          "uri": "tos-cn-i-0813/ooFKy6AhEi3AXrAAMm1ApBRCdIXBDsAfgAOiDe",
-          "url_list": [
-            "https://p26-sign.douyinpic.com/tos-cn-i-0813/ooFKy6AhEi3AXrAAMm1ApBRCdIXBDsAfgAOiDe~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=9jW1heX1hkrDLzDvveaWh7VF44c%3D&from=3218412987",
-            "https://p9-sign.douyinpic.com/tos-cn-i-0813/ooFKy6AhEi3AXrAAMm1ApBRCdIXBDsAfgAOiDe~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=KniOYOSVgqueOVd7fG2Ni%2FHb8ao%3D&from=3218412987",
-            "https://p11-sign.douyinpic.com/tos-cn-i-0813/ooFKy6AhEi3AXrAAMm1ApBRCdIXBDsAfgAOiDe~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=jdKDYs45u8GrKSnaZKGanJqcE9A%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": null,
-        "word_type": 1
-      },
-      "summary": "嫁金钗红线剧情迎来大结果",
-      "category": "娱乐"
-    },
-    {
-      "rank": 36,
-      "title": "原神7.2新地图快速上手攻略",
-      "hot": 7689502,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/%E5%8E%9F%E7%A5%9E7.2%E6%96%B0%E5%9C%B0%E5%9B%BE%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%E6%94%BB%E7%95%A5",
-      "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/o0uoIai21ZCtXDtpAOBAIzd2eV1guBrAYNiGfZ~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=GDPkc4E1kb577lcdrk8naJBTDts%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 0,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793764081,
-        "group_id": "7703089816750331178",
-        "hot_value": 7689502,
-        "hotlist_param": "{\"version\":1}",
-        "label": 3,
-        "position": 36,
-        "related_words": null,
-        "sentence_id": "2728488",
-        "sentence_tag": 12000,
-        "video_count": 3,
-        "word": "原神7.2新地图快速上手攻略",
-        "word_cover": {
-          "uri": "tos-cn-p-0015/o0uoIai21ZCtXDtpAOBAIzd2eV1guBrAYNiGfZ",
-          "url_list": [
-            "https://p26-sign.douyinpic.com/tos-cn-p-0015/o0uoIai21ZCtXDtpAOBAIzd2eV1guBrAYNiGfZ~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=GDPkc4E1kb577lcdrk8naJBTDts%3D&from=3218412987",
-            "https://p3-sign.douyinpic.com/tos-cn-p-0015/o0uoIai21ZCtXDtpAOBAIzd2eV1guBrAYNiGfZ~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=Xz9FG7Wm0OgVaVl%2FnPkWLkBtG8Y%3D&from=3218412987",
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/o0uoIai21ZCtXDtpAOBAIzd2eV1guBrAYNiGfZ~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=1xb7akwvF3qaGXIvnQ1fajtt%2FeM%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": null,
-        "word_type": 1
-      },
-      "summary": "原神7.2新地图快速上手攻略",
-      "category": "娱乐"
-    },
-    {
-      "rank": 37,
-      "title": "后会友期导演回应节目剪辑混乱",
-      "hot": 7683500,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E8%8A%82%E7%9B%AE%E5%89%AA%E8%BE%91%E6%B7%B7%E4%B9%B1",
-      "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/ok9cqapIPpGuiAQi3AB82xMhSDZrqjdmPhHoI~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=B8zKZH8dyZstp1qDDz%2Fm6y2Dils%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 0,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793751223,
-        "group_id": "7703566517333759269",
-        "hot_value": 7683500,
-        "hotlist_param": "{\"version\":1}",
-        "label": 3,
-        "position": 37,
-        "related_words": null,
-        "sentence_id": "2728188",
-        "sentence_tag": 2003,
-        "video_count": 1,
-        "word": "后会友期导演回应节目剪辑混乱",
-        "word_cover": {
-          "uri": "tos-cn-p-0015c000-ce/ok9cqapIPpGuiAQi3AB82xMhSDZrqjdmPhHoI",
-          "url_list": [
-            "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/ok9cqapIPpGuiAQi3AB82xMhSDZrqjdmPhHoI~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=B8zKZH8dyZstp1qDDz%2Fm6y2Dils%3D&from=3218412987",
-            "https://p9-sign.douyinpic.com/tos-cn-p-0015c000-ce/ok9cqapIPpGuiAQi3AB82xMhSDZrqjdmPhHoI~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=gAvtOVTEUnwzejqZTWYK8r0Y4PQ%3D&from=3218412987",
-            "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/ok9cqapIPpGuiAQi3AB82xMhSDZrqjdmPhHoI~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=nStPyEhjKKUHpCJCDRXRO0sISFc%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": null,
-        "word_type": 1
-      },
-      "summary": "后会友期导演回应剪辑混乱",
-      "category": "娱乐"
-    },
-    {
-      "rank": 38,
-      "title": "一半青涩一半纯真",
-      "hot": 7683071,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/%E4%B8%80%E5%8D%8A%E9%9D%92%E6%B6%A9%E4%B8%80%E5%8D%8A%E7%BA%AF%E7%9C%9F",
-      "cover": "https://p26-sign.douyinpic.com/tos-cn-i-0813/oIq4S1AkEiyTHWAAOy1ApBXCdIz6C4AfgAoiDe~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=UsAMmqOMcwuG81jHEXY7VVwAKyg%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 0,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793778006,
-        "group_id": "6667436126355068172",
-        "hot_value": 7683071,
-        "hotlist_param": "{\"version\":1}",
-        "label": 9,
-        "position": 38,
-        "related_words": null,
-        "sentence_id": "2729040",
-        "sentence_tag": 1002,
-        "video_count": 10,
-        "word": "一半青涩一半纯真",
-        "word_cover": {
-          "uri": "tos-cn-i-0813/oIq4S1AkEiyTHWAAOy1ApBXCdIz6C4AfgAoiDe",
-          "url_list": [
-            "https://p26-sign.douyinpic.com/tos-cn-i-0813/oIq4S1AkEiyTHWAAOy1ApBXCdIz6C4AfgAoiDe~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=UsAMmqOMcwuG81jHEXY7VVwAKyg%3D&from=3218412987",
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-0813/oIq4S1AkEiyTHWAAOy1ApBXCdIz6C4AfgAoiDe~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=kiO%2FdnOp0%2FTOFQnw2F0d1XKhVLY%3D&from=3218412987",
-            "https://p3-sign.douyinpic.com/tos-cn-i-0813/oIq4S1AkEiyTHWAAOy1ApBXCdIz6C4AfgAoiDe~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=M%2FKD1hV9RytUGHX7mOoMBEH1JkQ%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": [
-          3
-        ],
-        "word_type": 1
-      },
-      "summary": "一半青涩一半纯真的青春感",
-      "category": "生活"
-    },
-    {
-      "rank": 39,
-      "title": "大摆羽绒服不用当肥粽子",
-      "hot": 7680951,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/%E5%A4%A7%E6%91%86%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%8D%E7%94%A8%E5%BD%93%E8%82%A5%E7%B2%BD%E5%AD%90",
-      "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oMfx9XDruqqZIwi68UZiOAxBCvQ06I9qf8eAFE~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=dsjcx%2FjvN1XC8GiqPifVFNV%2F5%2Bk%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 0,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793799851,
-        "group_id": "7703164877610947890",
-        "hot_value": 7680951,
-        "hotlist_param": "{\"version\":1}",
-        "label": 0,
-        "position": 39,
-        "related_words": null,
-        "sentence_id": "2729786",
+        "sentence_id": "2731117",
         "sentence_tag": 16000,
         "video_count": 1,
-        "word": "大摆羽绒服不用当肥粽子",
+        "word": "轻松拿捏穿搭障眼法",
         "word_cover": {
-          "uri": "tos-cn-p-0015c000-ce/oMfx9XDruqqZIwi68UZiOAxBCvQ06I9qf8eAFE",
+          "uri": "tos-cn-p-0015c000-ce/oEy6aFrAEQPIwx6PGQfVyHKA9CLNqDnREGOfBY",
           "url_list": [
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oMfx9XDruqqZIwi68UZiOAxBCvQ06I9qf8eAFE~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=dsjcx%2FjvN1XC8GiqPifVFNV%2F5%2Bk%3D&from=3218412987",
-            "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/oMfx9XDruqqZIwi68UZiOAxBCvQ06I9qf8eAFE~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=h1bhoULmVYJZZC6zllt6BCDeF9k%3D&from=3218412987",
-            "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/oMfx9XDruqqZIwi68UZiOAxBCvQ06I9qf8eAFE~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=8qKcKn013gfla%2BX02GaZvQrz99o%3D&from=3218412987"
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/oEy6aFrAEQPIwx6PGQfVyHKA9CLNqDnREGOfBY~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=h4wCW6GCYsXXffi9drtcSXc9eCE%3D&from=3218412987",
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oEy6aFrAEQPIwx6PGQfVyHKA9CLNqDnREGOfBY~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=EIYm2covqzr8R8%2FzMSEjcjDy3GI%3D&from=3218412987",
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/oEy6aFrAEQPIwx6PGQfVyHKA9CLNqDnREGOfBY~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=BAXYH526EQ14l8IROIYrTrrVePo%3D&from=3218412987"
           ]
         },
         "word_sub_board": null,
         "word_type": 1
       },
-      "summary": "大摆羽绒服穿搭告别臃肿",
+      "summary": "穿搭障眼法技巧",
       "category": "生活"
     },
     {
-      "rank": 40,
+      "rank": 45,
+      "title": "今年立冬吃超长长长饺子",
+      "hot": 7650320,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/%E4%BB%8A%E5%B9%B4%E7%AB%8B%E5%86%AC%E5%90%83%E8%B6%85%E9%95%BF%E9%95%BF%E9%95%BF%E9%A5%BA%E5%AD%90",
+      "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oAK7IwNe4A3fCnBTA5gi1cpnEv7A1RiBjBt7nA~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=NeyL%2Bj5Aec0tdKJUoakBB5d7iP8%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793845357,
+        "group_id": "7704154696919323958",
+        "hot_value": 7650320,
+        "hotlist_param": "{\"version\":1}",
+        "label": 0,
+        "position": 45,
+        "related_words": null,
+        "sentence_id": "2730126",
+        "sentence_tag": 9000,
+        "video_count": 3,
+        "word": "今年立冬吃超长长长饺子",
+        "word_cover": {
+          "uri": "tos-cn-p-0015/oAK7IwNe4A3fCnBTA5gi1cpnEv7A1RiBjBt7nA",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/oAK7IwNe4A3fCnBTA5gi1cpnEv7A1RiBjBt7nA~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=NeyL%2Bj5Aec0tdKJUoakBB5d7iP8%3D&from=3218412987",
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/oAK7IwNe4A3fCnBTA5gi1cpnEv7A1RiBjBt7nA~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=blC3RZHWlts63LwJyak6dVJgpvw%3D&from=3218412987",
+            "https://p11-sign.douyinpic.com/tos-cn-p-0015/oAK7IwNe4A3fCnBTA5gi1cpnEv7A1RiBjBt7nA~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=y2TvJ%2FZYyXkxj0DIwBUIXFhFFyI%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": null,
+        "word_type": 1
+      },
+      "summary": "立冬吃超长饺子",
+      "category": "生活"
+    },
+    {
+      "rank": 46,
       "title": "买首饰是为了取悦自己",
-      "hot": 7679726,
+      "hot": 7647097,
       "hotText": "",
       "url": "https://www.douyin.com/search/%E4%B9%B0%E9%A6%96%E9%A5%B0%E6%98%AF%E4%B8%BA%E4%BA%86%E5%8F%96%E6%82%A6%E8%87%AA%E5%B7%B1",
-      "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-0813c000-ce/okoBpAkAiDNAIHiw1PRAGMJfkg7eC5AdpEEExD~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=mlYLZW4TnG0mVIzpLdBBhkAXHRM%3D&from=3218412987",
+      "cover": "https://p26-sign.douyinpic.com/tos-cn-i-0813c000-ce/okoBpAkAiDNAIHiw1PRAGMJfkg7eC5AdpEEExD~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=u%2BgnqavsBZI5UhWvWuSxAbtuUAk%3D&from=3218412987",
       "source": "douyin",
       "sourceName": "抖音",
       "raw": {
@@ -1629,10 +1879,10 @@
         "drift_info": null,
         "event_time": 1793786654,
         "group_id": "7023683390135555342",
-        "hot_value": 7679726,
+        "hot_value": 7647097,
         "hotlist_param": "{\"version\":1}",
-        "label": 0,
-        "position": 40,
+        "label": 3,
+        "position": 46,
         "related_words": null,
         "sentence_id": "2729423",
         "sentence_tag": 16000,
@@ -1641,270 +1891,24 @@
         "word_cover": {
           "uri": "tos-cn-i-0813c000-ce/okoBpAkAiDNAIHiw1PRAGMJfkg7eC5AdpEEExD",
           "url_list": [
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-0813c000-ce/okoBpAkAiDNAIHiw1PRAGMJfkg7eC5AdpEEExD~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=mlYLZW4TnG0mVIzpLdBBhkAXHRM%3D&from=3218412987",
-            "https://p11-sign.douyinpic.com/tos-cn-i-0813c000-ce/okoBpAkAiDNAIHiw1PRAGMJfkg7eC5AdpEEExD~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=xn1K0ZvY31ccA3wrr6QqnD2ogv0%3D&from=3218412987",
-            "https://p3-sign.douyinpic.com/tos-cn-i-0813c000-ce/okoBpAkAiDNAIHiw1PRAGMJfkg7eC5AdpEEExD~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=oh%2FIqcf1kid4TvK7CDVUOmC43tQ%3D&from=3218412987"
+            "https://p26-sign.douyinpic.com/tos-cn-i-0813c000-ce/okoBpAkAiDNAIHiw1PRAGMJfkg7eC5AdpEEExD~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=u%2BgnqavsBZI5UhWvWuSxAbtuUAk%3D&from=3218412987",
+            "https://p11-sign.douyinpic.com/tos-cn-i-0813c000-ce/okoBpAkAiDNAIHiw1PRAGMJfkg7eC5AdpEEExD~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=P3BnqYLvlDU5Zp1S3%2BF5OwACtqk%3D&from=3218412987",
+            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-0813c000-ce/okoBpAkAiDNAIHiw1PRAGMJfkg7eC5AdpEEExD~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=Yqf94oW9EwZ%2FXe23Yx6y1YoNWas%3D&from=3218412987"
           ]
         },
         "word_sub_board": null,
         "word_type": 1
       },
-      "summary": "买首饰是为取悦自己而非他人",
-      "category": "生活"
-    },
-    {
-      "rank": 41,
-      "title": "英国男子花费28年完成环球徒步",
-      "hot": 7676815,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/%E8%8B%B1%E5%9B%BD%E7%94%B7%E5%AD%90%E8%8A%B1%E8%B4%B928%E5%B9%B4%E5%AE%8C%E6%88%90%E7%8E%AF%E7%90%83%E5%BE%92%E6%AD%A5",
-      "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oAQqoVNBUCWfjA7Qg5QADLIBKsGje0Ciie0XXE~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=%2BGGww9etaAUmkb0HjzOcsKlQXLk%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 0,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793694682,
-        "group_id": "7702819354996856127",
-        "hot_value": 7676815,
-        "hotlist_param": "{\"version\":1}",
-        "label": 0,
-        "position": 41,
-        "related_words": null,
-        "sentence_id": "2727455",
-        "sentence_tag": 20002,
-        "video_count": 3,
-        "word": "英国男子花费28年完成环球徒步",
-        "word_cover": {
-          "uri": "tos-cn-p-0015/oAQqoVNBUCWfjA7Qg5QADLIBKsGje0Ciie0XXE",
-          "url_list": [
-            "https://p26-sign.douyinpic.com/tos-cn-p-0015/oAQqoVNBUCWfjA7Qg5QADLIBKsGje0Ciie0XXE~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=%2BGGww9etaAUmkb0HjzOcsKlQXLk%3D&from=3218412987",
-            "https://p9-sign.douyinpic.com/tos-cn-p-0015/oAQqoVNBUCWfjA7Qg5QADLIBKsGje0Ciie0XXE~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=oLvhp4gY6riX2roFVBlgkbUdaJg%3D&from=3218412987",
-            "https://p11-sign.douyinpic.com/tos-cn-p-0015/oAQqoVNBUCWfjA7Qg5QADLIBKsGje0Ciie0XXE~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=ZcCxUQ9Fnw61ni7JEUJ16oPCEV8%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": null,
-        "word_type": 1
-      },
-      "summary": "英国男子28年完成环球徒步",
-      "category": "社会民生"
-    },
-    {
-      "rank": 42,
-      "title": "秋日街头感穿搭参考",
-      "hot": 7668983,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/%E7%A7%8B%E6%97%A5%E8%A1%97%E5%A4%B4%E6%84%9F%E7%A9%BF%E6%90%AD%E5%8F%82%E8%80%83",
-      "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-0813/okfvnN5AAACiAPgz0nBDC1IPcEAhHMe35inADi~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=8y%2BtzpViTB0QVTBOaLVE0W4parQ%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 0,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793771617,
-        "group_id": "7683113647182550306",
-        "hot_value": 7668983,
-        "hotlist_param": "{\"version\":1}",
-        "label": 3,
-        "position": 42,
-        "related_words": null,
-        "sentence_id": "2728695",
-        "sentence_tag": 16000,
-        "video_count": 3,
-        "word": "秋日街头感穿搭参考",
-        "word_cover": {
-          "uri": "tos-cn-i-0813/okfvnN5AAACiAPgz0nBDC1IPcEAhHMe35inADi",
-          "url_list": [
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-0813/okfvnN5AAACiAPgz0nBDC1IPcEAhHMe35inADi~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=8y%2BtzpViTB0QVTBOaLVE0W4parQ%3D&from=3218412987",
-            "https://p9-sign.douyinpic.com/tos-cn-i-0813/okfvnN5AAACiAPgz0nBDC1IPcEAhHMe35inADi~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=gALGU6MaiJe8Llpt5UtQAoo1mAY%3D&from=3218412987",
-            "https://p11-sign.douyinpic.com/tos-cn-i-0813/okfvnN5AAACiAPgz0nBDC1IPcEAhHMe35inADi~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=Hx65Vaq39a38tFVaiMsrEIZ9ALs%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": null,
-        "word_type": 1
-      },
-      "summary": "秋日街头感穿搭参考",
-      "category": "生活"
-    },
-    {
-      "rank": 43,
-      "title": "跟着周传雄在南昌吃顿不辣的",
-      "hot": 7667600,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/%E8%B7%9F%E7%9D%80%E5%91%A8%E4%BC%A0%E9%9B%84%E5%9C%A8%E5%8D%97%E6%98%8C%E5%90%83%E9%A1%BF%E4%B8%8D%E8%BE%A3%E7%9A%84",
-      "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/oEXIAteoEFAdR6DgQ90DN54gahXjwmqTqAXfBQ~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=zjJFm81rU4Gr35TynYDPgzrjBmM%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 0,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793705705,
-        "group_id": "7702748420544435507",
-        "hot_value": 7667600,
-        "hotlist_param": "{\"version\":1}",
-        "label": 3,
-        "position": 43,
-        "related_words": null,
-        "sentence_id": "2727809",
-        "sentence_tag": 9000,
-        "video_count": 3,
-        "word": "跟着周传雄在南昌吃顿不辣的",
-        "word_cover": {
-          "uri": "tos-cn-p-0015/oEXIAteoEFAdR6DgQ90DN54gahXjwmqTqAXfBQ",
-          "url_list": [
-            "https://p11-sign.douyinpic.com/tos-cn-p-0015/oEXIAteoEFAdR6DgQ90DN54gahXjwmqTqAXfBQ~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=zjJFm81rU4Gr35TynYDPgzrjBmM%3D&from=3218412987",
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/oEXIAteoEFAdR6DgQ90DN54gahXjwmqTqAXfBQ~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=ungwJ0p804zU6an%2F55a48APgLGg%3D&from=3218412987",
-            "https://p3-sign.douyinpic.com/tos-cn-p-0015/oEXIAteoEFAdR6DgQ90DN54gahXjwmqTqAXfBQ~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=5NNHeIKMfo2Y7odtAjhNOU9oTUA%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": null,
-        "word_type": 1
-      },
-      "summary": "周传雄南昌吃顿不辣的",
-      "category": "娱乐"
-    },
-    {
-      "rank": 44,
-      "title": "就这么毛茸茸地上头了",
-      "hot": 7666689,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/%E5%B0%B1%E8%BF%99%E4%B9%88%E6%AF%9B%E8%8C%B8%E8%8C%B8%E5%9C%B0%E4%B8%8A%E5%A4%B4%E4%BA%86",
-      "cover": "https://p11-sign.douyinpic.com/tos-cn-i-0813c001/ogQhIbCeAAWs7DBXAAgi0ctHEfkN1qiCmAl2lA~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=63zbcUTnKdGpauwfibYXQhKrYJU%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 0,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793754119,
-        "group_id": "7703398350959400211",
-        "hot_value": 7666689,
-        "hotlist_param": "{\"version\":1}",
-        "label": 0,
-        "position": 44,
-        "related_words": null,
-        "sentence_id": "2728221",
-        "sentence_tag": 16000,
-        "video_count": 6,
-        "word": "就这么毛茸茸地上头了",
-        "word_cover": {
-          "uri": "tos-cn-i-0813c001/ogQhIbCeAAWs7DBXAAgi0ctHEfkN1qiCmAl2lA",
-          "url_list": [
-            "https://p11-sign.douyinpic.com/tos-cn-i-0813c001/ogQhIbCeAAWs7DBXAAgi0ctHEfkN1qiCmAl2lA~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=63zbcUTnKdGpauwfibYXQhKrYJU%3D&from=3218412987",
-            "https://p26-sign.douyinpic.com/tos-cn-i-0813c001/ogQhIbCeAAWs7DBXAAgi0ctHEfkN1qiCmAl2lA~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=eH2ulxIWXboH8Efm%2B0QkLIPVtUY%3D&from=3218412987",
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-0813c001/ogQhIbCeAAWs7DBXAAgi0ctHEfkN1qiCmAl2lA~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=LC6%2BDj8O27V%2FDeonh7zMbFssS04%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": null,
-        "word_type": 1
-      },
-      "summary": "毛茸茸穿搭让人上头",
-      "category": "生活"
-    },
-    {
-      "rank": 45,
-      "title": "想到7个虞寻歌同框的是天才吧",
-      "hot": 7662352,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/%E6%83%B3%E5%88%B07%E4%B8%AA%E8%99%9E%E5%AF%BB%E6%AD%8C%E5%90%8C%E6%A1%86%E7%9A%84%E6%98%AF%E5%A4%A9%E6%89%8D%E5%90%A7",
-      "cover": "https://p11-sign.douyinpic.com/tos-cn-i-0813c000-ce/oIBqCypoAAPiLApnHqPwnEAAuIapEBi8axDyM~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=kbtouP6OXjo42NSKmpSWct6tnnA%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 0,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793707198,
-        "group_id": "7702917886985491766",
-        "hot_value": 7662352,
-        "hotlist_param": "{\"version\":1}",
-        "label": 5,
-        "position": 45,
-        "related_words": null,
-        "sentence_id": "2727847",
-        "sentence_tag": 13000,
-        "video_count": 3,
-        "word": "想到7个虞寻歌同框的是天才吧",
-        "word_cover": {
-          "uri": "tos-cn-i-0813c000-ce/oIBqCypoAAPiLApnHqPwnEAAuIapEBi8axDyM",
-          "url_list": [
-            "https://p11-sign.douyinpic.com/tos-cn-i-0813c000-ce/oIBqCypoAAPiLApnHqPwnEAAuIapEBi8axDyM~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=kbtouP6OXjo42NSKmpSWct6tnnA%3D&from=3218412987",
-            "https://p3-sign.douyinpic.com/tos-cn-i-0813c000-ce/oIBqCypoAAPiLApnHqPwnEAAuIapEBi8axDyM~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=vJQV6HrkeLFdzw0twsu2YNQVSlQ%3D&from=3218412987",
-            "https://p9-sign.douyinpic.com/tos-cn-i-0813c000-ce/oIBqCypoAAPiLApnHqPwnEAAuIapEBi8axDyM~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=DP9EI07dMeAaN3IGcODnhNlPd9w%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": null,
-        "word_type": 1
-      },
-      "summary": "虞寻歌七人同框引热议",
-      "category": "娱乐"
-    },
-    {
-      "rank": 46,
-      "title": "60块逛吃川菜博物馆",
-      "hot": 7658535,
-      "hotText": "",
-      "url": "https://www.douyin.com/search/60%E5%9D%97%E9%80%9B%E5%90%83%E5%B7%9D%E8%8F%9C%E5%8D%9A%E7%89%A9%E9%A6%86",
-      "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/ooQEYFGAABjdyCIoZuiPgaIieA7hFPkfAMB1VE~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=%2FXfeRYX8jG4RbmrExfGM5uX%2FgbU%3D&from=3218412987",
-      "source": "douyin",
-      "sourceName": "抖音",
-      "raw": {
-        "article_detail_count": 0,
-        "aweme_infos": null,
-        "can_extend_detail": false,
-        "discuss_video_count": 1,
-        "display_style": 0,
-        "drift_info": null,
-        "event_time": 1793756859,
-        "group_id": "7703318848955520299",
-        "hot_value": 7658535,
-        "hotlist_param": "{\"version\":1}",
-        "label": 0,
-        "position": 46,
-        "related_words": null,
-        "sentence_id": "2728273",
-        "sentence_tag": 9000,
-        "video_count": 2,
-        "word": "60块逛吃川菜博物馆",
-        "word_cover": {
-          "uri": "tos-cn-p-0015/ooQEYFGAABjdyCIoZuiPgaIieA7hFPkfAMB1VE",
-          "url_list": [
-            "https://p11-sign.douyinpic.com/tos-cn-p-0015/ooQEYFGAABjdyCIoZuiPgaIieA7hFPkfAMB1VE~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=%2FXfeRYX8jG4RbmrExfGM5uX%2FgbU%3D&from=3218412987",
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/ooQEYFGAABjdyCIoZuiPgaIieA7hFPkfAMB1VE~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=e0t9wX6CubiKdUViAaqxyy8%2BgTs%3D&from=3218412987",
-            "https://p26-sign.douyinpic.com/tos-cn-p-0015/ooQEYFGAABjdyCIoZuiPgaIieA7hFPkfAMB1VE~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=YDG28xqmbB4%2FKbIlU3gSqMKW10I%3D&from=3218412987"
-          ]
-        },
-        "word_sub_board": null,
-        "word_type": 1
-      },
-      "summary": "60块逛吃川菜博物馆",
+      "summary": "买首饰为取悦自己",
       "category": "生活"
     },
     {
       "rank": 47,
-      "title": "我也拥有了亚麻发色厉娜",
-      "hot": 7654373,
+      "title": "当秋冬穿搭不再all black",
+      "hot": 7645654,
       "hotText": "",
-      "url": "https://www.douyin.com/search/%E6%88%91%E4%B9%9F%E6%8B%A5%E6%9C%89%E4%BA%86%E4%BA%9A%E9%BA%BB%E5%8F%91%E8%89%B2%E5%8E%89%E5%A8%9C",
-      "cover": "https://p26-sign.douyinpic.com/tos-cn-i-0813/owsN1AI9hAB9gbAOE2DACdupMNiJedBiUAjLfA~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=23%2FVIKb7EbXbLv9Kdx5T6GXiOb0%3D&from=3218412987",
+      "url": "https://www.douyin.com/search/%E5%BD%93%E7%A7%8B%E5%86%AC%E7%A9%BF%E6%90%AD%E4%B8%8D%E5%86%8Dall%20black",
+      "cover": "https://p26-sign.douyinpic.com/tos-cn-i-0813c000-ce/ocSAeDF6WEDIP8AAgPAwfyE5qrI99NpEoAAyKC~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=AwoxRfVDexkhYY7xccalkjJofZ0%3D&from=3218412987",
       "source": "douyin",
       "sourceName": "抖音",
       "raw": {
@@ -1914,38 +1918,38 @@
         "discuss_video_count": 1,
         "display_style": 0,
         "drift_info": null,
-        "event_time": 1793706167,
-        "group_id": "7703275539062723875",
-        "hot_value": 7654373,
+        "event_time": 1793861572,
+        "group_id": "7703789072721990966",
+        "hot_value": 7645654,
         "hotlist_param": "{\"version\":1}",
         "label": 0,
         "position": 47,
         "related_words": null,
-        "sentence_id": "2727828",
+        "sentence_id": "2730668",
         "sentence_tag": 16000,
         "video_count": 3,
-        "word": "我也拥有了亚麻发色厉娜",
+        "word": "当秋冬穿搭不再all black",
         "word_cover": {
-          "uri": "tos-cn-i-0813/owsN1AI9hAB9gbAOE2DACdupMNiJedBiUAjLfA",
+          "uri": "tos-cn-i-0813c000-ce/ocSAeDF6WEDIP8AAgPAwfyE5qrI99NpEoAAyKC",
           "url_list": [
-            "https://p26-sign.douyinpic.com/tos-cn-i-0813/owsN1AI9hAB9gbAOE2DACdupMNiJedBiUAjLfA~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=23%2FVIKb7EbXbLv9Kdx5T6GXiOb0%3D&from=3218412987",
-            "https://p3-sign.douyinpic.com/tos-cn-i-0813/owsN1AI9hAB9gbAOE2DACdupMNiJedBiUAjLfA~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=HGO1hKJmzoGoBGcTMlxgxZejfvY%3D&from=3218412987",
-            "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-0813/owsN1AI9hAB9gbAOE2DACdupMNiJedBiUAjLfA~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=raCB8bdZhGg0L14XKS0Oqc0eF6w%3D&from=3218412987"
+            "https://p26-sign.douyinpic.com/tos-cn-i-0813c000-ce/ocSAeDF6WEDIP8AAgPAwfyE5qrI99NpEoAAyKC~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=AwoxRfVDexkhYY7xccalkjJofZ0%3D&from=3218412987",
+            "https://p11-sign.douyinpic.com/tos-cn-i-0813c000-ce/ocSAeDF6WEDIP8AAgPAwfyE5qrI99NpEoAAyKC~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=WIBy6FlxN4%2FBRAeMwEIDtJXVjiE%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-i-0813c000-ce/ocSAeDF6WEDIP8AAgPAwfyE5qrI99NpEoAAyKC~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=Rpaq6kVLcYrGSa7WwAyS7qmCLw0%3D&from=3218412987"
           ]
         },
         "word_sub_board": null,
         "word_type": 1
       },
-      "summary": "网友晒亚麻发色厉娜",
+      "summary": "秋冬穿搭告别全黑",
       "category": "生活"
     },
     {
       "rank": 48,
-      "title": "没想到广西烧烤这么好吃",
-      "hot": 7652682,
+      "title": "心理健康调色盘",
+      "hot": 7644925,
       "hotText": "",
-      "url": "https://www.douyin.com/search/%E6%B2%A1%E6%83%B3%E5%88%B0%E5%B9%BF%E8%A5%BF%E7%83%A7%E7%83%A4%E8%BF%99%E4%B9%88%E5%A5%BD%E5%90%83",
-      "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/ocfBImG3L3fR0cpdU7EqACxBLQnQQEJeAVu2rI~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=k7Gpv0gDEryW34S7b7epxbrSRsQ%3D&from=3218412987",
+      "url": "https://www.douyin.com/search/%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E8%B0%83%E8%89%B2%E7%9B%98",
+      "cover": "https://p26-sign.douyinpic.com/tos-cn-i-0813c000-ce/o4inkAeAEEAfIIDlA1Awk3PxoCiRaqcBtZsEV5~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=LgPajH1KZZjV3XNbanDBeJZE%2Fmw%3D&from=3218412987",
       "source": "douyin",
       "sourceName": "抖音",
       "raw": {
@@ -1955,29 +1959,70 @@
         "discuss_video_count": 1,
         "display_style": 0,
         "drift_info": null,
-        "event_time": 1793696374,
-        "group_id": "7702601250928776489",
-        "hot_value": 7652682,
+        "event_time": 1793848451,
+        "group_id": "6936519713040799013",
+        "hot_value": 7644925,
         "hotlist_param": "{\"version\":1}",
-        "label": 0,
+        "label": 17,
         "position": 48,
         "related_words": null,
-        "sentence_id": "2727528",
-        "sentence_tag": 9000,
-        "video_count": 2,
-        "word": "没想到广西烧烤这么好吃",
+        "sentence_id": "2730242",
+        "sentence_tag": 13000,
+        "video_count": 5,
+        "word": "心理健康调色盘",
         "word_cover": {
-          "uri": "tos-cn-p-0015/ocfBImG3L3fR0cpdU7EqACxBLQnQQEJeAVu2rI",
+          "uri": "tos-cn-i-0813c000-ce/o4inkAeAEEAfIIDlA1Awk3PxoCiRaqcBtZsEV5",
           "url_list": [
-            "https://p3-sign.douyinpic.com/tos-cn-p-0015/ocfBImG3L3fR0cpdU7EqACxBLQnQQEJeAVu2rI~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=k7Gpv0gDEryW34S7b7epxbrSRsQ%3D&from=3218412987",
-            "https://p11-sign.douyinpic.com/tos-cn-p-0015/ocfBImG3L3fR0cpdU7EqACxBLQnQQEJeAVu2rI~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=QhTVIlvLgCUcvYZF%2BVUhY9s8sBI%3D&from=3218412987",
-            "https://p26-sign.douyinpic.com/tos-cn-p-0015/ocfBImG3L3fR0cpdU7EqACxBLQnQQEJeAVu2rI~noop.jpeg?lk3s=bfd515bb&x-expires=1793880000&x-signature=TfTA1KcdlyHoFmnQJbXWKKnzyMU%3D&from=3218412987"
+            "https://p26-sign.douyinpic.com/tos-cn-i-0813c000-ce/o4inkAeAEEAfIIDlA1Awk3PxoCiRaqcBtZsEV5~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=LgPajH1KZZjV3XNbanDBeJZE%2Fmw%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-i-0813c000-ce/o4inkAeAEEAfIIDlA1Awk3PxoCiRaqcBtZsEV5~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=DDznKKQmx8CUU3NP6HpnPMeb%2FeM%3D&from=3218412987",
+            "https://p9-sign.douyinpic.com/tos-cn-i-0813c000-ce/o4inkAeAEEAfIIDlA1Awk3PxoCiRaqcBtZsEV5~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=lIRfVwqwv%2FHyvfQVRL9Mf3kFDGE%3D&from=3218412987"
           ]
         },
         "word_sub_board": null,
         "word_type": 1
       },
-      "summary": "广西烧烤意外好吃",
+      "summary": "心理健康调色盘",
+      "category": "社会民生"
+    },
+    {
+      "rank": 49,
+      "title": "冬天剥个橙子手上都是阳光味",
+      "hot": 7637334,
+      "hotText": "",
+      "url": "https://www.douyin.com/search/%E5%86%AC%E5%A4%A9%E5%89%A5%E4%B8%AA%E6%A9%99%E5%AD%90%E6%89%8B%E4%B8%8A%E9%83%BD%E6%98%AF%E9%98%B3%E5%85%89%E5%91%B3",
+      "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/ooAeXA2XeERVKEQVH1FfBCA8gxzkJiQ87bDrBE~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=Jfd51QQiZ8yThYlc86jcO62r53E%3D&from=3218412987",
+      "source": "douyin",
+      "sourceName": "抖音",
+      "raw": {
+        "article_detail_count": 0,
+        "aweme_infos": null,
+        "can_extend_detail": false,
+        "discuss_video_count": 1,
+        "display_style": 0,
+        "drift_info": null,
+        "event_time": 1793865466,
+        "group_id": "7702365650227909937",
+        "hot_value": 7637334,
+        "hotlist_param": "{\"version\":1}",
+        "label": 3,
+        "position": 49,
+        "related_words": null,
+        "sentence_id": "2730898",
+        "sentence_tag": 9000,
+        "video_count": 3,
+        "word": "冬天剥个橙子手上都是阳光味",
+        "word_cover": {
+          "uri": "tos-cn-p-0015/ooAeXA2XeERVKEQVH1FfBCA8gxzkJiQ87bDrBE",
+          "url_list": [
+            "https://p26-sign.douyinpic.com/tos-cn-p-0015/ooAeXA2XeERVKEQVH1FfBCA8gxzkJiQ87bDrBE~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=Jfd51QQiZ8yThYlc86jcO62r53E%3D&from=3218412987",
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/ooAeXA2XeERVKEQVH1FfBCA8gxzkJiQ87bDrBE~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=t71N%2F9XH1Hm%2Flw3kBH79MJeff%2Fo%3D&from=3218412987",
+            "https://p11-sign.douyinpic.com/tos-cn-p-0015/ooAeXA2XeERVKEQVH1FfBCA8gxzkJiQ87bDrBE~noop.jpeg?lk3s=bfd515bb&x-expires=1793966400&x-signature=5kg5X%2FQfmAoU1LoAVnuZSRmTW1E%3D&from=3218412987"
+          ]
+        },
+        "word_sub_board": null,
+        "word_type": 1
+      },
+      "summary": "冬天剥橙子阳光味",
       "category": "生活"
     }
   ],
